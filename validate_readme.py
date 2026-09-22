@@ -1,6 +1,6 @@
 import pathlib, re
 
-p = pathlib.Path("README.new.md")
+p = pathlib.Path("README.md")
 text = p.read_text()
 lines = text.split("\n")
 problems = []

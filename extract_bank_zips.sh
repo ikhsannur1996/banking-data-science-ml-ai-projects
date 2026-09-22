@@ -9,6 +9,7 @@
 # Rules
 #   target folder = zip name without ".zip", without a trailing "_project"
 #                   bank_nlp_project.zip          -> bank_nlp/
+#                   08_nlp_project.zip            -> 08_nlp/
 #                   bank_survival_analysis_project.zip -> bank_survival_analysis/
 #   - if the target folder already holds every file from the zip -> SKIP + remove zip
 #   - if the target folder exists but is incomplete -> fill only the missing
