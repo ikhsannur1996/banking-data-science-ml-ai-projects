@@ -1,0 +1,1801 @@
+Customer_ID,Full_Name,Date_of_Birth,Phone,Email,Address,City
+C000001,Budi Siregar,2001-05-10,08719876990,customer000001@example.com,Jl. Gatot Subroto No. 132,Tangerang
+C000002,Nanda Nugroho,2005-11-16,08705925651,customer000002@example.com,Jl. Merdeka No. 98,Medan
+C000003,Iwan Ramadhan,1993-05-31,08579466383,customer000003@example.com,Jl. Gatot Subroto No. 56,Depok
+C000004,Budi Kurniawan,2006-03-28,08122301019,customer000004@example.com,Jl. Gatot Subroto No. 84,Makassar
+C000005,Eko Wijaya,2014-06-26,08449077622,customer000005@example.com,Jl. Sudirman No. 71,Semarang
+C000006,Karin Setiawan,1992-11-11,08757487197,customer000006@example.com,Jl. Diponegoro No. 137,Makassar
+C000007,Oscar Siregar,1998-02-17,08831067250,customer000007@example.com,Jl. Gatot Subroto No. 39,Semarang
+C000008,Oscar Siregar,2008-02-26,08603609602,customer000008@example.com,Jl. Gatot Subroto No. 106,Bogor
+C000009,Karin Wijaya,2006-01-26,08738602562,customer000009@example.com,Jl. Merdeka No. 185,Tangerang
+C000010,Rina Nugroho,2007-08-22,08119570078,customer000010@example.com,Jl. Sudirman No. 124,Tangerang
+C000011,Karin Hidayat,2004-06-26,08521564787,customer000011@example.com,Jl. Ahmad Yani No. 3,Tangerang
+C000012,Dewi Setiawan,2007-11-08,08556952567,customer000012@example.com,Jl. Sudirman No. 137,Medan
+C000013,Putri Lestari,2005-11-06,08903235902,customer000013@example.com,Jl. Sudirman No. 2,Bogor
+C000014,Iwan Siregar,1991-03-12,08379946591,customer000014@example.com,Jl. Merdeka No. 165,Surabaya
+C000015,Karin Nugroho,2009-09-25,08306953215,customer000015@example.com,Jl. Merdeka No. 20,Makassar
+C000016,Joko Pratama,2001-05-26,08417140929,customer000016@example.com,Jl. Diponegoro No. 24,Jakarta
+C000017,Budi Permata,1990-07-29,08253352357,customer000017@example.com,Jl. Ahmad Yani No. 109,Surabaya
+C000018,Sari Santoso,2000-05-13,08602581743,customer000018@example.com,Jl. Ahmad Yani No. 98,Makassar
+C000019,Sari Siregar,2001-01-29,08821007875,customer000019@example.com,Jl. Ahmad Yani No. 129,Medan
+C000020,Fajar Lestari,1991-07-17,08974794907,customer000020@example.com,Jl. Diponegoro No. 4,Bogor
+C000021,Dewi Siregar,2016-06-08,08166244835,customer000021@example.com,Jl. Sudirman No. 27,Depok
+C000022,Oscar Hidayat,1995-04-03,08322530915,customer000022@example.com,Jl. Merdeka No. 55,Medan
+C000023,Budi Setiawan,1998-03-21,08370641095,customer000023@example.com,Jl. Sudirman No. 16,Medan
+C000024,Iwan Ramadhan,2001-03-28,08324703340,customer000024@example.com,Jl. Sudirman No. 101,Depok
+C000025,Nanda Siregar,2011-12-17,08844553885,customer000025@example.com,Jl. Merdeka No. 55,Tangerang
+C000026,Putri Pratama,2009-07-04,08225548962,customer000026@example.com,Jl. Merdeka No. 11,Surabaya
+C000027,Hana Nugroho,2010-04-10,08126764607,customer000027@example.com,Jl. Merdeka No. 91,Makassar
+C000028,Joko Santoso,1995-08-28,08874507198,customer000028@example.com,Jl. Ahmad Yani No. 157,Makassar
+C000029,Karin Wijaya,2012-04-24,08965366522,customer000029@example.com,Jl. Ahmad Yani No. 123,Jakarta
+C000030,Oscar Kurniawan,2011-11-19,08303757785,customer000030@example.com,Jl. Gatot Subroto No. 51,Bogor
+C000031,Tono Kurniawan,2001-11-12,08399569869,customer000031@example.com,Jl. Ahmad Yani No. 187,Makassar
+C000032,Hana Setiawan,2004-02-09,08552860673,customer000032@example.com,Jl. Diponegoro No. 168,Surabaya
+C000033,Iwan Saputra,1990-03-08,08573353621,customer000033@example.com,Jl. Merdeka No. 175,Depok
+C000034,Tono Hidayat,2009-12-26,08463738169,customer000034@example.com,Jl. Diponegoro No. 45,Depok
+C000035,Budi Nugroho,2015-06-23,08110926810,customer000035@example.com,Jl. Merdeka No. 144,Bogor
+C000036,Putri Pratama,2002-02-07,08600837480,customer000036@example.com,Jl. Diponegoro No. 62,Jakarta
+C000037,Joko Wijaya,2003-12-19,08565200810,customer000037@example.com,Jl. Sudirman No. 198,Medan
+C000038,Nanda Nugroho,2002-10-31,08561060137,customer000038@example.com,Jl. Diponegoro No. 16,Bandung
+C000039,Gita Pratama,1991-06-06,08930354950,customer000039@example.com,Jl. Sudirman No. 29,Makassar
+C000040,Lina Kurniawan,2006-02-18,08826702637,customer000040@example.com,Jl. Ahmad Yani No. 160,Makassar
+C000041,Tono Nugroho,2008-12-01,08326536868,customer000041@example.com,Jl. Gatot Subroto No. 126,Medan
+C000042,Dewi Siregar,2014-07-28,08419753385,customer000042@example.com,Jl. Ahmad Yani No. 84,Bogor
+C000043,Maya Kurniawan,2014-08-15,08700824039,customer000043@example.com,Jl. Ahmad Yani No. 22,Makassar
+C000044,Budi Saputra,2002-08-19,08469307222,customer000044@example.com,Jl. Diponegoro No. 111,Medan
+C000045,Putri Siregar,2015-06-03,08485561923,customer000045@example.com,Jl. Merdeka No. 110,Jakarta
+C000046,Iwan Siregar,2003-08-22,08251144182,customer000046@example.com,Jl. Ahmad Yani No. 74,Surabaya
+C000047,Rina Hidayat,2006-09-29,08328931662,customer000047@example.com,Jl. Diponegoro No. 57,Bekasi
+C000048,Sari Saputra,2005-08-24,08766733707,customer000048@example.com,Jl. Sudirman No. 26,Medan
+C000049,Eko Kurniawan,2016-07-04,08858638008,customer000049@example.com,Jl. Sudirman No. 160,Bogor
+C000050,Maya Wijaya,2009-05-11,08806238017,customer000050@example.com,Jl. Gatot Subroto No. 127,Makassar
+C000051,Rina Pratama,1992-06-14,08377050108,customer000051@example.com,Jl. Ahmad Yani No. 123,Makassar
+C000052,Rina Santoso,1991-02-18,08222996988,customer000052@example.com,Jl. Diponegoro No. 85,Medan
+C000053,Putri Siregar,2000-05-21,08243725200,customer000053@example.com,Jl. Ahmad Yani No. 157,Makassar
+C000054,Putri Lestari,2003-04-14,08454111366,customer000054@example.com,Jl. Diponegoro No. 113,Jakarta
+C000055,Joko Kurniawan,2007-06-22,08565979833,customer000055@example.com,Jl. Diponegoro No. 57,Jakarta
+C000056,Fajar Siregar,2002-05-08,08903614494,customer000056@example.com,Jl. Sudirman No. 16,Medan
+C000057,Lina Nugroho,2003-04-04,08736804247,customer000057@example.com,Jl. Diponegoro No. 142,Makassar
+C000058,Karin Permata,2014-05-26,08278021887,customer000058@example.com,Jl. Ahmad Yani No. 197,Makassar
+C000059,Andi Wijaya,1998-05-02,08599538055,customer000059@example.com,Jl. Merdeka No. 152,Medan
+C000060,Eko Wijaya,2002-09-05,08130521864,customer000060@example.com,Jl. Ahmad Yani No. 87,Surabaya
+C000061,Iwan Kurniawan,2004-06-04,08400684473,customer000061@example.com,Jl. Sudirman No. 72,Tangerang
+C000062,Nanda Nugroho,2001-12-27,08597001309,customer000062@example.com,Jl. Ahmad Yani No. 172,Depok
+C000063,Sari Permata,2015-09-03,08344840669,customer000063@example.com,Jl. Ahmad Yani No. 103,Jakarta
+C000064,Budi Siregar,2015-07-05,08634053031,customer000064@example.com,Jl. Ahmad Yani No. 15,Medan
+C000065,Lina Lestari,2003-03-20,08514033735,customer000065@example.com,Jl. Ahmad Yani No. 9,Tangerang
+C000066,Lina Permata,2001-07-02,08819466681,customer000066@example.com,Jl. Gatot Subroto No. 177,Tangerang
+C000067,Budi Permata,2005-04-16,08263370796,customer000067@example.com,Jl. Diponegoro No. 75,Surabaya
+C000068,Putri Saputra,1994-02-12,08576662716,customer000068@example.com,Jl. Ahmad Yani No. 127,Bogor
+C000069,Maya Santoso,2000-10-29,08331205390,customer000069@example.com,Jl. Ahmad Yani No. 103,Depok
+C000070,Gita Nugroho,1995-02-08,08736026328,customer000070@example.com,Jl. Sudirman No. 15,Medan
+C000071,Vina Pratama,1993-02-09,08183957440,customer000071@example.com,Jl. Sudirman No. 106,Depok
+C000072,Fajar Hidayat,1991-10-09,08617765456,customer000072@example.com,Jl. Diponegoro No. 101,Bekasi
+C000073,Vina Ramadhan,2005-03-28,08990850547,customer000073@example.com,Jl. Sudirman No. 187,Surabaya
+C000074,Andi Pratama,1989-03-07,08183798397,customer000074@example.com,Jl. Sudirman No. 169,Bandung
+C000075,Rina Santoso,2006-11-09,08371637609,customer000075@example.com,Jl. Sudirman No. 89,Medan
+C000076,Sari Saputra,2000-12-28,08859967751,customer000076@example.com,Jl. Ahmad Yani No. 53,Jakarta
+C000077,Tono Saputra,1999-03-14,08580208162,customer000077@example.com,Jl. Sudirman No. 76,Bekasi
+C000078,Iwan Lestari,2010-03-24,08257480053,customer000078@example.com,Jl. Gatot Subroto No. 29,Bogor
+C000079,Citra Permata,2003-12-01,08291816872,customer000079@example.com,Jl. Diponegoro No. 134,Depok
+C000080,Karin Siregar,2009-03-31,08788330799,customer000080@example.com,Jl. Ahmad Yani No. 87,Bogor
+C000081,Vina Lestari,2008-08-03,08874805547,customer000081@example.com,Jl. Merdeka No. 4,Jakarta
+C000082,Iwan Hidayat,1990-01-17,08526449556,customer000082@example.com,Jl. Diponegoro No. 162,Depok
+C000083,Iwan Siregar,1995-01-24,08804485212,customer000083@example.com,Jl. Merdeka No. 177,Medan
+C000084,Gita Pratama,2004-10-08,08285645612,customer000084@example.com,Jl. Ahmad Yani No. 2,Surabaya
+C000085,Gita Santoso,2015-11-16,08267995892,customer000085@example.com,Jl. Sudirman No. 44,Semarang
+C000086,Citra Wijaya,1993-05-22,08793730489,customer000086@example.com,Jl. Gatot Subroto No. 111,Makassar
+C000087,Putri Kurniawan,1992-01-21,08547323260,customer000087@example.com,Jl. Sudirman No. 56,Depok
+C000088,Nanda Nugroho,2014-12-06,08129642412,customer000088@example.com,Jl. Diponegoro No. 2,Bandung
+C000089,Oscar Wijaya,2015-08-21,08302767604,customer000089@example.com,Jl. Sudirman No. 33,Depok
+C000090,Tono Permata,1993-09-30,08131572597,customer000090@example.com,Jl. Ahmad Yani No. 134,Bogor
+C000091,Tono Wijaya,2000-03-01,08751611026,customer000091@example.com,Jl. Diponegoro No. 28,Jakarta
+C000092,Joko Kurniawan,2006-04-28,08579275434,customer000092@example.com,Jl. Sudirman No. 168,Bekasi
+C000093,Joko Nugroho,1994-07-06,08853645129,customer000093@example.com,Jl. Sudirman No. 33,Depok
+C000094,Dewi Hidayat,1998-02-05,08197518335,customer000094@example.com,Jl. Merdeka No. 163,Semarang
+C000095,Eko Saputra,1999-12-27,08172706827,customer000095@example.com,Jl. Merdeka No. 116,Tangerang
+C000096,Nanda Lestari,2006-09-24,08610524220,customer000096@example.com,Jl. Gatot Subroto No. 128,Depok
+C000097,Maya Hidayat,1997-08-07,08893869937,customer000097@example.com,Jl. Diponegoro No. 42,Tangerang
+C000098,Vina Wijaya,2000-06-14,08817765482,customer000098@example.com,Jl. Merdeka No. 31,Jakarta
+C000099,Gita Wijaya,1997-02-03,08915588867,customer000099@example.com,Jl. Gatot Subroto No. 29,Jakarta
+C000100,Gita Setiawan,2009-12-18,08557801716,customer000100@example.com,Jl. Merdeka No. 163,Depok
+C000101,Hana Ramadhan,1993-05-10,08728585698,customer000101@example.com,Jl. Diponegoro No. 72,Semarang
+C000102,Joko Kurniawan,1995-06-25,08573099523,customer000102@example.com,Jl. Ahmad Yani No. 105,Surabaya
+C000103,Joko Saputra,1996-01-04,08706737759,customer000103@example.com,Jl. Gatot Subroto No. 94,Medan
+C000104,Putri Setiawan,2013-12-18,08572583909,customer000104@example.com,Jl. Ahmad Yani No. 175,Tangerang
+C000105,Fajar Siregar,2015-01-09,08493127438,customer000105@example.com,Jl. Diponegoro No. 57,Bandung
+C000106,Fajar Kurniawan,2002-11-11,08687508501,customer000106@example.com,Jl. Gatot Subroto No. 46,Bogor
+C000107,Putri Nugroho,1993-06-13,08651905715,customer000107@example.com,Jl. Merdeka No. 116,Medan
+C000108,Oscar Saputra,2009-11-12,08628730761,customer000108@example.com,Jl. Gatot Subroto No. 18,Bandung
+C000109,Budi Wijaya,2002-08-21,08384188029,customer000109@example.com,Jl. Gatot Subroto No. 166,Jakarta
+C000110,Iwan Ramadhan,2012-06-06,08124131858,customer000110@example.com,Jl. Gatot Subroto No. 84,Bekasi
+C000111,Citra Nugroho,1999-01-08,08632171875,customer000111@example.com,Jl. Sudirman No. 102,Bandung
+C000112,Oscar Pratama,2016-07-06,08950324653,customer000112@example.com,Jl. Merdeka No. 168,Medan
+C000113,Oscar Saputra,2011-04-06,08500738918,customer000113@example.com,Jl. Ahmad Yani No. 97,Depok
+C000114,Rina Permata,1995-04-19,08179794485,customer000114@example.com,Jl. Diponegoro No. 142,Makassar
+C000115,Karin Pratama,2009-01-11,08707810022,customer000115@example.com,Jl. Diponegoro No. 168,Surabaya
+C000116,Joko Ramadhan,1997-01-07,08149923958,customer000116@example.com,Jl. Gatot Subroto No. 190,Bandung
+C000117,Andi Siregar,1998-09-28,08857008057,customer000117@example.com,Jl. Ahmad Yani No. 148,Tangerang
+C000118,Joko Kurniawan,1996-01-09,08834765193,customer000118@example.com,Jl. Sudirman No. 8,Medan
+C000119,Nanda Nugroho,2007-11-05,08355853568,customer000119@example.com,Jl. Diponegoro No. 174,Jakarta
+C000120,Gita Lestari,1996-05-12,08245604211,customer000120@example.com,Jl. Merdeka No. 109,Bandung
+C000121,Citra Lestari,2006-08-27,08369581371,customer000121@example.com,Jl. Merdeka No. 86,Makassar
+C000122,Budi Lestari,2005-02-10,08819561344,customer000122@example.com,Jl. Merdeka No. 147,Bandung
+C000123,Maya Wijaya,2009-09-20,08898680607,customer000123@example.com,Jl. Gatot Subroto No. 151,Semarang
+C000124,Putri Hidayat,2016-05-14,08297421840,customer000124@example.com,Jl. Ahmad Yani No. 47,Bandung
+C000125,Putri Santoso,1989-05-29,08778681503,customer000125@example.com,Jl. Diponegoro No. 21,Tangerang
+C000126,Dewi Nugroho,2016-04-11,08642051663,customer000126@example.com,Jl. Sudirman No. 101,Depok
+C000127,Dewi Saputra,1992-02-28,08419252788,customer000127@example.com,Jl. Ahmad Yani No. 20,Tangerang
+C000128,Nanda Wijaya,2003-08-03,08690433655,customer000128@example.com,Jl. Gatot Subroto No. 92,Jakarta
+C000129,Nanda Wijaya,1998-07-01,08683737111,customer000129@example.com,Jl. Gatot Subroto No. 105,Semarang
+C000130,Dewi Lestari,2006-08-30,08599248900,customer000130@example.com,Jl. Diponegoro No. 138,Surabaya
+C000131,Putri Pratama,2008-12-04,08562643375,customer000131@example.com,Jl. Gatot Subroto No. 32,Depok
+C000132,Fajar Setiawan,2012-09-16,08191344047,customer000132@example.com,Jl. Diponegoro No. 6,Bekasi
+C000133,Vina Permata,2000-03-03,08333768026,customer000133@example.com,Jl. Diponegoro No. 162,Surabaya
+C000134,Iwan Hidayat,2014-09-16,08574927523,customer000134@example.com,Jl. Gatot Subroto No. 57,Tangerang
+C000135,Maya Lestari,1997-12-29,08221699225,customer000135@example.com,Jl. Sudirman No. 110,Makassar
+C000136,Fajar Santoso,1994-09-30,08528254808,customer000136@example.com,Jl. Sudirman No. 36,Bekasi
+C000137,Dewi Setiawan,1999-07-19,08205252509,customer000137@example.com,Jl. Sudirman No. 81,Jakarta
+C000138,Iwan Nugroho,2003-08-21,08192990571,customer000138@example.com,Jl. Diponegoro No. 184,Bogor
+C000139,Joko Siregar,2007-06-17,08183285089,customer000139@example.com,Jl. Diponegoro No. 78,Medan
+C000140,Budi Santoso,2011-12-20,08674011035,customer000140@example.com,Jl. Ahmad Yani No. 154,Surabaya
+C000141,Fajar Nugroho,1995-04-28,08298478881,customer000141@example.com,Jl. Diponegoro No. 98,Bandung
+C000142,Nanda Nugroho,1997-06-20,08416269765,customer000142@example.com,Jl. Sudirman No. 173,Bogor
+C000143,Iwan Setiawan,2014-11-12,08382833354,customer000143@example.com,Jl. Gatot Subroto No. 35,Bekasi
+C000144,Dewi Permata,2001-03-17,08785603737,customer000144@example.com,Jl. Sudirman No. 55,Bandung
+C000145,Karin Nugroho,1995-10-12,08722696582,customer000145@example.com,Jl. Gatot Subroto No. 13,Medan
+C000146,Rina Saputra,2016-02-25,08314898977,customer000146@example.com,Jl. Sudirman No. 63,Tangerang
+C000147,Vina Saputra,2001-06-16,08718164608,customer000147@example.com,Jl. Diponegoro No. 50,Makassar
+C000148,Karin Permata,2016-02-19,08742124876,customer000148@example.com,Jl. Diponegoro No. 149,Bandung
+C000149,Rina Nugroho,2014-05-03,08585251462,customer000149@example.com,Jl. Gatot Subroto No. 20,Semarang
+C000150,Fajar Santoso,2013-12-22,08620548195,customer000150@example.com,Jl. Merdeka No. 19,Semarang
+C000151,Hana Siregar,2005-02-04,08508491514,customer000151@example.com,Jl. Gatot Subroto No. 130,Surabaya
+C000152,Andi Ramadhan,2011-01-10,08446872807,customer000152@example.com,Jl. Diponegoro No. 158,Bogor
+C000153,Karin Wijaya,2015-06-19,08585100938,customer000153@example.com,Jl. Diponegoro No. 47,Surabaya
+C000154,Gita Permata,1996-07-14,08852276673,customer000154@example.com,Jl. Diponegoro No. 140,Tangerang
+C000155,Gita Wijaya,1990-03-14,08738627945,customer000155@example.com,Jl. Merdeka No. 121,Bogor
+C000156,Nanda Kurniawan,1997-12-13,08167625466,customer000156@example.com,Jl. Diponegoro No. 14,Tangerang
+C000157,Citra Saputra,2006-08-08,08513349831,customer000157@example.com,Jl. Sudirman No. 90,Tangerang
+C000158,Eko Lestari,2004-02-24,08765847983,customer000158@example.com,Jl. Sudirman No. 58,Bandung
+C000159,Oscar Kurniawan,1991-05-16,08301525812,customer000159@example.com,Jl. Ahmad Yani No. 81,Bandung
+C000160,Tono Siregar,2004-07-08,08989602671,customer000160@example.com,Jl. Diponegoro No. 159,Tangerang
+C000161,Gita Wijaya,1993-12-09,08827297325,customer000161@example.com,Jl. Merdeka No. 72,Tangerang
+C000162,Maya Ramadhan,2003-01-03,08861938393,customer000162@example.com,Jl. Merdeka No. 185,Tangerang
+C000163,Vina Pratama,2004-12-05,08173552452,customer000163@example.com,Jl. Merdeka No. 164,Medan
+C000164,Eko Santoso,2006-08-06,08621698246,customer000164@example.com,Jl. Merdeka No. 65,Makassar
+C000165,Citra Permata,2000-06-17,08575008790,customer000165@example.com,Jl. Ahmad Yani No. 166,Jakarta
+C000166,Karin Hidayat,2000-05-06,08865235573,customer000166@example.com,Jl. Merdeka No. 43,Surabaya
+C000167,Gita Siregar,2007-09-29,08417960593,customer000167@example.com,Jl. Gatot Subroto No. 65,Makassar
+C000168,Joko Siregar,2009-09-04,08580580926,customer000168@example.com,Jl. Sudirman No. 148,Bandung
+C000169,Vina Saputra,2011-04-13,08711536695,customer000169@example.com,Jl. Merdeka No. 173,Bandung
+C000170,Eko Setiawan,1998-04-19,08777869396,customer000170@example.com,Jl. Gatot Subroto No. 171,Jakarta
+C000171,Maya Saputra,2000-10-10,08793355843,customer000171@example.com,Jl. Sudirman No. 23,Surabaya
+C000172,Maya Permata,1998-03-21,08403242659,customer000172@example.com,Jl. Diponegoro No. 67,Bogor
+C000173,Tono Saputra,2003-08-11,08998405631,customer000173@example.com,Jl. Gatot Subroto No. 126,Depok
+C000174,Vina Setiawan,1992-08-25,08108659912,customer000174@example.com,Jl. Gatot Subroto No. 150,Bogor
+C000175,Dewi Wijaya,2000-12-09,08543216624,customer000175@example.com,Jl. Ahmad Yani No. 23,Surabaya
+C000176,Karin Santoso,1994-05-02,08506045038,customer000176@example.com,Jl. Merdeka No. 10,Makassar
+C000177,Fajar Nugroho,2003-09-29,08636272154,customer000177@example.com,Jl. Diponegoro No. 41,Bekasi
+C000178,Vina Setiawan,2012-06-14,08207121734,customer000178@example.com,Jl. Gatot Subroto No. 27,Semarang
+C000179,Dewi Ramadhan,2016-02-22,08349757736,customer000179@example.com,Jl. Gatot Subroto No. 133,Depok
+C000180,Budi Kurniawan,2001-05-20,08320288538,customer000180@example.com,Jl. Merdeka No. 12,Depok
+C000181,Rina Ramadhan,1990-09-16,08675929956,customer000181@example.com,Jl. Sudirman No. 68,Bekasi
+C000182,Eko Ramadhan,1995-05-28,08395901919,customer000182@example.com,Jl. Sudirman No. 106,Bogor
+C000183,Citra Permata,1992-01-14,08757926884,customer000183@example.com,Jl. Merdeka No. 26,Depok
+C000184,Joko Saputra,2009-12-15,08817548997,customer000184@example.com,Jl. Ahmad Yani No. 198,Makassar
+C000185,Andi Siregar,2016-02-15,08913177721,customer000185@example.com,Jl. Sudirman No. 186,Bekasi
+C000186,Gita Lestari,2004-05-01,08249177651,customer000186@example.com,Jl. Sudirman No. 67,Depok
+C000187,Iwan Hidayat,1994-01-03,08119689936,customer000187@example.com,Jl. Merdeka No. 85,Semarang
+C000188,Sari Wijaya,1989-09-29,08140467818,customer000188@example.com,Jl. Diponegoro No. 133,Depok
+C000189,Oscar Kurniawan,2015-11-21,08280935817,customer000189@example.com,Jl. Merdeka No. 38,Makassar
+C000190,Hana Saputra,1997-10-29,08885915941,customer000190@example.com,Jl. Diponegoro No. 14,Surabaya
+C000191,Andi Setiawan,1992-03-26,08287094469,customer000191@example.com,Jl. Merdeka No. 126,Makassar
+C000192,Tono Pratama,1994-01-05,08724154881,customer000192@example.com,Jl. Gatot Subroto No. 115,Depok
+C000193,Andi Wijaya,1996-02-26,08135951818,customer000193@example.com,Jl. Merdeka No. 198,Bogor
+C000194,Budi Siregar,2007-02-14,08499725082,customer000194@example.com,Jl. Diponegoro No. 143,Makassar
+C000195,Sari Wijaya,2013-07-31,08125463074,customer000195@example.com,Jl. Merdeka No. 116,Bandung
+C000196,Oscar Pratama,1996-09-11,08528556810,customer000196@example.com,Jl. Merdeka No. 125,Bogor
+C000197,Hana Lestari,2007-12-25,08602806866,customer000197@example.com,Jl. Sudirman No. 181,Makassar
+C000198,Oscar Ramadhan,1990-12-11,08354280960,customer000198@example.com,Jl. Merdeka No. 130,Surabaya
+C000199,Andi Pratama,1989-06-11,08789912996,customer000199@example.com,Jl. Merdeka No. 137,Tangerang
+C000200,Fajar Saputra,1990-09-02,08637053714,customer000200@example.com,Jl. Diponegoro No. 193,Semarang
+C000201,Vina Siregar,2014-06-10,08329306549,customer000201@example.com,Jl. Ahmad Yani No. 75,Semarang
+C000202,Gita Setiawan,2005-02-03,08491143757,customer000202@example.com,Jl. Merdeka No. 119,Bekasi
+C000203,Joko Permata,2011-03-18,08197655505,customer000203@example.com,Jl. Diponegoro No. 11,Bekasi
+C000204,Iwan Wijaya,1989-10-05,08707426496,customer000204@example.com,Jl. Diponegoro No. 42,Makassar
+C000205,Tono Santoso,1989-10-10,08711230830,customer000205@example.com,Jl. Sudirman No. 2,Semarang
+C000206,Dewi Pratama,2012-05-27,08648708978,customer000206@example.com,Jl. Sudirman No. 44,Bekasi
+C000207,Fajar Wijaya,1991-12-23,08148648880,customer000207@example.com,Jl. Merdeka No. 87,Bandung
+C000208,Andi Kurniawan,1993-06-02,08890672153,customer000208@example.com,Jl. Sudirman No. 27,Tangerang
+C000209,Vina Wijaya,2003-05-17,08960274479,customer000209@example.com,Jl. Diponegoro No. 13,Makassar
+C000210,Fajar Permata,2005-10-09,08976728064,customer000210@example.com,Jl. Gatot Subroto No. 94,Bekasi
+C000211,Tono Kurniawan,1995-06-07,08982681719,customer000211@example.com,Jl. Gatot Subroto No. 176,Medan
+C000212,Putri Permata,2001-05-04,08935941608,customer000212@example.com,Jl. Gatot Subroto No. 109,Bekasi
+C000213,Iwan Pratama,2007-08-23,08765167165,customer000213@example.com,Jl. Diponegoro No. 144,Jakarta
+C000214,Sari Siregar,2001-04-16,08518691223,customer000214@example.com,Jl. Merdeka No. 168,Tangerang
+C000215,Andi Kurniawan,1999-08-23,08320633314,customer000215@example.com,Jl. Sudirman No. 2,Jakarta
+C000216,Budi Kurniawan,1991-02-17,08847555438,customer000216@example.com,Jl. Sudirman No. 49,Depok
+C000217,Rina Wijaya,2001-07-15,08831264705,customer000217@example.com,Jl. Merdeka No. 134,Bandung
+C000218,Iwan Wijaya,2011-02-22,08569861100,customer000218@example.com,Jl. Merdeka No. 169,Bogor
+C000219,Lina Setiawan,2006-04-29,08762718686,customer000219@example.com,Jl. Diponegoro No. 143,Tangerang
+C000220,Budi Hidayat,2013-08-13,08216429802,customer000220@example.com,Jl. Sudirman No. 27,Bandung
+C000221,Vina Saputra,1992-08-14,08299758635,customer000221@example.com,Jl. Merdeka No. 129,Bekasi
+C000222,Citra Nugroho,1989-06-20,08874428650,customer000222@example.com,Jl. Ahmad Yani No. 54,Surabaya
+C000223,Karin Lestari,2004-03-04,08516519043,customer000223@example.com,Jl. Sudirman No. 189,Makassar
+C000224,Gita Setiawan,1994-01-21,08281943492,customer000224@example.com,Jl. Gatot Subroto No. 83,Jakarta
+C000225,Karin Saputra,2005-06-05,08782472221,customer000225@example.com,Jl. Sudirman No. 60,Bandung
+C000226,Vina Setiawan,2013-11-30,08678850788,customer000226@example.com,Jl. Diponegoro No. 113,Surabaya
+C000227,Joko Santoso,1998-05-25,08957928216,customer000227@example.com,Jl. Merdeka No. 14,Makassar
+C000228,Lina Permata,2004-03-17,08684844679,customer000228@example.com,Jl. Diponegoro No. 159,Makassar
+C000229,Citra Lestari,2007-10-30,08544844145,customer000229@example.com,Jl. Merdeka No. 82,Bekasi
+C000230,Rina Wijaya,1993-04-10,08570526566,customer000230@example.com,Jl. Merdeka No. 49,Bandung
+C000231,Oscar Wijaya,2013-09-25,08434540133,customer000231@example.com,Jl. Ahmad Yani No. 57,Tangerang
+C000232,Oscar Nugroho,1994-09-19,08650142981,customer000232@example.com,Jl. Sudirman No. 199,Jakarta
+C000233,Andi Setiawan,2011-04-18,08141096056,customer000233@example.com,Jl. Merdeka No. 38,Surabaya
+C000234,Dewi Lestari,2007-03-27,08808247021,customer000234@example.com,Jl. Gatot Subroto No. 110,Bandung
+C000235,Dewi Setiawan,1993-01-09,08442649744,customer000235@example.com,Jl. Merdeka No. 85,Bandung
+C000236,Oscar Siregar,2009-01-04,08589508709,customer000236@example.com,Jl. Diponegoro No. 51,Makassar
+C000237,Iwan Nugroho,1994-07-18,08494414520,customer000237@example.com,Jl. Diponegoro No. 130,Bogor
+C000238,Maya Siregar,2005-07-30,08782774570,customer000238@example.com,Jl. Sudirman No. 162,Depok
+C000239,Rina Santoso,2015-06-10,08782590929,customer000239@example.com,Jl. Diponegoro No. 192,Bekasi
+C000240,Nanda Wijaya,2015-04-06,08288484552,customer000240@example.com,Jl. Merdeka No. 65,Makassar
+C000241,Fajar Siregar,2013-01-07,08629039735,customer000241@example.com,Jl. Ahmad Yani No. 179,Jakarta
+C000242,Fajar Siregar,2002-09-10,08897380523,customer000242@example.com,Jl. Sudirman No. 196,Semarang
+C000243,Joko Pratama,2004-06-26,08309297713,customer000243@example.com,Jl. Merdeka No. 83,Bekasi
+C000244,Gita Permata,1997-05-21,08628649239,customer000244@example.com,Jl. Sudirman No. 85,Jakarta
+C000245,Putri Lestari,2014-05-19,08157787966,customer000245@example.com,Jl. Gatot Subroto No. 146,Jakarta
+C000246,Tono Ramadhan,2002-03-26,08167883817,customer000246@example.com,Jl. Ahmad Yani No. 51,Bekasi
+C000247,Putri Lestari,2010-04-17,08790756673,customer000247@example.com,Jl. Gatot Subroto No. 87,Jakarta
+C000248,Fajar Hidayat,1999-01-05,08747063084,customer000248@example.com,Jl. Ahmad Yani No. 139,Bogor
+C000249,Citra Hidayat,2009-06-09,08438822490,customer000249@example.com,Jl. Ahmad Yani No. 120,Tangerang
+C000250,Tono Nugroho,1995-04-24,08660679497,customer000250@example.com,Jl. Diponegoro No. 129,Depok
+C000251,Citra Lestari,2009-04-03,08442212024,customer000251@example.com,Jl. Gatot Subroto No. 78,Makassar
+C000252,Vina Ramadhan,1990-06-04,08349520934,customer000252@example.com,Jl. Diponegoro No. 36,Jakarta
+C000253,Fajar Nugroho,1992-01-14,08488186452,customer000253@example.com,Jl. Sudirman No. 154,Medan
+C000254,Karin Pratama,1998-10-23,08380672634,customer000254@example.com,Jl. Ahmad Yani No. 43,Bekasi
+C000255,Fajar Pratama,2002-05-13,08833540340,customer000255@example.com,Jl. Diponegoro No. 162,Bogor
+C000256,Vina Kurniawan,2008-08-23,08470503021,customer000256@example.com,Jl. Merdeka No. 13,Medan
+C000257,Rina Siregar,1998-12-30,08388753205,customer000257@example.com,Jl. Sudirman No. 131,Bekasi
+C000258,Vina Wijaya,1989-09-02,08782232589,customer000258@example.com,Jl. Sudirman No. 164,Tangerang
+C000259,Sari Santoso,1998-01-27,08346299179,customer000259@example.com,Jl. Gatot Subroto No. 106,Jakarta
+C000260,Joko Lestari,2001-03-10,08945590355,customer000260@example.com,Jl. Sudirman No. 9,Depok
+C000261,Hana Wijaya,2004-01-20,08694781375,customer000261@example.com,Jl. Gatot Subroto No. 179,Depok
+C000262,Dewi Siregar,2006-10-19,08961518071,customer000262@example.com,Jl. Diponegoro No. 103,Makassar
+C000263,Gita Saputra,1995-12-12,08488512972,customer000263@example.com,Jl. Ahmad Yani No. 139,Tangerang
+C000264,Tono Wijaya,2005-11-17,08105958534,customer000264@example.com,Jl. Merdeka No. 134,Bekasi
+C000265,Tono Setiawan,2006-06-16,08512107632,customer000265@example.com,Jl. Gatot Subroto No. 150,Makassar
+C000266,Lina Wijaya,2010-06-06,08981991788,customer000266@example.com,Jl. Diponegoro No. 105,Semarang
+C000267,Dewi Saputra,2003-06-17,08472984543,customer000267@example.com,Jl. Sudirman No. 132,Bogor
+C000268,Lina Wijaya,2011-05-11,08715683984,customer000268@example.com,Jl. Sudirman No. 69,Bogor
+C000269,Joko Wijaya,1995-03-27,08572754846,customer000269@example.com,Jl. Sudirman No. 67,Depok
+C000270,Karin Santoso,2008-08-26,08293211329,customer000270@example.com,Jl. Sudirman No. 17,Depok
+C000271,Oscar Santoso,1990-06-03,08385950100,customer000271@example.com,Jl. Ahmad Yani No. 88,Bandung
+C000272,Dewi Pratama,1991-12-24,08571178995,customer000272@example.com,Jl. Gatot Subroto No. 36,Medan
+C000273,Rina Santoso,2012-11-03,08193825194,customer000273@example.com,Jl. Ahmad Yani No. 36,Bandung
+C000274,Iwan Lestari,2002-03-04,08473366804,customer000274@example.com,Jl. Diponegoro No. 98,Makassar
+C000275,Karin Kurniawan,2006-03-01,08851420221,customer000275@example.com,Jl. Diponegoro No. 131,Bekasi
+C000276,Rina Hidayat,2005-09-08,08211471192,customer000276@example.com,Jl. Gatot Subroto No. 64,Surabaya
+C000277,Rina Saputra,2008-03-10,08469397325,customer000277@example.com,Jl. Gatot Subroto No. 37,Bogor
+C000278,Vina Permata,1995-11-21,08686215651,customer000278@example.com,Jl. Sudirman No. 62,Bandung
+C000279,Oscar Ramadhan,1994-01-17,08601240348,customer000279@example.com,Jl. Gatot Subroto No. 24,Jakarta
+C000280,Putri Ramadhan,1990-05-01,08369804890,customer000280@example.com,Jl. Sudirman No. 85,Bogor
+C000281,Karin Santoso,2012-11-03,08302018082,customer000281@example.com,Jl. Gatot Subroto No. 97,Bandung
+C000282,Joko Pratama,1995-04-15,08132600097,customer000282@example.com,Jl. Gatot Subroto No. 148,Tangerang
+C000283,Sari Pratama,2004-11-29,08775111720,customer000283@example.com,Jl. Ahmad Yani No. 150,Tangerang
+C000284,Eko Pratama,2001-08-14,08511961667,customer000284@example.com,Jl. Merdeka No. 90,Semarang
+C000285,Maya Permata,1993-08-11,08115156873,customer000285@example.com,Jl. Diponegoro No. 42,Jakarta
+C000286,Tono Hidayat,2000-07-01,08118235015,customer000286@example.com,Jl. Merdeka No. 28,Semarang
+C000287,Fajar Santoso,1991-06-12,08929962106,customer000287@example.com,Jl. Ahmad Yani No. 131,Jakarta
+C000288,Andi Hidayat,1994-01-01,08206636726,customer000288@example.com,Jl. Sudirman No. 147,Depok
+C000289,Tono Permata,1992-12-27,08892731977,customer000289@example.com,Jl. Ahmad Yani No. 163,Bekasi
+C000290,Sari Wijaya,2011-09-27,08295114730,customer000290@example.com,Jl. Gatot Subroto No. 176,Bogor
+C000291,Budi Ramadhan,2004-09-13,08207461720,customer000291@example.com,Jl. Merdeka No. 154,Bekasi
+C000292,Citra Santoso,2014-07-05,08347113218,customer000292@example.com,Jl. Sudirman No. 81,Tangerang
+C000293,Iwan Setiawan,2001-02-06,08229726848,customer000293@example.com,Jl. Ahmad Yani No. 120,Bekasi
+C000294,Nanda Wijaya,1994-09-05,08461175701,customer000294@example.com,Jl. Diponegoro No. 199,Tangerang
+C000295,Rina Ramadhan,2005-10-29,08397413412,customer000295@example.com,Jl. Merdeka No. 20,Depok
+C000296,Rina Ramadhan,2014-08-13,08576135453,customer000296@example.com,Jl. Merdeka No. 163,Bogor
+C000297,Eko Setiawan,2003-09-30,08583360250,customer000297@example.com,Jl. Diponegoro No. 88,Semarang
+C000298,Gita Siregar,1989-08-27,08100890994,customer000298@example.com,Jl. Ahmad Yani No. 87,Medan
+C000299,Lina Siregar,1997-06-24,08245682424,customer000299@example.com,Jl. Diponegoro No. 12,Bogor
+C000300,Maya Lestari,2014-06-28,08275251766,customer000300@example.com,Jl. Merdeka No. 186,Semarang
+C000301,Maya Siregar,2003-05-11,08184209746,customer000301@example.com,Jl. Diponegoro No. 34,Surabaya
+C000302,Oscar Wijaya,2015-03-25,08383171465,customer000302@example.com,Jl. Sudirman No. 67,Bandung
+C000303,Rina Permata,2003-02-09,08594706058,customer000303@example.com,Jl. Sudirman No. 59,Surabaya
+C000304,Gita Permata,1989-06-30,08378003040,customer000304@example.com,Jl. Ahmad Yani No. 22,Makassar
+C000305,Vina Ramadhan,2013-01-25,08396167382,customer000305@example.com,Jl. Sudirman No. 94,Bekasi
+C000306,Rina Nugroho,2010-01-21,08522599668,customer000306@example.com,Jl. Diponegoro No. 176,Bandung
+C000307,Putri Hidayat,2008-09-30,08593557961,customer000307@example.com,Jl. Gatot Subroto No. 60,Depok
+C000308,Nanda Lestari,2015-09-24,08397870347,customer000308@example.com,Jl. Diponegoro No. 5,Tangerang
+C000309,Eko Saputra,1994-07-15,08299640971,customer000309@example.com,Jl. Ahmad Yani No. 31,Bekasi
+C000310,Budi Wijaya,2013-12-20,08468442955,customer000310@example.com,Jl. Merdeka No. 134,Tangerang
+C000311,Iwan Nugroho,1995-07-15,08121806418,customer000311@example.com,Jl. Merdeka No. 95,Bandung
+C000312,Dewi Nugroho,2015-09-29,08458140847,customer000312@example.com,Jl. Merdeka No. 149,Medan
+C000313,Maya Pratama,1994-05-29,08197477308,customer000313@example.com,Jl. Ahmad Yani No. 115,Bogor
+C000314,Gita Hidayat,2004-03-26,08736372330,customer000314@example.com,Jl. Gatot Subroto No. 87,Bogor
+C000315,Karin Hidayat,2010-10-11,08214172872,customer000315@example.com,Jl. Merdeka No. 31,Depok
+C000316,Oscar Saputra,1991-04-22,08274275729,customer000316@example.com,Jl. Sudirman No. 40,Bogor
+C000317,Iwan Hidayat,1990-12-29,08231892143,customer000317@example.com,Jl. Sudirman No. 43,Depok
+C000318,Dewi Kurniawan,2012-06-06,08983148870,customer000318@example.com,Jl. Diponegoro No. 30,Jakarta
+C000319,Eko Saputra,1990-10-27,08612675003,customer000319@example.com,Jl. Ahmad Yani No. 67,Bogor
+C000320,Putri Setiawan,2005-12-21,08655894215,customer000320@example.com,Jl. Ahmad Yani No. 103,Bandung
+C000321,Nanda Ramadhan,2014-11-08,08680912167,customer000321@example.com,Jl. Gatot Subroto No. 88,Semarang
+C000322,Sari Nugroho,2005-12-30,08649260955,customer000322@example.com,Jl. Sudirman No. 118,Surabaya
+C000323,Putri Saputra,2002-05-03,08589692237,customer000323@example.com,Jl. Ahmad Yani No. 88,Tangerang
+C000324,Joko Permata,2000-08-03,08988028380,customer000324@example.com,Jl. Diponegoro No. 94,Jakarta
+C000325,Vina Ramadhan,2006-08-21,08759818983,customer000325@example.com,Jl. Sudirman No. 63,Depok
+C000326,Joko Lestari,2004-10-27,08452747838,customer000326@example.com,Jl. Gatot Subroto No. 135,Bekasi
+C000327,Eko Siregar,2002-11-26,08977050802,customer000327@example.com,Jl. Merdeka No. 192,Tangerang
+C000328,Lina Permata,1993-05-15,08463294723,customer000328@example.com,Jl. Ahmad Yani No. 10,Semarang
+C000329,Putri Lestari,2007-04-23,08283611831,customer000329@example.com,Jl. Ahmad Yani No. 118,Bekasi
+C000330,Budi Saputra,2009-06-02,08881641046,customer000330@example.com,Jl. Gatot Subroto No. 98,Semarang
+C000331,Dewi Kurniawan,2008-07-28,08660764352,customer000331@example.com,Jl. Diponegoro No. 63,Depok
+C000332,Andi Pratama,1991-03-22,08478075208,customer000332@example.com,Jl. Sudirman No. 123,Makassar
+C000333,Lina Kurniawan,2008-05-29,08211935313,customer000333@example.com,Jl. Gatot Subroto No. 178,Jakarta
+C000334,Karin Ramadhan,2009-02-22,08445556631,customer000334@example.com,Jl. Ahmad Yani No. 122,Jakarta
+C000335,Tono Wijaya,1994-03-10,08493729632,customer000335@example.com,Jl. Diponegoro No. 68,Bandung
+C000336,Vina Lestari,2012-05-29,08938118994,customer000336@example.com,Jl. Ahmad Yani No. 64,Bogor
+C000337,Maya Wijaya,2003-07-05,08376543811,customer000337@example.com,Jl. Sudirman No. 173,Bogor
+C000338,Maya Kurniawan,2002-02-06,08234304955,customer000338@example.com,Jl. Diponegoro No. 71,Medan
+C000339,Lina Wijaya,2008-12-14,08997362108,customer000339@example.com,Jl. Gatot Subroto No. 192,Bogor
+C000340,Karin Setiawan,2003-02-15,08533982965,customer000340@example.com,Jl. Sudirman No. 104,Jakarta
+C000341,Oscar Wijaya,2004-01-30,08441212554,customer000341@example.com,Jl. Diponegoro No. 140,Bogor
+C000342,Vina Setiawan,1997-09-18,08683897412,customer000342@example.com,Jl. Gatot Subroto No. 110,Surabaya
+C000343,Dewi Siregar,2014-07-27,08971116057,customer000343@example.com,Jl. Ahmad Yani No. 119,Jakarta
+C000344,Iwan Lestari,2015-09-16,08633650606,customer000344@example.com,Jl. Gatot Subroto No. 81,Tangerang
+C000345,Iwan Siregar,1992-09-26,08466811968,customer000345@example.com,Jl. Sudirman No. 85,Semarang
+C000346,Vina Siregar,2009-03-28,08930577925,customer000346@example.com,Jl. Gatot Subroto No. 122,Surabaya
+C000347,Tono Setiawan,1989-10-21,08454022048,customer000347@example.com,Jl. Merdeka No. 9,Tangerang
+C000348,Budi Saputra,1999-04-08,08611030246,customer000348@example.com,Jl. Diponegoro No. 161,Semarang
+C000349,Oscar Lestari,2015-09-21,08651365160,customer000349@example.com,Jl. Diponegoro No. 112,Tangerang
+C000350,Budi Wijaya,1993-12-14,08733957190,customer000350@example.com,Jl. Ahmad Yani No. 103,Bandung
+C000351,Karin Lestari,1999-06-27,08885084828,customer000351@example.com,Jl. Gatot Subroto No. 127,Jakarta
+C000352,Dewi Pratama,1995-03-06,08234265765,customer000352@example.com,Jl. Ahmad Yani No. 156,Semarang
+C000353,Citra Permata,2009-02-07,08565071216,customer000353@example.com,Jl. Ahmad Yani No. 10,Depok
+C000354,Andi Permata,2001-11-13,08237155978,customer000354@example.com,Jl. Diponegoro No. 29,Surabaya
+C000355,Joko Nugroho,2005-05-28,08706162342,customer000355@example.com,Jl. Diponegoro No. 29,Bandung
+C000356,Nanda Permata,2014-12-21,08510622576,customer000356@example.com,Jl. Diponegoro No. 69,Tangerang
+C000357,Oscar Siregar,2003-06-07,08397224006,customer000357@example.com,Jl. Merdeka No. 25,Medan
+C000358,Tono Siregar,2009-04-07,08840088010,customer000358@example.com,Jl. Diponegoro No. 16,Medan
+C000359,Karin Nugroho,1991-11-06,08868953510,customer000359@example.com,Jl. Gatot Subroto No. 151,Surabaya
+C000360,Eko Lestari,1995-01-22,08889630217,customer000360@example.com,Jl. Ahmad Yani No. 35,Jakarta
+C000361,Citra Setiawan,2015-02-02,08131023893,customer000361@example.com,Jl. Ahmad Yani No. 127,Jakarta
+C000362,Rina Wijaya,2012-09-12,08350088595,customer000362@example.com,Jl. Sudirman No. 1,Depok
+C000363,Putri Wijaya,2007-02-22,08737975869,customer000363@example.com,Jl. Diponegoro No. 159,Jakarta
+C000364,Oscar Wijaya,1999-07-10,08800325015,customer000364@example.com,Jl. Merdeka No. 11,Surabaya
+C000365,Joko Lestari,1994-08-21,08999451031,customer000365@example.com,Jl. Sudirman No. 102,Bogor
+C000366,Oscar Nugroho,2012-06-26,08599192314,customer000366@example.com,Jl. Diponegoro No. 85,Semarang
+C000367,Tono Siregar,2010-09-01,08106734696,customer000367@example.com,Jl. Sudirman No. 12,Tangerang
+C000368,Eko Kurniawan,1995-10-13,08244941114,customer000368@example.com,Jl. Merdeka No. 20,Semarang
+C000369,Oscar Hidayat,2005-04-25,08208716858,customer000369@example.com,Jl. Ahmad Yani No. 157,Bogor
+C000370,Oscar Ramadhan,2006-02-07,08643434947,customer000370@example.com,Jl. Diponegoro No. 16,Bekasi
+C000371,Rina Siregar,2002-03-28,08153991750,customer000371@example.com,Jl. Diponegoro No. 197,Medan
+C000372,Maya Saputra,2014-07-15,08252354179,customer000372@example.com,Jl. Sudirman No. 98,Depok
+C000373,Putri Hidayat,1992-07-25,08630810984,customer000373@example.com,Jl. Diponegoro No. 66,Medan
+C000374,Karin Saputra,1996-03-23,08715600092,customer000374@example.com,Jl. Diponegoro No. 94,Bogor
+C000375,Gita Wijaya,1991-10-08,08470586724,customer000375@example.com,Jl. Diponegoro No. 143,Semarang
+C000376,Vina Wijaya,2008-02-20,08629331712,customer000376@example.com,Jl. Diponegoro No. 11,Bekasi
+C000377,Budi Setiawan,2006-10-19,08527460806,customer000377@example.com,Jl. Merdeka No. 82,Depok
+C000378,Lina Nugroho,2016-03-13,08428666232,customer000378@example.com,Jl. Gatot Subroto No. 8,Depok
+C000379,Oscar Hidayat,2004-01-06,08408165842,customer000379@example.com,Jl. Merdeka No. 136,Semarang
+C000380,Citra Kurniawan,1993-04-15,08727554065,customer000380@example.com,Jl. Diponegoro No. 46,Bekasi
+C000381,Dewi Permata,2001-07-05,08562946892,customer000381@example.com,Jl. Sudirman No. 133,Tangerang
+C000382,Tono Setiawan,1991-08-03,08634864984,customer000382@example.com,Jl. Diponegoro No. 128,Bekasi
+C000383,Hana Siregar,2007-07-15,08619578223,customer000383@example.com,Jl. Sudirman No. 105,Bekasi
+C000384,Maya Nugroho,2007-08-16,08286873454,customer000384@example.com,Jl. Gatot Subroto No. 64,Bandung
+C000385,Citra Hidayat,2012-08-24,08921906462,customer000385@example.com,Jl. Sudirman No. 33,Bekasi
+C000386,Nanda Setiawan,1998-06-20,08606821988,customer000386@example.com,Jl. Ahmad Yani No. 7,Bekasi
+C000387,Andi Kurniawan,1997-08-28,08746257999,customer000387@example.com,Jl. Sudirman No. 142,Surabaya
+C000388,Rina Setiawan,1991-02-12,08893716494,customer000388@example.com,Jl. Merdeka No. 197,Bogor
+C000389,Iwan Wijaya,2000-07-13,08932236702,customer000389@example.com,Jl. Diponegoro No. 80,Makassar
+C000390,Fajar Ramadhan,2002-03-07,08700149956,customer000390@example.com,Jl. Diponegoro No. 128,Semarang
+C000391,Sari Lestari,2009-10-27,08764013418,customer000391@example.com,Jl. Diponegoro No. 176,Surabaya
+C000392,Citra Wijaya,2009-10-20,08740603861,customer000392@example.com,Jl. Gatot Subroto No. 40,Semarang
+C000393,Joko Lestari,1993-01-02,08177297588,customer000393@example.com,Jl. Ahmad Yani No. 60,Jakarta
+C000394,Andi Kurniawan,1996-12-21,08922850748,customer000394@example.com,Jl. Gatot Subroto No. 51,Depok
+C000395,Karin Santoso,2003-03-03,08690907187,customer000395@example.com,Jl. Sudirman No. 143,Tangerang
+C000396,Budi Nugroho,1998-05-04,08110068077,customer000396@example.com,Jl. Ahmad Yani No. 26,Depok
+C000397,Oscar Siregar,1989-11-12,08240144020,customer000397@example.com,Jl. Diponegoro No. 69,Makassar
+C000398,Iwan Saputra,2012-04-26,08987963324,customer000398@example.com,Jl. Ahmad Yani No. 111,Semarang
+C000399,Vina Nugroho,2009-03-09,08300234026,customer000399@example.com,Jl. Gatot Subroto No. 186,Tangerang
+C000400,Gita Nugroho,2003-05-28,08217761808,customer000400@example.com,Jl. Ahmad Yani No. 136,Bekasi
+C000401,Andi Saputra,1997-11-09,08833388347,customer000401@example.com,Jl. Gatot Subroto No. 37,Jakarta
+C000402,Karin Setiawan,2012-03-28,08991151920,customer000402@example.com,Jl. Ahmad Yani No. 154,Semarang
+C000403,Oscar Siregar,1990-02-17,08251780393,customer000403@example.com,Jl. Merdeka No. 176,Bogor
+C000404,Karin Wijaya,2001-05-21,08697549307,customer000404@example.com,Jl. Ahmad Yani No. 70,Bekasi
+C000405,Hana Setiawan,2011-02-04,08355241034,customer000405@example.com,Jl. Diponegoro No. 98,Bogor
+C000406,Andi Ramadhan,2015-04-04,08476449586,customer000406@example.com,Jl. Gatot Subroto No. 193,Bandung
+C000407,Nanda Saputra,1996-01-19,08212818564,customer000407@example.com,Jl. Gatot Subroto No. 130,Medan
+C000408,Putri Ramadhan,2006-12-25,08391965097,customer000408@example.com,Jl. Merdeka No. 183,Bandung
+C000409,Andi Wijaya,1994-05-11,08584760715,customer000409@example.com,Jl. Merdeka No. 34,Bekasi
+C000410,Nanda Setiawan,1992-05-03,08818515730,customer000410@example.com,Jl. Merdeka No. 189,Makassar
+C000411,Andi Lestari,1998-10-31,08118924304,customer000411@example.com,Jl. Diponegoro No. 47,Surabaya
+C000412,Citra Lestari,2013-05-25,08961924066,customer000412@example.com,Jl. Merdeka No. 82,Jakarta
+C000413,Maya Wijaya,2008-01-16,08684641265,customer000413@example.com,Jl. Ahmad Yani No. 198,Tangerang
+C000414,Nanda Ramadhan,2002-07-24,08887765034,customer000414@example.com,Jl. Diponegoro No. 121,Bekasi
+C000415,Sari Santoso,1996-11-28,08937048359,customer000415@example.com,Jl. Gatot Subroto No. 180,Bekasi
+C000416,Eko Pratama,1993-01-16,08238220079,customer000416@example.com,Jl. Sudirman No. 198,Bogor
+C000417,Joko Wijaya,1996-07-30,08184357558,customer000417@example.com,Jl. Diponegoro No. 186,Bekasi
+C000418,Sari Siregar,1993-05-06,08799019807,customer000418@example.com,Jl. Merdeka No. 20,Tangerang
+C000419,Rina Pratama,1994-04-15,08269094830,customer000419@example.com,Jl. Gatot Subroto No. 134,Bekasi
+C000420,Andi Ramadhan,2007-12-28,08233152221,customer000420@example.com,Jl. Merdeka No. 179,Bogor
+C000421,Fajar Lestari,1992-10-18,08521665001,customer000421@example.com,Jl. Merdeka No. 136,Medan
+C000422,Tono Santoso,1990-06-18,08922042994,customer000422@example.com,Jl. Sudirman No. 15,Tangerang
+C000423,Andi Santoso,2004-01-06,08816045406,customer000423@example.com,Jl. Gatot Subroto No. 169,Bekasi
+C000424,Dewi Santoso,1997-01-04,08566090717,customer000424@example.com,Jl. Merdeka No. 19,Bandung
+C000425,Rina Lestari,2001-08-13,08276806566,customer000425@example.com,Jl. Ahmad Yani No. 6,Depok
+C000426,Vina Siregar,1992-12-28,08402742978,customer000426@example.com,Jl. Ahmad Yani No. 183,Semarang
+C000427,Vina Pratama,1994-11-30,08719644277,customer000427@example.com,Jl. Ahmad Yani No. 46,Bandung
+C000428,Fajar Ramadhan,2001-03-29,08241322947,customer000428@example.com,Jl. Merdeka No. 136,Bandung
+C000429,Eko Santoso,2008-01-22,08110628179,customer000429@example.com,Jl. Merdeka No. 108,Bandung
+C000430,Nanda Siregar,2000-07-05,08392576485,customer000430@example.com,Jl. Diponegoro No. 149,Bekasi
+C000431,Vina Setiawan,2003-12-31,08323152292,customer000431@example.com,Jl. Sudirman No. 152,Tangerang
+C000432,Citra Siregar,2003-06-15,08712976692,customer000432@example.com,Jl. Ahmad Yani No. 48,Bandung
+C000433,Rina Kurniawan,1996-07-11,08922618055,customer000433@example.com,Jl. Sudirman No. 14,Depok
+C000434,Rina Ramadhan,1996-10-27,08231833020,customer000434@example.com,Jl. Diponegoro No. 52,Depok
+C000435,Iwan Santoso,2000-10-27,08817535972,customer000435@example.com,Jl. Merdeka No. 112,Makassar
+C000436,Joko Pratama,1990-01-16,08690329910,customer000436@example.com,Jl. Diponegoro No. 18,Depok
+C000437,Citra Wijaya,2007-12-06,08972814335,customer000437@example.com,Jl. Merdeka No. 17,Bogor
+C000438,Nanda Permata,2005-12-26,08920359606,customer000438@example.com,Jl. Ahmad Yani No. 68,Makassar
+C000439,Karin Kurniawan,1997-07-19,08190685368,customer000439@example.com,Jl. Merdeka No. 39,Depok
+C000440,Karin Lestari,1999-05-26,08768900783,customer000440@example.com,Jl. Gatot Subroto No. 51,Makassar
+C000441,Budi Ramadhan,1998-03-02,08632960868,customer000441@example.com,Jl. Ahmad Yani No. 94,Semarang
+C000442,Iwan Wijaya,2006-12-31,08201774833,customer000442@example.com,Jl. Merdeka No. 62,Bekasi
+C000443,Rina Kurniawan,2009-12-19,08331435426,customer000443@example.com,Jl. Merdeka No. 149,Medan
+C000444,Budi Pratama,1992-02-21,08934249931,customer000444@example.com,Jl. Sudirman No. 100,Tangerang
+C000445,Andi Saputra,2000-06-25,08588647534,customer000445@example.com,Jl. Merdeka No. 165,Depok
+C000446,Budi Kurniawan,1989-07-17,08388409396,customer000446@example.com,Jl. Sudirman No. 113,Depok
+C000447,Karin Setiawan,2001-07-19,08854079233,customer000447@example.com,Jl. Gatot Subroto No. 142,Tangerang
+C000448,Oscar Lestari,1995-12-18,08355118994,customer000448@example.com,Jl. Ahmad Yani No. 177,Tangerang
+C000449,Karin Santoso,1998-05-12,08243000035,customer000449@example.com,Jl. Merdeka No. 192,Makassar
+C000450,Budi Lestari,2001-08-31,08616460771,customer000450@example.com,Jl. Diponegoro No. 82,Depok
+C000451,Andi Santoso,1998-01-11,08993259114,customer000451@example.com,Jl. Sudirman No. 149,Makassar
+C000452,Eko Ramadhan,1999-12-15,08264986345,customer000452@example.com,Jl. Gatot Subroto No. 138,Semarang
+C000453,Joko Kurniawan,2010-02-07,08329787479,customer000453@example.com,Jl. Merdeka No. 94,Tangerang
+C000454,Iwan Pratama,2011-05-09,08522220092,customer000454@example.com,Jl. Ahmad Yani No. 80,Bekasi
+C000455,Hana Wijaya,1989-04-29,08279832229,customer000455@example.com,Jl. Ahmad Yani No. 141,Tangerang
+C000456,Putri Pratama,1999-07-06,08685731037,customer000456@example.com,Jl. Merdeka No. 112,Tangerang
+C000457,Hana Setiawan,2012-05-08,08328260200,customer000457@example.com,Jl. Merdeka No. 97,Bekasi
+C000458,Lina Nugroho,2003-09-09,08215363865,customer000458@example.com,Jl. Sudirman No. 161,Semarang
+C000459,Karin Siregar,1994-10-14,08335141588,customer000459@example.com,Jl. Gatot Subroto No. 92,Jakarta
+C000460,Fajar Lestari,2005-06-01,08937534842,customer000460@example.com,Jl. Diponegoro No. 125,Semarang
+C000461,Sari Permata,1993-02-18,08941405642,customer000461@example.com,Jl. Ahmad Yani No. 127,Tangerang
+C000462,Iwan Wijaya,1989-10-06,08555152228,customer000462@example.com,Jl. Ahmad Yani No. 196,Bekasi
+C000463,Eko Setiawan,2006-06-25,08460411847,customer000463@example.com,Jl. Gatot Subroto No. 27,Makassar
+C000464,Karin Saputra,2003-04-09,08837575173,customer000464@example.com,Jl. Diponegoro No. 92,Tangerang
+C000465,Iwan Permata,2009-11-17,08274837587,customer000465@example.com,Jl. Diponegoro No. 106,Jakarta
+C000466,Karin Kurniawan,1998-08-10,08688514886,customer000466@example.com,Jl. Ahmad Yani No. 84,Depok
+C000467,Fajar Lestari,2012-07-21,08712046466,customer000467@example.com,Jl. Sudirman No. 92,Depok
+C000468,Iwan Setiawan,2000-09-12,08739000846,customer000468@example.com,Jl. Gatot Subroto No. 62,Makassar
+C000469,Dewi Wijaya,2009-05-16,08296150852,customer000469@example.com,Jl. Merdeka No. 195,Tangerang
+C000470,Joko Permata,1991-11-29,08650792447,customer000470@example.com,Jl. Merdeka No. 120,Medan
+C000471,Nanda Hidayat,1991-10-29,08887589906,customer000471@example.com,Jl. Gatot Subroto No. 55,Makassar
+C000472,Tono Nugroho,2010-08-07,08256952458,customer000472@example.com,Jl. Sudirman No. 56,Depok
+C000473,Citra Wijaya,2011-12-31,08652244890,customer000473@example.com,Jl. Merdeka No. 31,Tangerang
+C000474,Vina Wijaya,2014-12-20,08846674982,customer000474@example.com,Jl. Merdeka No. 92,Surabaya
+C000475,Tono Saputra,1998-01-20,08769400667,customer000475@example.com,Jl. Diponegoro No. 4,Semarang
+C000476,Budi Saputra,1989-10-10,08189558678,customer000476@example.com,Jl. Gatot Subroto No. 135,Medan
+C000477,Maya Nugroho,2015-12-30,08746289348,customer000477@example.com,Jl. Merdeka No. 168,Surabaya
+C000478,Putri Lestari,2005-08-18,08645625556,customer000478@example.com,Jl. Merdeka No. 112,Semarang
+C000479,Iwan Lestari,1995-12-07,08273296397,customer000479@example.com,Jl. Diponegoro No. 100,Semarang
+C000480,Vina Hidayat,2010-01-29,08159717523,customer000480@example.com,Jl. Gatot Subroto No. 185,Semarang
+C000481,Dewi Hidayat,2013-11-29,08770939738,customer000481@example.com,Jl. Sudirman No. 116,Medan
+C000482,Rina Pratama,1996-12-18,08547701275,customer000482@example.com,Jl. Gatot Subroto No. 146,Makassar
+C000483,Tono Lestari,2010-03-28,08154636465,customer000483@example.com,Jl. Gatot Subroto No. 87,Depok
+C000484,Maya Saputra,2010-09-23,08967145495,customer000484@example.com,Jl. Sudirman No. 102,Semarang
+C000485,Tono Santoso,2002-11-25,08593998829,customer000485@example.com,Jl. Gatot Subroto No. 185,Bekasi
+C000486,Fajar Nugroho,2006-06-24,08938422172,customer000486@example.com,Jl. Ahmad Yani No. 141,Medan
+C000487,Joko Nugroho,1996-07-18,08649366586,customer000487@example.com,Jl. Diponegoro No. 64,Tangerang
+C000488,Citra Pratama,2014-08-09,08644045528,customer000488@example.com,Jl. Diponegoro No. 100,Bandung
+C000489,Budi Permata,2016-01-31,08811778616,customer000489@example.com,Jl. Gatot Subroto No. 111,Bandung
+C000490,Hana Permata,2016-01-10,08935251220,customer000490@example.com,Jl. Ahmad Yani No. 6,Medan
+C000491,Lina Kurniawan,2009-05-07,08839692647,customer000491@example.com,Jl. Ahmad Yani No. 101,Semarang
+C000492,Karin Lestari,1990-04-29,08226197863,customer000492@example.com,Jl. Gatot Subroto No. 94,Medan
+C000493,Lina Lestari,1999-03-14,08378589156,customer000493@example.com,Jl. Diponegoro No. 26,Bandung
+C000494,Maya Saputra,2001-05-07,08922440854,customer000494@example.com,Jl. Gatot Subroto No. 140,Medan
+C000495,Eko Siregar,2015-06-12,08594059078,customer000495@example.com,Jl. Gatot Subroto No. 19,Depok
+C000496,Gita Permata,2004-02-21,08880312646,customer000496@example.com,Jl. Sudirman No. 175,Tangerang
+C000497,Dewi Nugroho,2003-11-05,08606709683,customer000497@example.com,Jl. Merdeka No. 102,Surabaya
+C000498,Karin Lestari,1993-03-08,08144766476,customer000498@example.com,Jl. Diponegoro No. 187,Semarang
+C000499,Karin Hidayat,2010-11-24,08525598463,customer000499@example.com,Jl. Gatot Subroto No. 179,Makassar
+C000500,Vina Permata,1998-05-16,08842194021,customer000500@example.com,Jl. Sudirman No. 117,Makassar
+C000501,Rina Kurniawan,1991-09-06,08689602501,customer000501@example.com,Jl. Ahmad Yani No. 193,Tangerang
+C000502,Lina Ramadhan,2016-03-16,08219501383,customer000502@example.com,Jl. Merdeka No. 195,Semarang
+C000503,Citra Setiawan,1994-05-15,08289078411,customer000503@example.com,Jl. Sudirman No. 26,Depok
+C000504,Sari Permata,1989-08-11,08981318914,customer000504@example.com,Jl. Ahmad Yani No. 156,Bekasi
+C000505,Oscar Permata,1991-04-19,08777600909,customer000505@example.com,Jl. Merdeka No. 9,Surabaya
+C000506,Fajar Siregar,2001-07-22,08676175252,customer000506@example.com,Jl. Gatot Subroto No. 186,Bekasi
+C000507,Eko Saputra,1991-12-26,08634686387,customer000507@example.com,Jl. Merdeka No. 180,Semarang
+C000508,Karin Ramadhan,2012-03-27,08352689605,customer000508@example.com,Jl. Gatot Subroto No. 199,Semarang
+C000509,Hana Nugroho,2003-03-13,08771107499,customer000509@example.com,Jl. Sudirman No. 116,Depok
+C000510,Andi Wijaya,1998-01-13,08162830895,customer000510@example.com,Jl. Gatot Subroto No. 180,Depok
+C000511,Budi Santoso,1989-04-02,08456999324,customer000511@example.com,Jl. Ahmad Yani No. 40,Makassar
+C000512,Sari Ramadhan,2002-04-20,08691331773,customer000512@example.com,Jl. Merdeka No. 52,Surabaya
+C000513,Rina Santoso,1993-04-23,08630986699,customer000513@example.com,Jl. Merdeka No. 39,Jakarta
+C000514,Budi Saputra,2015-12-11,08580719053,customer000514@example.com,Jl. Merdeka No. 152,Bogor
+C000515,Lina Hidayat,1997-02-18,08199675286,customer000515@example.com,Jl. Diponegoro No. 104,Bekasi
+C000516,Joko Pratama,2002-03-02,08398615303,customer000516@example.com,Jl. Gatot Subroto No. 82,Bekasi
+C000517,Oscar Saputra,1989-09-04,08171555006,customer000517@example.com,Jl. Diponegoro No. 42,Makassar
+C000518,Budi Kurniawan,1992-10-01,08782342009,customer000518@example.com,Jl. Diponegoro No. 35,Bekasi
+C000519,Tono Santoso,1994-11-05,08775752699,customer000519@example.com,Jl. Diponegoro No. 199,Medan
+C000520,Iwan Siregar,1990-08-01,08332285262,customer000520@example.com,Jl. Diponegoro No. 60,Jakarta
+C000521,Oscar Ramadhan,2009-01-15,08363642315,customer000521@example.com,Jl. Ahmad Yani No. 164,Bandung
+C000522,Iwan Hidayat,2015-01-19,08385709294,customer000522@example.com,Jl. Diponegoro No. 50,Surabaya
+C000523,Oscar Wijaya,2016-02-22,08900371664,customer000523@example.com,Jl. Ahmad Yani No. 38,Semarang
+C000524,Eko Lestari,1996-06-11,08539673755,customer000524@example.com,Jl. Gatot Subroto No. 64,Bogor
+C000525,Nanda Wijaya,2010-10-05,08728371219,customer000525@example.com,Jl. Sudirman No. 145,Semarang
+C000526,Karin Hidayat,2002-12-19,08575493895,customer000526@example.com,Jl. Merdeka No. 41,Depok
+C000527,Karin Setiawan,1990-06-03,08350745446,customer000527@example.com,Jl. Merdeka No. 78,Surabaya
+C000528,Budi Setiawan,1991-08-26,08888669347,customer000528@example.com,Jl. Diponegoro No. 36,Depok
+C000529,Iwan Siregar,2004-02-29,08738050066,customer000529@example.com,Jl. Sudirman No. 154,Makassar
+C000530,Iwan Saputra,2000-10-06,08792404249,customer000530@example.com,Jl. Gatot Subroto No. 3,Bandung
+C000531,Putri Kurniawan,1989-05-24,08953332914,customer000531@example.com,Jl. Ahmad Yani No. 6,Medan
+C000532,Citra Kurniawan,2014-08-19,08323893295,customer000532@example.com,Jl. Diponegoro No. 176,Bandung
+C000533,Putri Hidayat,2009-02-28,08182403850,customer000533@example.com,Jl. Ahmad Yani No. 47,Bekasi
+C000534,Tono Lestari,2002-12-03,08624044864,customer000534@example.com,Jl. Sudirman No. 156,Tangerang
+C000535,Gita Santoso,2016-03-09,08393546377,customer000535@example.com,Jl. Gatot Subroto No. 56,Bogor
+C000536,Nanda Pratama,2015-10-03,08492199629,customer000536@example.com,Jl. Merdeka No. 89,Bekasi
+C000537,Putri Permata,2015-10-31,08311205038,customer000537@example.com,Jl. Ahmad Yani No. 89,Surabaya
+C000538,Joko Wijaya,1996-04-02,08458621635,customer000538@example.com,Jl. Gatot Subroto No. 162,Tangerang
+C000539,Oscar Wijaya,2013-04-13,08453925120,customer000539@example.com,Jl. Ahmad Yani No. 5,Bandung
+C000540,Iwan Ramadhan,2002-12-24,08415500303,customer000540@example.com,Jl. Gatot Subroto No. 151,Bogor
+C000541,Tono Setiawan,2009-01-16,08768099388,customer000541@example.com,Jl. Sudirman No. 118,Tangerang
+C000542,Vina Permata,2012-09-12,08633387191,customer000542@example.com,Jl. Gatot Subroto No. 181,Depok
+C000543,Eko Ramadhan,1993-08-21,08526818322,customer000543@example.com,Jl. Diponegoro No. 9,Bogor
+C000544,Rina Setiawan,2001-06-09,08201444022,customer000544@example.com,Jl. Ahmad Yani No. 136,Bekasi
+C000545,Nanda Wijaya,1992-09-10,08613657544,customer000545@example.com,Jl. Merdeka No. 163,Bekasi
+C000546,Karin Nugroho,1996-10-25,08257518958,customer000546@example.com,Jl. Sudirman No. 178,Bandung
+C000547,Rina Hidayat,2000-06-27,08382739398,customer000547@example.com,Jl. Diponegoro No. 65,Jakarta
+C000548,Gita Santoso,2012-08-02,08473415644,customer000548@example.com,Jl. Merdeka No. 4,Bogor
+C000549,Rina Siregar,2012-10-13,08450540599,customer000549@example.com,Jl. Ahmad Yani No. 76,Surabaya
+C000550,Andi Nugroho,1999-11-03,08340240283,customer000550@example.com,Jl. Gatot Subroto No. 46,Medan
+C000551,Joko Nugroho,1998-03-06,08864786560,customer000551@example.com,Jl. Gatot Subroto No. 188,Jakarta
+C000552,Tono Wijaya,2003-09-12,08104111156,customer000552@example.com,Jl. Merdeka No. 129,Depok
+C000553,Gita Pratama,2014-02-17,08642175265,customer000553@example.com,Jl. Gatot Subroto No. 65,Bekasi
+C000554,Eko Ramadhan,2015-11-26,08676495941,customer000554@example.com,Jl. Merdeka No. 175,Bekasi
+C000555,Tono Santoso,1995-05-17,08440189805,customer000555@example.com,Jl. Diponegoro No. 6,Makassar
+C000556,Maya Pratama,1994-04-09,08522209963,customer000556@example.com,Jl. Gatot Subroto No. 136,Depok
+C000557,Dewi Saputra,2008-07-07,08810915382,customer000557@example.com,Jl. Merdeka No. 52,Makassar
+C000558,Dewi Nugroho,1997-06-02,08440166192,customer000558@example.com,Jl. Merdeka No. 191,Medan
+C000559,Vina Lestari,1994-08-20,08435256715,customer000559@example.com,Jl. Merdeka No. 159,Makassar
+C000560,Oscar Nugroho,1990-01-06,08328501978,customer000560@example.com,Jl. Diponegoro No. 116,Bogor
+C000561,Andi Wijaya,2000-03-16,08444450123,customer000561@example.com,Jl. Gatot Subroto No. 179,Surabaya
+C000562,Fajar Pratama,1999-11-23,08307092838,customer000562@example.com,Jl. Merdeka No. 4,Medan
+C000563,Rina Ramadhan,2004-07-31,08234885530,customer000563@example.com,Jl. Merdeka No. 136,Depok
+C000564,Sari Lestari,1994-08-24,08986828104,customer000564@example.com,Jl. Diponegoro No. 17,Makassar
+C000565,Lina Lestari,2008-09-21,08215980285,customer000565@example.com,Jl. Sudirman No. 107,Jakarta
+C000566,Iwan Kurniawan,2007-10-14,08735488723,customer000566@example.com,Jl. Ahmad Yani No. 69,Surabaya
+C000567,Putri Siregar,2001-10-28,08745819002,customer000567@example.com,Jl. Gatot Subroto No. 198,Depok
+C000568,Maya Santoso,1994-02-17,08656007341,customer000568@example.com,Jl. Ahmad Yani No. 91,Depok
+C000569,Oscar Hidayat,2003-01-17,08104486468,customer000569@example.com,Jl. Gatot Subroto No. 145,Tangerang
+C000570,Oscar Permata,2007-08-23,08371466202,customer000570@example.com,Jl. Diponegoro No. 89,Bogor
+C000571,Sari Hidayat,1999-05-16,08265879001,customer000571@example.com,Jl. Gatot Subroto No. 111,Depok
+C000572,Tono Ramadhan,1996-05-18,08619233557,customer000572@example.com,Jl. Merdeka No. 199,Makassar
+C000573,Gita Nugroho,2003-01-13,08671987162,customer000573@example.com,Jl. Merdeka No. 139,Semarang
+C000574,Karin Siregar,1998-11-22,08908111333,customer000574@example.com,Jl. Ahmad Yani No. 117,Semarang
+C000575,Nanda Ramadhan,2000-02-18,08441747393,customer000575@example.com,Jl. Merdeka No. 99,Bekasi
+C000576,Hana Permata,1998-09-19,08931852344,customer000576@example.com,Jl. Gatot Subroto No. 48,Medan
+C000577,Iwan Ramadhan,1997-06-22,08705689047,customer000577@example.com,Jl. Ahmad Yani No. 171,Tangerang
+C000578,Gita Lestari,2008-10-15,08788251796,customer000578@example.com,Jl. Gatot Subroto No. 103,Bandung
+C000579,Citra Ramadhan,2001-10-07,08500480737,customer000579@example.com,Jl. Sudirman No. 140,Bandung
+C000580,Hana Hidayat,2001-12-09,08502645664,customer000580@example.com,Jl. Diponegoro No. 125,Surabaya
+C000581,Lina Nugroho,2007-01-17,08450141986,customer000581@example.com,Jl. Ahmad Yani No. 142,Bandung
+C000582,Rina Permata,1999-01-21,08774563478,customer000582@example.com,Jl. Sudirman No. 151,Depok
+C000583,Karin Wijaya,1991-12-07,08289553941,customer000583@example.com,Jl. Diponegoro No. 186,Depok
+C000584,Andi Hidayat,2012-07-05,08977863890,customer000584@example.com,Jl. Ahmad Yani No. 178,Makassar
+C000585,Vina Setiawan,1990-09-10,08258332797,customer000585@example.com,Jl. Gatot Subroto No. 198,Surabaya
+C000586,Maya Lestari,2004-10-28,08514882741,customer000586@example.com,Jl. Ahmad Yani No. 119,Makassar
+C000587,Hana Pratama,1996-06-11,08383152069,customer000587@example.com,Jl. Merdeka No. 77,Bandung
+C000588,Andi Hidayat,1995-01-08,08678273298,customer000588@example.com,Jl. Diponegoro No. 156,Medan
+C000589,Gita Pratama,1990-04-25,08712622633,customer000589@example.com,Jl. Diponegoro No. 88,Bandung
+C000590,Fajar Santoso,2013-10-22,08926798152,customer000590@example.com,Jl. Merdeka No. 143,Jakarta
+C000591,Maya Setiawan,2000-12-01,08323807195,customer000591@example.com,Jl. Diponegoro No. 8,Bandung
+C000592,Nanda Nugroho,1998-07-19,08285991517,customer000592@example.com,Jl. Sudirman No. 176,Bandung
+C000593,Iwan Saputra,2009-06-17,08897902121,customer000593@example.com,Jl. Merdeka No. 81,Medan
+C000594,Citra Lestari,1990-03-26,08187790235,customer000594@example.com,Jl. Diponegoro No. 17,Makassar
+C000595,Lina Santoso,2004-08-15,08683603352,customer000595@example.com,Jl. Merdeka No. 188,Depok
+C000596,Iwan Saputra,2002-09-16,08123014007,customer000596@example.com,Jl. Diponegoro No. 42,Medan
+C000597,Dewi Kurniawan,2004-04-26,08804554338,customer000597@example.com,Jl. Merdeka No. 85,Bandung
+C000598,Karin Lestari,1992-07-23,08646638243,customer000598@example.com,Jl. Ahmad Yani No. 146,Jakarta
+C000599,Oscar Setiawan,2015-03-31,08653145596,customer000599@example.com,Jl. Merdeka No. 145,Tangerang
+C000600,Rina Lestari,1995-09-11,08515139140,customer000600@example.com,Jl. Gatot Subroto No. 46,Bogor
+C000601,Sari Nugroho,2007-09-28,08655612389,customer000601@example.com,Jl. Merdeka No. 191,Surabaya
+C000602,Vina Siregar,2009-08-15,08278004382,customer000602@example.com,Jl. Diponegoro No. 155,Surabaya
+C000603,Nanda Ramadhan,1998-08-01,08236497337,customer000603@example.com,Jl. Sudirman No. 60,Semarang
+C000604,Karin Kurniawan,1992-09-29,08859399826,customer000604@example.com,Jl. Sudirman No. 44,Surabaya
+C000605,Fajar Setiawan,1997-04-15,08294013638,customer000605@example.com,Jl. Diponegoro No. 22,Surabaya
+C000606,Maya Siregar,2011-04-05,08553909931,customer000606@example.com,Jl. Gatot Subroto No. 102,Medan
+C000607,Joko Ramadhan,2013-12-25,08342909409,customer000607@example.com,Jl. Gatot Subroto No. 100,Tangerang
+C000608,Budi Wijaya,2014-10-26,08307412145,customer000608@example.com,Jl. Sudirman No. 103,Tangerang
+C000609,Karin Kurniawan,1995-05-13,08638001405,customer000609@example.com,Jl. Merdeka No. 164,Bogor
+C000610,Rina Nugroho,2005-10-09,08822125998,customer000610@example.com,Jl. Ahmad Yani No. 30,Semarang
+C000611,Maya Permata,1993-04-20,08497710965,customer000611@example.com,Jl. Diponegoro No. 108,Medan
+C000612,Vina Lestari,2008-08-12,08224855466,customer000612@example.com,Jl. Sudirman No. 25,Semarang
+C000613,Iwan Setiawan,2000-07-20,08320028257,customer000613@example.com,Jl. Ahmad Yani No. 53,Jakarta
+C000614,Citra Setiawan,2008-09-13,08387576948,customer000614@example.com,Jl. Diponegoro No. 50,Semarang
+C000615,Dewi Saputra,2007-12-04,08436529655,customer000615@example.com,Jl. Ahmad Yani No. 10,Surabaya
+C000616,Rina Kurniawan,2016-05-07,08163933409,customer000616@example.com,Jl. Sudirman No. 109,Medan
+C000617,Vina Kurniawan,2002-07-18,08501428546,customer000617@example.com,Jl. Diponegoro No. 122,Bandung
+C000618,Maya Hidayat,1998-07-08,08922532113,customer000618@example.com,Jl. Merdeka No. 88,Tangerang
+C000619,Andi Wijaya,2003-08-03,08468730968,customer000619@example.com,Jl. Ahmad Yani No. 67,Bekasi
+C000620,Fajar Santoso,1993-08-16,08686119206,customer000620@example.com,Jl. Merdeka No. 169,Bogor
+C000621,Karin Siregar,1992-03-23,08263748659,customer000621@example.com,Jl. Ahmad Yani No. 136,Jakarta
+C000622,Vina Nugroho,2003-05-19,08159162257,customer000622@example.com,Jl. Ahmad Yani No. 155,Bandung
+C000623,Sari Setiawan,2011-10-07,08503612435,customer000623@example.com,Jl. Ahmad Yani No. 102,Bogor
+C000624,Sari Nugroho,2003-10-07,08385033733,customer000624@example.com,Jl. Merdeka No. 119,Bekasi
+C000625,Gita Setiawan,2010-07-29,08114631398,customer000625@example.com,Jl. Sudirman No. 154,Makassar
+C000626,Eko Hidayat,1994-01-14,08578085657,customer000626@example.com,Jl. Diponegoro No. 181,Semarang
+C000627,Budi Siregar,2001-06-20,08162233384,customer000627@example.com,Jl. Diponegoro No. 110,Makassar
+C000628,Maya Wijaya,2005-12-14,08834187249,customer000628@example.com,Jl. Gatot Subroto No. 95,Makassar
+C000629,Eko Permata,1998-09-07,08751203417,customer000629@example.com,Jl. Sudirman No. 74,Bekasi
+C000630,Karin Siregar,1989-07-21,08186894106,customer000630@example.com,Jl. Gatot Subroto No. 151,Makassar
+C000631,Fajar Setiawan,1991-03-06,08882182682,customer000631@example.com,Jl. Merdeka No. 99,Jakarta
+C000632,Iwan Siregar,2014-07-25,08110274964,customer000632@example.com,Jl. Sudirman No. 129,Depok
+C000633,Eko Santoso,2005-09-25,08916126527,customer000633@example.com,Jl. Merdeka No. 143,Tangerang
+C000634,Budi Hidayat,1996-05-29,08692026028,customer000634@example.com,Jl. Ahmad Yani No. 46,Surabaya
+C000635,Vina Santoso,1996-04-02,08403740735,customer000635@example.com,Jl. Merdeka No. 125,Bandung
+C000636,Hana Wijaya,1990-04-01,08106391694,customer000636@example.com,Jl. Sudirman No. 188,Bandung
+C000637,Tono Kurniawan,2015-01-12,08649862809,customer000637@example.com,Jl. Ahmad Yani No. 191,Bekasi
+C000638,Putri Kurniawan,1992-02-17,08178691308,customer000638@example.com,Jl. Diponegoro No. 187,Medan
+C000639,Nanda Siregar,2009-12-16,08647927027,customer000639@example.com,Jl. Merdeka No. 58,Makassar
+C000640,Andi Ramadhan,1995-09-29,08795830877,customer000640@example.com,Jl. Merdeka No. 135,Bogor
+C000641,Oscar Kurniawan,1998-05-10,08340569701,customer000641@example.com,Jl. Diponegoro No. 58,Jakarta
+C000642,Hana Siregar,1996-08-31,08314850208,customer000642@example.com,Jl. Sudirman No. 129,Surabaya
+C000643,Hana Santoso,2011-09-28,08302354694,customer000643@example.com,Jl. Merdeka No. 103,Bekasi
+C000644,Tono Pratama,1990-01-24,08202516529,customer000644@example.com,Jl. Ahmad Yani No. 48,Makassar
+C000645,Citra Lestari,1998-10-23,08324731636,customer000645@example.com,Jl. Sudirman No. 71,Jakarta
+C000646,Eko Ramadhan,1996-10-24,08693382775,customer000646@example.com,Jl. Diponegoro No. 51,Tangerang
+C000647,Iwan Santoso,1996-08-21,08372265328,customer000647@example.com,Jl. Sudirman No. 109,Bandung
+C000648,Vina Permata,1994-06-13,08837360414,customer000648@example.com,Jl. Merdeka No. 114,Tangerang
+C000649,Fajar Kurniawan,2014-02-23,08784857680,customer000649@example.com,Jl. Merdeka No. 29,Tangerang
+C000650,Karin Santoso,1999-07-14,08585576534,customer000650@example.com,Jl. Sudirman No. 58,Bekasi
+C000651,Putri Hidayat,2000-08-13,08518058173,customer000651@example.com,Jl. Merdeka No. 192,Medan
+C000652,Nanda Ramadhan,1999-09-17,08592132113,customer000652@example.com,Jl. Sudirman No. 161,Surabaya
+C000653,Maya Kurniawan,2016-01-02,08819562554,customer000653@example.com,Jl. Gatot Subroto No. 160,Bekasi
+C000654,Fajar Pratama,1998-06-13,08451562690,customer000654@example.com,Jl. Gatot Subroto No. 20,Makassar
+C000655,Iwan Ramadhan,1998-07-09,08887340837,customer000655@example.com,Jl. Sudirman No. 149,Depok
+C000656,Karin Hidayat,1998-02-22,08252715086,customer000656@example.com,Jl. Diponegoro No. 2,Bandung
+C000657,Putri Ramadhan,1998-02-12,08924452497,customer000657@example.com,Jl. Diponegoro No. 161,Depok
+C000658,Tono Saputra,1991-08-16,08260190422,customer000658@example.com,Jl. Gatot Subroto No. 77,Makassar
+C000659,Oscar Lestari,2005-09-16,08865236145,customer000659@example.com,Jl. Sudirman No. 62,Surabaya
+C000660,Iwan Hidayat,1989-11-09,08451222588,customer000660@example.com,Jl. Sudirman No. 69,Tangerang
+C000661,Citra Saputra,1995-05-09,08968123082,customer000661@example.com,Jl. Sudirman No. 91,Bandung
+C000662,Karin Ramadhan,1994-09-13,08216275196,customer000662@example.com,Jl. Merdeka No. 55,Tangerang
+C000663,Sari Pratama,1997-02-22,08518949996,customer000663@example.com,Jl. Sudirman No. 31,Bogor
+C000664,Nanda Wijaya,2009-11-18,08911692249,customer000664@example.com,Jl. Gatot Subroto No. 135,Makassar
+C000665,Nanda Hidayat,2005-07-30,08142726147,customer000665@example.com,Jl. Gatot Subroto No. 112,Bandung
+C000666,Iwan Kurniawan,2016-04-17,08338513358,customer000666@example.com,Jl. Merdeka No. 181,Makassar
+C000667,Iwan Siregar,1998-10-12,08175205828,customer000667@example.com,Jl. Diponegoro No. 137,Makassar
+C000668,Karin Setiawan,2014-08-03,08389146284,customer000668@example.com,Jl. Sudirman No. 99,Makassar
+C000669,Maya Saputra,1990-05-25,08657001578,customer000669@example.com,Jl. Diponegoro No. 57,Surabaya
+C000670,Putri Hidayat,2002-12-21,08331918381,customer000670@example.com,Jl. Diponegoro No. 147,Depok
+C000671,Karin Wijaya,2011-01-14,08242816015,customer000671@example.com,Jl. Merdeka No. 27,Surabaya
+C000672,Citra Permata,2003-09-23,08944563689,customer000672@example.com,Jl. Gatot Subroto No. 114,Makassar
+C000673,Dewi Setiawan,2014-09-20,08957883395,customer000673@example.com,Jl. Gatot Subroto No. 121,Makassar
+C000674,Sari Kurniawan,1997-10-11,08299263875,customer000674@example.com,Jl. Ahmad Yani No. 179,Depok
+C000675,Oscar Lestari,1990-01-29,08275877629,customer000675@example.com,Jl. Ahmad Yani No. 66,Tangerang
+C000676,Budi Hidayat,2010-05-10,08148776042,customer000676@example.com,Jl. Diponegoro No. 47,Bekasi
+C000677,Joko Ramadhan,1991-01-11,08735535530,customer000677@example.com,Jl. Sudirman No. 136,Tangerang
+C000678,Eko Nugroho,2010-02-07,08784754955,customer000678@example.com,Jl. Merdeka No. 134,Tangerang
+C000679,Gita Wijaya,2009-03-31,08676851104,customer000679@example.com,Jl. Diponegoro No. 62,Bekasi
+C000680,Citra Hidayat,2012-04-12,08153828524,customer000680@example.com,Jl. Merdeka No. 141,Surabaya
+C000681,Budi Santoso,2002-04-12,08708417063,customer000681@example.com,Jl. Gatot Subroto No. 146,Surabaya
+C000682,Hana Pratama,2013-09-07,08398326890,customer000682@example.com,Jl. Diponegoro No. 131,Makassar
+C000683,Lina Santoso,1993-10-25,08739422469,customer000683@example.com,Jl. Diponegoro No. 72,Medan
+C000684,Gita Nugroho,2001-01-21,08681784333,customer000684@example.com,Jl. Sudirman No. 42,Tangerang
+C000685,Vina Lestari,1992-07-02,08495098658,customer000685@example.com,Jl. Gatot Subroto No. 133,Jakarta
+C000686,Sari Hidayat,2010-02-28,08268022906,customer000686@example.com,Jl. Merdeka No. 173,Bandung
+C000687,Iwan Nugroho,2008-09-20,08121209738,customer000687@example.com,Jl. Merdeka No. 119,Tangerang
+C000688,Sari Setiawan,2011-03-30,08943934888,customer000688@example.com,Jl. Merdeka No. 72,Bekasi
+C000689,Vina Siregar,2010-02-03,08353223276,customer000689@example.com,Jl. Ahmad Yani No. 199,Semarang
+C000690,Karin Permata,1997-08-11,08371614005,customer000690@example.com,Jl. Gatot Subroto No. 179,Semarang
+C000691,Vina Saputra,1991-01-11,08712959423,customer000691@example.com,Jl. Sudirman No. 19,Makassar
+C000692,Gita Ramadhan,2014-08-10,08329667860,customer000692@example.com,Jl. Gatot Subroto No. 184,Medan
+C000693,Hana Pratama,2002-08-29,08740046517,customer000693@example.com,Jl. Sudirman No. 4,Bandung
+C000694,Lina Saputra,1991-10-01,08690803845,customer000694@example.com,Jl. Ahmad Yani No. 16,Makassar
+C000695,Sari Ramadhan,2014-07-19,08104203706,customer000695@example.com,Jl. Merdeka No. 187,Bekasi
+C000696,Gita Permata,2016-05-21,08527741191,customer000696@example.com,Jl. Diponegoro No. 23,Tangerang
+C000697,Vina Kurniawan,2001-05-12,08669201610,customer000697@example.com,Jl. Ahmad Yani No. 74,Bekasi
+C000698,Eko Lestari,2010-04-01,08236312543,customer000698@example.com,Jl. Diponegoro No. 179,Depok
+C000699,Maya Lestari,1990-02-27,08243543764,customer000699@example.com,Jl. Sudirman No. 129,Bekasi
+C000700,Andi Saputra,1991-09-20,08786188530,customer000700@example.com,Jl. Gatot Subroto No. 85,Surabaya
+C000701,Sari Pratama,1996-09-26,08705995475,customer000701@example.com,Jl. Gatot Subroto No. 90,Jakarta
+C000702,Fajar Saputra,2007-02-18,08830064157,customer000702@example.com,Jl. Diponegoro No. 176,Bandung
+C000703,Dewi Wijaya,1992-10-26,08343549625,customer000703@example.com,Jl. Ahmad Yani No. 173,Bogor
+C000704,Gita Ramadhan,1990-02-06,08997842846,customer000704@example.com,Jl. Ahmad Yani No. 142,Depok
+C000705,Andi Saputra,2007-06-23,08345552378,customer000705@example.com,Jl. Sudirman No. 80,Surabaya
+C000706,Budi Permata,2010-04-02,08685866146,customer000706@example.com,Jl. Gatot Subroto No. 123,Bekasi
+C000707,Fajar Siregar,2009-05-28,08398125953,customer000707@example.com,Jl. Sudirman No. 66,Semarang
+C000708,Lina Siregar,2011-01-18,08811763044,customer000708@example.com,Jl. Ahmad Yani No. 36,Makassar
+C000709,Maya Nugroho,2011-02-23,08508761109,customer000709@example.com,Jl. Merdeka No. 153,Surabaya
+C000710,Sari Nugroho,2005-08-29,08271377553,customer000710@example.com,Jl. Sudirman No. 153,Jakarta
+C000711,Tono Setiawan,2003-05-22,08715095307,customer000711@example.com,Jl. Diponegoro No. 199,Surabaya
+C000712,Lina Kurniawan,2012-08-16,08273706782,customer000712@example.com,Jl. Diponegoro No. 173,Surabaya
+C000713,Fajar Siregar,1998-09-11,08587564713,customer000713@example.com,Jl. Gatot Subroto No. 43,Makassar
+C000714,Nanda Ramadhan,1991-11-05,08327743786,customer000714@example.com,Jl. Gatot Subroto No. 149,Jakarta
+C000715,Fajar Siregar,2009-10-02,08661868132,customer000715@example.com,Jl. Merdeka No. 2,Surabaya
+C000716,Joko Pratama,1996-09-20,08720007306,customer000716@example.com,Jl. Sudirman No. 4,Makassar
+C000717,Dewi Permata,2015-12-19,08759743474,customer000717@example.com,Jl. Sudirman No. 199,Semarang
+C000718,Gita Wijaya,2000-07-03,08949552412,customer000718@example.com,Jl. Diponegoro No. 5,Depok
+C000719,Iwan Lestari,2012-06-26,08212044519,customer000719@example.com,Jl. Diponegoro No. 44,Depok
+C000720,Gita Setiawan,1990-04-30,08310595992,customer000720@example.com,Jl. Gatot Subroto No. 19,Bogor
+C000721,Putri Permata,2007-03-20,08910994780,customer000721@example.com,Jl. Ahmad Yani No. 89,Bekasi
+C000722,Tono Nugroho,2001-06-09,08585812700,customer000722@example.com,Jl. Merdeka No. 134,Surabaya
+C000723,Citra Santoso,2001-10-31,08188484931,customer000723@example.com,Jl. Diponegoro No. 154,Depok
+C000724,Tono Setiawan,1996-06-05,08722933020,customer000724@example.com,Jl. Ahmad Yani No. 157,Depok
+C000725,Oscar Wijaya,2015-10-03,08138661864,customer000725@example.com,Jl. Diponegoro No. 2,Makassar
+C000726,Fajar Santoso,1999-12-02,08346755316,customer000726@example.com,Jl. Merdeka No. 92,Tangerang
+C000727,Budi Pratama,2012-06-13,08749231988,customer000727@example.com,Jl. Sudirman No. 159,Bandung
+C000728,Lina Santoso,2000-10-21,08555404695,customer000728@example.com,Jl. Diponegoro No. 172,Semarang
+C000729,Vina Nugroho,1990-06-27,08784919414,customer000729@example.com,Jl. Merdeka No. 77,Bekasi
+C000730,Fajar Permata,2013-03-30,08614070837,customer000730@example.com,Jl. Ahmad Yani No. 25,Bekasi
+C000731,Putri Saputra,1994-03-27,08858752415,customer000731@example.com,Jl. Sudirman No. 150,Jakarta
+C000732,Andi Santoso,1996-07-26,08606309330,customer000732@example.com,Jl. Diponegoro No. 155,Medan
+C000733,Sari Wijaya,2012-09-28,08151135910,customer000733@example.com,Jl. Diponegoro No. 171,Surabaya
+C000734,Maya Hidayat,2013-08-20,08164135447,customer000734@example.com,Jl. Gatot Subroto No. 194,Bandung
+C000735,Putri Santoso,2014-04-07,08799216348,customer000735@example.com,Jl. Merdeka No. 118,Jakarta
+C000736,Sari Kurniawan,2000-10-29,08134741473,customer000736@example.com,Jl. Merdeka No. 46,Makassar
+C000737,Iwan Pratama,2009-11-21,08114493372,customer000737@example.com,Jl. Sudirman No. 129,Depok
+C000738,Vina Saputra,1998-02-21,08635623313,customer000738@example.com,Jl. Diponegoro No. 173,Makassar
+C000739,Joko Hidayat,2009-06-08,08255721528,customer000739@example.com,Jl. Sudirman No. 123,Semarang
+C000740,Eko Hidayat,2002-12-04,08996414178,customer000740@example.com,Jl. Ahmad Yani No. 196,Tangerang
+C000741,Dewi Santoso,1990-08-03,08163444841,customer000741@example.com,Jl. Sudirman No. 146,Depok
+C000742,Fajar Wijaya,2000-08-08,08157297230,customer000742@example.com,Jl. Merdeka No. 109,Bogor
+C000743,Iwan Ramadhan,2001-12-21,08344123099,customer000743@example.com,Jl. Diponegoro No. 191,Semarang
+C000744,Dewi Santoso,1996-03-18,08844307212,customer000744@example.com,Jl. Ahmad Yani No. 185,Surabaya
+C000745,Citra Permata,1999-06-02,08465217874,customer000745@example.com,Jl. Gatot Subroto No. 82,Medan
+C000746,Fajar Nugroho,2002-12-05,08675544991,customer000746@example.com,Jl. Ahmad Yani No. 7,Makassar
+C000747,Andi Saputra,1990-07-12,08130483393,customer000747@example.com,Jl. Diponegoro No. 10,Medan
+C000748,Iwan Nugroho,1993-04-28,08740545407,customer000748@example.com,Jl. Ahmad Yani No. 193,Bekasi
+C000749,Lina Siregar,2010-02-27,08233127391,customer000749@example.com,Jl. Ahmad Yani No. 168,Jakarta
+C000750,Joko Ramadhan,1998-10-20,08872591035,customer000750@example.com,Jl. Sudirman No. 198,Makassar
+C000751,Karin Saputra,2005-10-27,08366519718,customer000751@example.com,Jl. Diponegoro No. 135,Medan
+C000752,Eko Saputra,2004-08-27,08265412862,customer000752@example.com,Jl. Ahmad Yani No. 128,Surabaya
+C000753,Lina Pratama,2004-04-04,08403034439,customer000753@example.com,Jl. Sudirman No. 122,Depok
+C000754,Tono Nugroho,2000-06-26,08638675639,customer000754@example.com,Jl. Ahmad Yani No. 171,Bekasi
+C000755,Sari Kurniawan,2002-05-26,08370701380,customer000755@example.com,Jl. Diponegoro No. 100,Makassar
+C000756,Gita Pratama,2011-09-22,08418472774,customer000756@example.com,Jl. Diponegoro No. 23,Jakarta
+C000757,Oscar Saputra,2015-08-03,08826506578,customer000757@example.com,Jl. Merdeka No. 5,Jakarta
+C000758,Eko Setiawan,1996-03-12,08211408597,customer000758@example.com,Jl. Ahmad Yani No. 84,Medan
+C000759,Joko Santoso,2007-06-30,08456302669,customer000759@example.com,Jl. Gatot Subroto No. 140,Depok
+C000760,Joko Nugroho,2015-09-19,08267524878,customer000760@example.com,Jl. Merdeka No. 20,Semarang
+C000761,Sari Kurniawan,1989-05-16,08534563006,customer000761@example.com,Jl. Sudirman No. 184,Semarang
+C000762,Dewi Wijaya,2010-08-26,08398574380,customer000762@example.com,Jl. Merdeka No. 38,Bekasi
+C000763,Maya Santoso,2002-10-08,08141606212,customer000763@example.com,Jl. Merdeka No. 83,Jakarta
+C000764,Gita Wijaya,2015-08-28,08163210033,customer000764@example.com,Jl. Gatot Subroto No. 137,Jakarta
+C000765,Andi Setiawan,2004-12-30,08867100795,customer000765@example.com,Jl. Diponegoro No. 29,Bandung
+C000766,Budi Santoso,2012-02-11,08151221881,customer000766@example.com,Jl. Sudirman No. 105,Bogor
+C000767,Tono Pratama,1993-09-17,08804438715,customer000767@example.com,Jl. Sudirman No. 141,Medan
+C000768,Rina Santoso,1993-01-21,08924423628,customer000768@example.com,Jl. Gatot Subroto No. 41,Bandung
+C000769,Dewi Wijaya,2014-07-14,08519229293,customer000769@example.com,Jl. Sudirman No. 26,Semarang
+C000770,Oscar Lestari,2003-07-31,08798685588,customer000770@example.com,Jl. Ahmad Yani No. 92,Bogor
+C000771,Joko Pratama,2004-06-14,08984007626,customer000771@example.com,Jl. Sudirman No. 44,Depok
+C000772,Budi Permata,1993-10-26,08208384490,customer000772@example.com,Jl. Merdeka No. 95,Surabaya
+C000773,Eko Lestari,1995-05-17,08967930306,customer000773@example.com,Jl. Ahmad Yani No. 47,Surabaya
+C000774,Nanda Ramadhan,2011-07-27,08949363124,customer000774@example.com,Jl. Merdeka No. 95,Jakarta
+C000775,Joko Santoso,1997-06-21,08228314153,customer000775@example.com,Jl. Ahmad Yani No. 69,Tangerang
+C000776,Fajar Ramadhan,2005-02-27,08149264475,customer000776@example.com,Jl. Sudirman No. 31,Bandung
+C000777,Karin Lestari,1997-10-31,08743431871,customer000777@example.com,Jl. Ahmad Yani No. 172,Surabaya
+C000778,Joko Wijaya,1996-05-18,08169901612,customer000778@example.com,Jl. Ahmad Yani No. 104,Semarang
+C000779,Sari Siregar,1993-09-17,08640724399,customer000779@example.com,Jl. Ahmad Yani No. 79,Depok
+C000780,Vina Ramadhan,2014-08-13,08158280718,customer000780@example.com,Jl. Merdeka No. 74,Depok
+C000781,Fajar Saputra,2014-11-26,08186571899,customer000781@example.com,Jl. Ahmad Yani No. 129,Tangerang
+C000782,Eko Setiawan,1992-04-26,08159953674,customer000782@example.com,Jl. Gatot Subroto No. 199,Surabaya
+C000783,Lina Nugroho,1998-11-02,08269704070,customer000783@example.com,Jl. Sudirman No. 2,Semarang
+C000784,Vina Lestari,2004-08-08,08586677006,customer000784@example.com,Jl. Sudirman No. 175,Semarang
+C000785,Tono Setiawan,1999-08-29,08822046020,customer000785@example.com,Jl. Gatot Subroto No. 20,Jakarta
+C000786,Budi Hidayat,2008-11-27,08643720783,customer000786@example.com,Jl. Merdeka No. 113,Tangerang
+C000787,Oscar Siregar,1996-04-16,08367571831,customer000787@example.com,Jl. Ahmad Yani No. 196,Makassar
+C000788,Citra Saputra,1990-10-11,08987931967,customer000788@example.com,Jl. Ahmad Yani No. 43,Medan
+C000789,Karin Siregar,1998-05-23,08692685344,customer000789@example.com,Jl. Merdeka No. 127,Bogor
+C000790,Citra Lestari,2005-07-14,08256551901,customer000790@example.com,Jl. Diponegoro No. 184,Bandung
+C000791,Fajar Pratama,1994-02-10,08739685380,customer000791@example.com,Jl. Diponegoro No. 100,Bogor
+C000792,Karin Hidayat,2011-07-04,08986126536,customer000792@example.com,Jl. Sudirman No. 18,Depok
+C000793,Maya Saputra,1989-07-02,08530197565,customer000793@example.com,Jl. Gatot Subroto No. 165,Surabaya
+C000794,Rina Santoso,1991-01-06,08710210397,customer000794@example.com,Jl. Merdeka No. 141,Depok
+C000795,Sari Santoso,2003-02-05,08407016026,customer000795@example.com,Jl. Sudirman No. 87,Tangerang
+C000796,Oscar Hidayat,2003-03-11,08136163415,customer000796@example.com,Jl. Gatot Subroto No. 168,Semarang
+C000797,Hana Santoso,1997-03-28,08880305039,customer000797@example.com,Jl. Merdeka No. 62,Semarang
+C000798,Oscar Wijaya,1996-03-30,08428210460,customer000798@example.com,Jl. Gatot Subroto No. 183,Bekasi
+C000799,Nanda Kurniawan,1991-01-29,08103927259,customer000799@example.com,Jl. Merdeka No. 166,Bandung
+C000800,Rina Kurniawan,2007-04-26,08133463352,customer000800@example.com,Jl. Diponegoro No. 118,Jakarta
+C000801,Gita Kurniawan,1999-07-18,08556510759,customer000801@example.com,Jl. Merdeka No. 136,Depok
+C000802,Rina Saputra,1992-05-31,08662467732,customer000802@example.com,Jl. Ahmad Yani No. 132,Bogor
+C000803,Citra Ramadhan,2000-02-11,08943313499,customer000803@example.com,Jl. Ahmad Yani No. 189,Makassar
+C000804,Citra Lestari,2014-10-27,08783693190,customer000804@example.com,Jl. Gatot Subroto No. 149,Bandung
+C000805,Eko Wijaya,1996-04-26,08833622542,customer000805@example.com,Jl. Gatot Subroto No. 135,Makassar
+C000806,Putri Wijaya,2013-08-30,08843427430,customer000806@example.com,Jl. Ahmad Yani No. 108,Surabaya
+C000807,Nanda Kurniawan,1996-04-01,08256399198,customer000807@example.com,Jl. Ahmad Yani No. 15,Bekasi
+C000808,Budi Pratama,1994-04-04,08123603441,customer000808@example.com,Jl. Diponegoro No. 85,Depok
+C000809,Putri Permata,1996-04-20,08151923404,customer000809@example.com,Jl. Gatot Subroto No. 15,Semarang
+C000810,Citra Setiawan,1998-01-06,08991795480,customer000810@example.com,Jl. Ahmad Yani No. 37,Depok
+C000811,Fajar Santoso,1992-06-20,08172490451,customer000811@example.com,Jl. Gatot Subroto No. 170,Depok
+C000812,Tono Santoso,2005-04-03,08945418050,customer000812@example.com,Jl. Sudirman No. 174,Depok
+C000813,Lina Setiawan,1998-04-18,08754309814,customer000813@example.com,Jl. Diponegoro No. 194,Semarang
+C000814,Lina Lestari,2008-10-28,08231435222,customer000814@example.com,Jl. Ahmad Yani No. 7,Makassar
+C000815,Hana Wijaya,2002-08-10,08877667022,customer000815@example.com,Jl. Sudirman No. 81,Jakarta
+C000816,Lina Ramadhan,2001-04-14,08229789343,customer000816@example.com,Jl. Sudirman No. 27,Medan
+C000817,Budi Ramadhan,2002-01-22,08359486710,customer000817@example.com,Jl. Gatot Subroto No. 173,Semarang
+C000818,Iwan Permata,1993-06-11,08361741290,customer000818@example.com,Jl. Diponegoro No. 43,Makassar
+C000819,Dewi Lestari,2008-09-06,08275526520,customer000819@example.com,Jl. Merdeka No. 183,Bogor
+C000820,Dewi Saputra,1992-01-07,08646911702,customer000820@example.com,Jl. Sudirman No. 3,Bogor
+C000821,Oscar Santoso,2008-12-02,08598088232,customer000821@example.com,Jl. Sudirman No. 91,Medan
+C000822,Iwan Lestari,2016-07-15,08537890028,customer000822@example.com,Jl. Ahmad Yani No. 68,Depok
+C000823,Citra Saputra,2010-01-30,08729929952,customer000823@example.com,Jl. Gatot Subroto No. 129,Bandung
+C000824,Gita Lestari,2001-08-19,08783948633,customer000824@example.com,Jl. Gatot Subroto No. 74,Medan
+C000825,Vina Ramadhan,1997-10-10,08331129411,customer000825@example.com,Jl. Ahmad Yani No. 73,Depok
+C000826,Dewi Santoso,2013-01-20,08599509220,customer000826@example.com,Jl. Ahmad Yani No. 149,Depok
+C000827,Budi Lestari,1996-03-16,08620975009,customer000827@example.com,Jl. Sudirman No. 187,Bogor
+C000828,Dewi Pratama,2002-05-16,08184689375,customer000828@example.com,Jl. Gatot Subroto No. 179,Medan
+C000829,Rina Ramadhan,2010-04-09,08608601450,customer000829@example.com,Jl. Sudirman No. 143,Bogor
+C000830,Rina Saputra,2014-06-02,08238873346,customer000830@example.com,Jl. Merdeka No. 21,Bogor
+C000831,Maya Lestari,2014-05-19,08611943380,customer000831@example.com,Jl. Gatot Subroto No. 31,Makassar
+C000832,Dewi Permata,1991-07-27,08938615156,customer000832@example.com,Jl. Gatot Subroto No. 86,Jakarta
+C000833,Karin Hidayat,2013-10-04,08785356972,customer000833@example.com,Jl. Sudirman No. 15,Semarang
+C000834,Putri Kurniawan,1992-04-15,08378733778,customer000834@example.com,Jl. Ahmad Yani No. 144,Tangerang
+C000835,Karin Kurniawan,2005-03-02,08930465185,customer000835@example.com,Jl. Diponegoro No. 162,Makassar
+C000836,Putri Permata,2014-08-14,08831482268,customer000836@example.com,Jl. Sudirman No. 110,Bogor
+C000837,Fajar Siregar,2007-02-04,08925012254,customer000837@example.com,Jl. Sudirman No. 116,Bekasi
+C000838,Oscar Setiawan,2015-02-08,08767436850,customer000838@example.com,Jl. Merdeka No. 95,Jakarta
+C000839,Citra Nugroho,1998-08-05,08684453354,customer000839@example.com,Jl. Diponegoro No. 111,Bekasi
+C000840,Tono Permata,1997-10-13,08572501507,customer000840@example.com,Jl. Diponegoro No. 129,Semarang
+C000841,Tono Santoso,1998-02-05,08935414782,customer000841@example.com,Jl. Diponegoro No. 57,Bekasi
+C000842,Andi Siregar,1998-11-21,08863373193,customer000842@example.com,Jl. Sudirman No. 129,Makassar
+C000843,Hana Permata,2007-11-11,08475033692,customer000843@example.com,Jl. Gatot Subroto No. 150,Medan
+C000844,Iwan Hidayat,2001-07-21,08177087043,customer000844@example.com,Jl. Ahmad Yani No. 184,Jakarta
+C000845,Tono Wijaya,2009-05-10,08103254620,customer000845@example.com,Jl. Gatot Subroto No. 101,Bandung
+C000846,Putri Ramadhan,2000-07-23,08310133981,customer000846@example.com,Jl. Merdeka No. 127,Makassar
+C000847,Nanda Hidayat,1997-08-04,08290351709,customer000847@example.com,Jl. Ahmad Yani No. 56,Makassar
+C000848,Dewi Kurniawan,1994-05-15,08198538592,customer000848@example.com,Jl. Gatot Subroto No. 174,Makassar
+C000849,Joko Wijaya,2004-04-02,08982946807,customer000849@example.com,Jl. Sudirman No. 95,Bandung
+C000850,Hana Setiawan,2013-10-05,08185818107,customer000850@example.com,Jl. Merdeka No. 36,Makassar
+C000851,Fajar Pratama,2012-09-06,08664202049,customer000851@example.com,Jl. Sudirman No. 73,Jakarta
+C000852,Nanda Pratama,1996-02-07,08416532151,customer000852@example.com,Jl. Sudirman No. 31,Bandung
+C000853,Tono Ramadhan,2002-03-30,08256793925,customer000853@example.com,Jl. Diponegoro No. 125,Medan
+C000854,Vina Ramadhan,2008-06-22,08731143725,customer000854@example.com,Jl. Sudirman No. 107,Depok
+C000855,Eko Pratama,2005-12-07,08973499482,customer000855@example.com,Jl. Sudirman No. 141,Depok
+C000856,Gita Nugroho,1991-01-02,08811583924,customer000856@example.com,Jl. Ahmad Yani No. 192,Bogor
+C000857,Sari Kurniawan,2005-05-07,08706217176,customer000857@example.com,Jl. Merdeka No. 170,Bekasi
+C000858,Maya Ramadhan,1990-03-24,08231792556,customer000858@example.com,Jl. Sudirman No. 14,Semarang
+C000859,Maya Hidayat,1992-05-09,08867174700,customer000859@example.com,Jl. Ahmad Yani No. 35,Tangerang
+C000860,Iwan Permata,2007-01-24,08328621688,customer000860@example.com,Jl. Merdeka No. 195,Jakarta
+C000861,Budi Kurniawan,1991-12-22,08419321726,customer000861@example.com,Jl. Sudirman No. 109,Bekasi
+C000862,Nanda Kurniawan,1998-06-13,08649801124,customer000862@example.com,Jl. Sudirman No. 25,Semarang
+C000863,Karin Siregar,2005-04-11,08111694013,customer000863@example.com,Jl. Merdeka No. 4,Tangerang
+C000864,Tono Permata,2007-02-10,08836121546,customer000864@example.com,Jl. Diponegoro No. 87,Bogor
+C000865,Iwan Wijaya,2001-05-15,08167479714,customer000865@example.com,Jl. Merdeka No. 70,Tangerang
+C000866,Putri Ramadhan,1991-09-28,08397540498,customer000866@example.com,Jl. Sudirman No. 114,Bogor
+C000867,Nanda Ramadhan,2011-01-17,08852191759,customer000867@example.com,Jl. Gatot Subroto No. 138,Jakarta
+C000868,Sari Siregar,2015-03-04,08346820981,customer000868@example.com,Jl. Gatot Subroto No. 39,Bandung
+C000869,Karin Wijaya,2013-07-01,08585271615,customer000869@example.com,Jl. Sudirman No. 150,Depok
+C000870,Andi Pratama,2009-08-29,08830683136,customer000870@example.com,Jl. Sudirman No. 169,Makassar
+C000871,Iwan Kurniawan,2000-03-06,08130339938,customer000871@example.com,Jl. Diponegoro No. 40,Bandung
+C000872,Joko Santoso,2013-02-26,08725996826,customer000872@example.com,Jl. Gatot Subroto No. 110,Tangerang
+C000873,Eko Setiawan,2002-07-13,08269282943,customer000873@example.com,Jl. Gatot Subroto No. 90,Jakarta
+C000874,Vina Hidayat,1992-11-25,08225104570,customer000874@example.com,Jl. Merdeka No. 136,Bogor
+C000875,Rina Kurniawan,2012-06-14,08809468318,customer000875@example.com,Jl. Merdeka No. 132,Bandung
+C000876,Tono Ramadhan,1997-12-06,08827050517,customer000876@example.com,Jl. Diponegoro No. 158,Medan
+C000877,Maya Hidayat,2014-11-13,08983192945,customer000877@example.com,Jl. Gatot Subroto No. 82,Bekasi
+C000878,Maya Saputra,1999-04-02,08709458364,customer000878@example.com,Jl. Gatot Subroto No. 23,Makassar
+C000879,Gita Lestari,2012-12-19,08275353917,customer000879@example.com,Jl. Merdeka No. 198,Tangerang
+C000880,Lina Permata,2003-11-15,08365695713,customer000880@example.com,Jl. Diponegoro No. 90,Tangerang
+C000881,Hana Hidayat,2001-12-17,08683284536,customer000881@example.com,Jl. Merdeka No. 58,Bogor
+C000882,Andi Lestari,1997-04-17,08535160476,customer000882@example.com,Jl. Ahmad Yani No. 164,Medan
+C000883,Lina Setiawan,2012-01-18,08251257677,customer000883@example.com,Jl. Gatot Subroto No. 82,Bogor
+C000884,Karin Nugroho,1990-10-29,08495415055,customer000884@example.com,Jl. Diponegoro No. 33,Makassar
+C000885,Budi Pratama,2002-01-01,08314174870,customer000885@example.com,Jl. Merdeka No. 88,Bekasi
+C000886,Gita Hidayat,1999-04-07,08200910846,customer000886@example.com,Jl. Diponegoro No. 21,Tangerang
+C000887,Hana Hidayat,2004-01-16,08218753390,customer000887@example.com,Jl. Diponegoro No. 128,Bandung
+C000888,Putri Wijaya,1996-02-19,08566473847,customer000888@example.com,Jl. Gatot Subroto No. 187,Depok
+C000889,Gita Wijaya,2007-05-12,08429779188,customer000889@example.com,Jl. Sudirman No. 78,Bekasi
+C000890,Gita Kurniawan,1999-09-25,08189938627,customer000890@example.com,Jl. Gatot Subroto No. 138,Bandung
+C000891,Andi Hidayat,1994-04-26,08562869014,customer000891@example.com,Jl. Sudirman No. 137,Bekasi
+C000892,Andi Setiawan,1994-07-23,08247828048,customer000892@example.com,Jl. Merdeka No. 90,Bandung
+C000893,Oscar Pratama,2008-03-27,08113899804,customer000893@example.com,Jl. Sudirman No. 198,Bekasi
+C000894,Dewi Wijaya,1996-05-02,08219291682,customer000894@example.com,Jl. Merdeka No. 171,Tangerang
+C000895,Joko Siregar,1997-07-30,08317504766,customer000895@example.com,Jl. Sudirman No. 8,Bandung
+C000896,Lina Ramadhan,2006-05-01,08419683890,customer000896@example.com,Jl. Ahmad Yani No. 135,Tangerang
+C000897,Gita Saputra,1998-03-12,08745594151,customer000897@example.com,Jl. Merdeka No. 8,Bandung
+C000898,Joko Pratama,1999-10-17,08389872545,customer000898@example.com,Jl. Merdeka No. 82,Makassar
+C000899,Vina Pratama,1995-11-10,08691811751,customer000899@example.com,Jl. Merdeka No. 140,Bogor
+C000900,Joko Permata,1998-08-15,08908425399,customer000900@example.com,Jl. Merdeka No. 157,Surabaya
+C000901,Budi Nugroho,2008-02-18,08951563896,customer000901@example.com,Jl. Gatot Subroto No. 143,Bandung
+C000902,Joko Saputra,2003-10-14,08606669319,customer000902@example.com,Jl. Gatot Subroto No. 187,Medan
+C000903,Citra Santoso,2016-06-23,08741915359,customer000903@example.com,Jl. Merdeka No. 69,Semarang
+C000904,Andi Nugroho,2010-04-19,08927243907,customer000904@example.com,Jl. Ahmad Yani No. 68,Jakarta
+C000905,Budi Setiawan,1989-08-17,08369932414,customer000905@example.com,Jl. Ahmad Yani No. 155,Medan
+C000906,Eko Lestari,1999-07-16,08218825579,customer000906@example.com,Jl. Gatot Subroto No. 66,Surabaya
+C000907,Nanda Nugroho,1997-02-06,08203351206,customer000907@example.com,Jl. Sudirman No. 5,Bandung
+C000908,Sari Wijaya,2005-04-02,08893846903,customer000908@example.com,Jl. Sudirman No. 56,Surabaya
+C000909,Eko Saputra,1996-06-09,08600596606,customer000909@example.com,Jl. Diponegoro No. 84,Jakarta
+C000910,Citra Saputra,2015-08-15,08366711469,customer000910@example.com,Jl. Gatot Subroto No. 154,Bogor
+C000911,Gita Siregar,1997-05-12,08410983292,customer000911@example.com,Jl. Ahmad Yani No. 2,Bogor
+C000912,Gita Ramadhan,2003-06-16,08353513429,customer000912@example.com,Jl. Diponegoro No. 146,Semarang
+C000913,Putri Ramadhan,1992-07-13,08821716149,customer000913@example.com,Jl. Sudirman No. 85,Bekasi
+C000914,Citra Setiawan,2014-01-27,08651167787,customer000914@example.com,Jl. Ahmad Yani No. 159,Medan
+C000915,Maya Setiawan,2014-02-17,08371595345,customer000915@example.com,Jl. Gatot Subroto No. 86,Bogor
+C000916,Hana Setiawan,2010-11-23,08525316159,customer000916@example.com,Jl. Sudirman No. 77,Bandung
+C000917,Lina Santoso,1998-10-17,08974223120,customer000917@example.com,Jl. Ahmad Yani No. 84,Surabaya
+C000918,Iwan Wijaya,1990-10-10,08560677377,customer000918@example.com,Jl. Diponegoro No. 34,Tangerang
+C000919,Tono Saputra,2008-08-18,08472300064,customer000919@example.com,Jl. Diponegoro No. 48,Surabaya
+C000920,Eko Permata,2000-11-29,08343828353,customer000920@example.com,Jl. Diponegoro No. 177,Bekasi
+C000921,Iwan Wijaya,2016-04-12,08707294517,customer000921@example.com,Jl. Ahmad Yani No. 96,Medan
+C000922,Rina Ramadhan,2008-04-14,08133579262,customer000922@example.com,Jl. Gatot Subroto No. 196,Medan
+C000923,Oscar Lestari,2003-11-30,08348337248,customer000923@example.com,Jl. Diponegoro No. 152,Medan
+C000924,Iwan Permata,2016-03-07,08823601043,customer000924@example.com,Jl. Sudirman No. 175,Tangerang
+C000925,Karin Wijaya,2011-01-30,08179051440,customer000925@example.com,Jl. Sudirman No. 52,Jakarta
+C000926,Budi Saputra,2001-09-18,08191291545,customer000926@example.com,Jl. Merdeka No. 168,Tangerang
+C000927,Joko Wijaya,1989-09-06,08828854866,customer000927@example.com,Jl. Sudirman No. 162,Tangerang
+C000928,Citra Ramadhan,1991-09-15,08377873639,customer000928@example.com,Jl. Merdeka No. 100,Bekasi
+C000929,Hana Lestari,2001-04-25,08346490944,customer000929@example.com,Jl. Diponegoro No. 88,Bogor
+C000930,Karin Kurniawan,2004-07-21,08608784891,customer000930@example.com,Jl. Merdeka No. 15,Tangerang
+C000931,Oscar Saputra,1989-12-28,08138677612,customer000931@example.com,Jl. Sudirman No. 94,Makassar
+C000932,Rina Hidayat,1992-08-18,08104004849,customer000932@example.com,Jl. Ahmad Yani No. 93,Medan
+C000933,Rina Hidayat,2008-06-12,08171385209,customer000933@example.com,Jl. Sudirman No. 53,Semarang
+C000934,Citra Siregar,2009-09-28,08242677941,customer000934@example.com,Jl. Ahmad Yani No. 87,Bekasi
+C000935,Andi Siregar,1989-12-25,08368155527,customer000935@example.com,Jl. Gatot Subroto No. 88,Semarang
+C000936,Andi Pratama,2003-01-24,08164599383,customer000936@example.com,Jl. Diponegoro No. 13,Makassar
+C000937,Maya Setiawan,1991-05-20,08112982053,customer000937@example.com,Jl. Merdeka No. 170,Jakarta
+C000938,Iwan Wijaya,2008-12-21,08856115133,customer000938@example.com,Jl. Sudirman No. 84,Semarang
+C000939,Eko Ramadhan,2012-01-01,08404826069,customer000939@example.com,Jl. Diponegoro No. 12,Surabaya
+C000940,Oscar Wijaya,2012-12-19,08157465877,customer000940@example.com,Jl. Diponegoro No. 69,Medan
+C000941,Hana Saputra,2005-07-17,08305271466,customer000941@example.com,Jl. Merdeka No. 84,Makassar
+C000942,Dewi Ramadhan,2006-05-21,08549430702,customer000942@example.com,Jl. Diponegoro No. 38,Tangerang
+C000943,Maya Pratama,2014-07-14,08269901007,customer000943@example.com,Jl. Diponegoro No. 149,Medan
+C000944,Nanda Hidayat,2005-12-07,08980630593,customer000944@example.com,Jl. Sudirman No. 193,Bandung
+C000945,Budi Nugroho,2001-05-20,08787070163,customer000945@example.com,Jl. Ahmad Yani No. 154,Makassar
+C000946,Dewi Pratama,2009-10-28,08410121174,customer000946@example.com,Jl. Merdeka No. 153,Jakarta
+C000947,Sari Kurniawan,2005-05-05,08956387972,customer000947@example.com,Jl. Sudirman No. 142,Bekasi
+C000948,Citra Ramadhan,2012-03-25,08226161767,customer000948@example.com,Jl. Gatot Subroto No. 50,Tangerang
+C000949,Lina Ramadhan,2003-07-14,08944455447,customer000949@example.com,Jl. Sudirman No. 12,Surabaya
+C000950,Oscar Hidayat,2012-12-16,08635286252,customer000950@example.com,Jl. Ahmad Yani No. 155,Surabaya
+C000951,Karin Permata,1990-05-24,08255963239,customer000951@example.com,Jl. Diponegoro No. 33,Jakarta
+C000952,Oscar Pratama,1990-03-01,08721106721,customer000952@example.com,Jl. Sudirman No. 81,Semarang
+C000953,Gita Pratama,1991-11-17,08738933739,customer000953@example.com,Jl. Gatot Subroto No. 25,Jakarta
+C000954,Fajar Wijaya,2004-05-23,08611861774,customer000954@example.com,Jl. Sudirman No. 127,Bogor
+C000955,Andi Setiawan,2008-07-29,08733707000,customer000955@example.com,Jl. Sudirman No. 177,Bandung
+C000956,Budi Ramadhan,1995-02-01,08599544112,customer000956@example.com,Jl. Gatot Subroto No. 76,Depok
+C000957,Andi Siregar,1993-06-06,08837829996,customer000957@example.com,Jl. Ahmad Yani No. 151,Makassar
+C000958,Gita Permata,2012-09-20,08261628433,customer000958@example.com,Jl. Ahmad Yani No. 38,Surabaya
+C000959,Fajar Nugroho,2009-09-18,08535121785,customer000959@example.com,Jl. Merdeka No. 70,Bekasi
+C000960,Joko Permata,2006-12-01,08474755736,customer000960@example.com,Jl. Merdeka No. 59,Bandung
+C000961,Hana Permata,2002-07-15,08227874780,customer000961@example.com,Jl. Ahmad Yani No. 118,Bekasi
+C000962,Rina Nugroho,2000-09-02,08391444301,customer000962@example.com,Jl. Sudirman No. 4,Tangerang
+C000963,Hana Wijaya,1989-09-23,08958726597,customer000963@example.com,Jl. Sudirman No. 91,Depok
+C000964,Hana Wijaya,1994-04-26,08671776432,customer000964@example.com,Jl. Ahmad Yani No. 73,Bekasi
+C000965,Dewi Setiawan,2013-09-21,08527064142,customer000965@example.com,Jl. Sudirman No. 110,Medan
+C000966,Budi Nugroho,1998-06-13,08348071545,customer000966@example.com,Jl. Merdeka No. 45,Surabaya
+C000967,Rina Setiawan,2008-06-15,08192262646,customer000967@example.com,Jl. Merdeka No. 105,Bandung
+C000968,Citra Wijaya,2008-06-07,08184806877,customer000968@example.com,Jl. Diponegoro No. 116,Bogor
+C000969,Hana Permata,1997-08-21,08244109040,customer000969@example.com,Jl. Ahmad Yani No. 79,Medan
+C000970,Vina Pratama,1994-10-05,08271654441,customer000970@example.com,Jl. Gatot Subroto No. 183,Bekasi
+C000971,Dewi Saputra,2008-02-07,08854628026,customer000971@example.com,Jl. Merdeka No. 184,Semarang
+C000972,Sari Santoso,1991-09-23,08674857820,customer000972@example.com,Jl. Merdeka No. 50,Bogor
+C000973,Hana Wijaya,2002-09-18,08127368821,customer000973@example.com,Jl. Diponegoro No. 6,Bekasi
+C000974,Dewi Setiawan,2013-06-24,08665628966,customer000974@example.com,Jl. Sudirman No. 39,Semarang
+C000975,Andi Saputra,2008-08-22,08478949421,customer000975@example.com,Jl. Diponegoro No. 163,Medan
+C000976,Tono Lestari,2010-02-02,08134240942,customer000976@example.com,Jl. Gatot Subroto No. 43,Tangerang
+C000977,Budi Nugroho,1991-06-12,08181154778,customer000977@example.com,Jl. Diponegoro No. 95,Surabaya
+C000978,Vina Hidayat,1994-08-20,08219335599,customer000978@example.com,Jl. Diponegoro No. 126,Jakarta
+C000979,Karin Permata,1996-09-11,08490036524,customer000979@example.com,Jl. Gatot Subroto No. 81,Surabaya
+C000980,Nanda Pratama,1997-03-03,08516772796,customer000980@example.com,Jl. Merdeka No. 183,Makassar
+C000981,Rina Setiawan,1994-06-24,08417470384,customer000981@example.com,Jl. Gatot Subroto No. 65,Bandung
+C000982,Citra Siregar,2015-10-12,08658152439,customer000982@example.com,Jl. Diponegoro No. 172,Semarang
+C000983,Rina Kurniawan,1993-09-06,08748413236,customer000983@example.com,Jl. Diponegoro No. 96,Bogor
+C000984,Hana Nugroho,2008-07-21,08755859578,customer000984@example.com,Jl. Gatot Subroto No. 165,Jakarta
+C000985,Rina Wijaya,2005-03-25,08621123946,customer000985@example.com,Jl. Diponegoro No. 33,Jakarta
+C000986,Rina Setiawan,2005-11-18,08591000400,customer000986@example.com,Jl. Diponegoro No. 135,Medan
+C000987,Nanda Hidayat,1995-01-16,08542409189,customer000987@example.com,Jl. Sudirman No. 107,Jakarta
+C000988,Lina Santoso,1997-08-03,08314141251,customer000988@example.com,Jl. Ahmad Yani No. 17,Jakarta
+C000989,Tono Hidayat,2005-10-08,08538283873,customer000989@example.com,Jl. Diponegoro No. 147,Bandung
+C000990,Budi Siregar,1997-05-10,08109088220,customer000990@example.com,Jl. Sudirman No. 110,Bandung
+C000991,Nanda Lestari,2008-03-03,08969667197,customer000991@example.com,Jl. Ahmad Yani No. 9,Bekasi
+C000992,Budi Siregar,1990-04-01,08433084149,customer000992@example.com,Jl. Ahmad Yani No. 52,Bandung
+C000993,Maya Siregar,1991-02-28,08780664798,customer000993@example.com,Jl. Sudirman No. 129,Makassar
+C000994,Rina Pratama,2009-02-09,08961033595,customer000994@example.com,Jl. Merdeka No. 4,Tangerang
+C000995,Eko Setiawan,2006-01-19,08547281603,customer000995@example.com,Jl. Diponegoro No. 190,Depok
+C000996,Karin Nugroho,1990-05-07,08531300350,customer000996@example.com,Jl. Merdeka No. 157,Depok
+C000997,Fajar Lestari,2013-10-12,08219060163,customer000997@example.com,Jl. Merdeka No. 98,Semarang
+C000998,Putri Santoso,1989-04-19,08222060210,customer000998@example.com,Jl. Diponegoro No. 94,Bekasi
+C000999,Lina Setiawan,2015-04-30,08527597522,customer000999@example.com,Jl. Merdeka No. 150,Jakarta
+C001000,Fajar Saputra,2009-02-19,08387256574,customer001000@example.com,Jl. Sudirman No. 154,Bandung
+C001001,Sari Santoso,2016-03-21,08501454879,customer001001@example.com,Jl. Ahmad Yani No. 110,Bekasi
+C001002,Hana Nugroho,2015-02-22,08330345173,customer001002@example.com,Jl. Sudirman No. 130,Jakarta
+C001003,Putri Wijaya,1997-09-27,08883497671,customer001003@example.com,Jl. Gatot Subroto No. 184,Bandung
+C001004,Iwan Wijaya,2009-11-17,08999468031,customer001004@example.com,Jl. Gatot Subroto No. 44,Bandung
+C001005,Putri Lestari,1994-12-10,08176424482,customer001005@example.com,Jl. Diponegoro No. 80,Jakarta
+C001006,Joko Hidayat,2002-01-29,08746820703,customer001006@example.com,Jl. Gatot Subroto No. 190,Bandung
+C001007,Dewi Setiawan,1995-09-28,08142627395,customer001007@example.com,Jl. Gatot Subroto No. 33,Makassar
+C001008,Maya Saputra,2002-06-22,08929989299,customer001008@example.com,Jl. Sudirman No. 142,Depok
+C001009,Iwan Kurniawan,2013-01-18,08285312201,customer001009@example.com,Jl. Ahmad Yani No. 70,Jakarta
+C001010,Oscar Nugroho,2001-02-08,08122951407,customer001010@example.com,Jl. Merdeka No. 28,Bogor
+C001011,Gita Lestari,1991-09-11,08524154806,customer001011@example.com,Jl. Ahmad Yani No. 91,Jakarta
+C001012,Nanda Lestari,1998-01-20,08639657008,customer001012@example.com,Jl. Diponegoro No. 163,Depok
+C001013,Budi Nugroho,2010-09-13,08388605779,customer001013@example.com,Jl. Merdeka No. 151,Bekasi
+C001014,Maya Setiawan,2003-06-14,08164408049,customer001014@example.com,Jl. Sudirman No. 186,Makassar
+C001015,Karin Hidayat,2004-07-02,08204539561,customer001015@example.com,Jl. Gatot Subroto No. 100,Medan
+C001016,Lina Pratama,2000-12-20,08940049520,customer001016@example.com,Jl. Sudirman No. 47,Bandung
+C001017,Budi Kurniawan,1997-03-07,08825325170,customer001017@example.com,Jl. Merdeka No. 199,Surabaya
+C001018,Vina Ramadhan,2005-07-17,08943215884,customer001018@example.com,Jl. Merdeka No. 89,Bekasi
+C001019,Lina Santoso,2006-07-01,08577723444,customer001019@example.com,Jl. Diponegoro No. 136,Semarang
+C001020,Vina Nugroho,2013-10-03,08591448659,customer001020@example.com,Jl. Gatot Subroto No. 112,Jakarta
+C001021,Fajar Ramadhan,2006-01-29,08654975037,customer001021@example.com,Jl. Ahmad Yani No. 113,Tangerang
+C001022,Oscar Kurniawan,2016-05-29,08492796679,customer001022@example.com,Jl. Diponegoro No. 32,Depok
+C001023,Fajar Setiawan,2011-10-18,08362704960,customer001023@example.com,Jl. Sudirman No. 87,Jakarta
+C001024,Joko Permata,1991-04-28,08536956665,customer001024@example.com,Jl. Merdeka No. 63,Jakarta
+C001025,Putri Lestari,1999-11-26,08273203504,customer001025@example.com,Jl. Diponegoro No. 95,Bandung
+C001026,Dewi Saputra,1999-09-12,08763714399,customer001026@example.com,Jl. Gatot Subroto No. 193,Jakarta
+C001027,Hana Setiawan,1989-04-01,08881248542,customer001027@example.com,Jl. Ahmad Yani No. 16,Depok
+C001028,Oscar Hidayat,1994-02-11,08191607389,customer001028@example.com,Jl. Diponegoro No. 146,Bandung
+C001029,Oscar Kurniawan,2010-01-12,08187216174,customer001029@example.com,Jl. Diponegoro No. 92,Depok
+C001030,Hana Hidayat,1998-10-22,08177001876,customer001030@example.com,Jl. Diponegoro No. 81,Bandung
+C001031,Sari Permata,1993-03-19,08812420357,customer001031@example.com,Jl. Diponegoro No. 36,Bogor
+C001032,Citra Kurniawan,1997-01-13,08380100797,customer001032@example.com,Jl. Diponegoro No. 41,Tangerang
+C001033,Lina Permata,1996-09-08,08394087852,customer001033@example.com,Jl. Ahmad Yani No. 173,Semarang
+C001034,Oscar Ramadhan,1993-12-11,08111219093,customer001034@example.com,Jl. Diponegoro No. 78,Medan
+C001035,Gita Nugroho,1991-12-08,08975339780,customer001035@example.com,Jl. Gatot Subroto No. 132,Jakarta
+C001036,Dewi Lestari,2010-01-31,08490632053,customer001036@example.com,Jl. Diponegoro No. 6,Jakarta
+C001037,Iwan Hidayat,2011-09-28,08817701948,customer001037@example.com,Jl. Merdeka No. 45,Makassar
+C001038,Nanda Hidayat,2002-10-02,08736912818,customer001038@example.com,Jl. Sudirman No. 144,Jakarta
+C001039,Joko Nugroho,2006-01-06,08227597605,customer001039@example.com,Jl. Diponegoro No. 199,Depok
+C001040,Fajar Wijaya,2014-05-02,08821214037,customer001040@example.com,Jl. Diponegoro No. 180,Semarang
+C001041,Rina Wijaya,2012-03-27,08595273410,customer001041@example.com,Jl. Diponegoro No. 72,Bandung
+C001042,Gita Kurniawan,1990-01-21,08643876572,customer001042@example.com,Jl. Ahmad Yani No. 90,Makassar
+C001043,Citra Lestari,2015-04-04,08862186781,customer001043@example.com,Jl. Sudirman No. 95,Makassar
+C001044,Oscar Lestari,1990-12-31,08938500277,customer001044@example.com,Jl. Ahmad Yani No. 75,Tangerang
+C001045,Gita Santoso,1989-11-22,08465851982,customer001045@example.com,Jl. Ahmad Yani No. 196,Bandung
+C001046,Sari Saputra,2000-03-16,08183229613,customer001046@example.com,Jl. Diponegoro No. 59,Makassar
+C001047,Rina Pratama,2009-08-02,08863894875,customer001047@example.com,Jl. Diponegoro No. 167,Bekasi
+C001048,Dewi Siregar,1991-05-13,08555825978,customer001048@example.com,Jl. Merdeka No. 194,Surabaya
+C001049,Tono Ramadhan,1997-03-09,08621233872,customer001049@example.com,Jl. Diponegoro No. 168,Bekasi
+C001050,Putri Pratama,1996-05-11,08300732514,customer001050@example.com,Jl. Ahmad Yani No. 156,Tangerang
+C001051,Tono Kurniawan,2000-01-17,08160725888,customer001051@example.com,Jl. Gatot Subroto No. 37,Medan
+C001052,Dewi Wijaya,2016-02-29,08534661823,customer001052@example.com,Jl. Diponegoro No. 20,Bekasi
+C001053,Sari Saputra,1998-03-29,08723909311,customer001053@example.com,Jl. Sudirman No. 9,Bogor
+C001054,Putri Wijaya,1994-11-20,08123581335,customer001054@example.com,Jl. Ahmad Yani No. 121,Surabaya
+C001055,Fajar Saputra,1992-07-07,08318406638,customer001055@example.com,Jl. Ahmad Yani No. 36,Bogor
+C001056,Fajar Kurniawan,1994-08-04,08505584153,customer001056@example.com,Jl. Sudirman No. 135,Jakarta
+C001057,Tono Ramadhan,1992-10-23,08430018804,customer001057@example.com,Jl. Gatot Subroto No. 177,Bandung
+C001058,Oscar Pratama,2004-11-14,08268612308,customer001058@example.com,Jl. Merdeka No. 81,Jakarta
+C001059,Vina Permata,2000-09-05,08416214714,customer001059@example.com,Jl. Merdeka No. 163,Semarang
+C001060,Karin Kurniawan,2002-10-19,08400520362,customer001060@example.com,Jl. Merdeka No. 164,Bogor
+C001061,Putri Setiawan,2011-12-13,08572200757,customer001061@example.com,Jl. Merdeka No. 4,Depok
+C001062,Lina Lestari,2005-01-21,08894814192,customer001062@example.com,Jl. Gatot Subroto No. 88,Depok
+C001063,Oscar Saputra,1993-05-31,08826100693,customer001063@example.com,Jl. Diponegoro No. 129,Jakarta
+C001064,Gita Lestari,1999-06-25,08363104403,customer001064@example.com,Jl. Sudirman No. 138,Makassar
+C001065,Budi Saputra,1997-09-21,08912400915,customer001065@example.com,Jl. Diponegoro No. 55,Semarang
+C001066,Oscar Setiawan,2011-10-20,08568693546,customer001066@example.com,Jl. Sudirman No. 2,Medan
+C001067,Karin Hidayat,1997-07-28,08268909903,customer001067@example.com,Jl. Sudirman No. 118,Surabaya
+C001068,Iwan Kurniawan,1992-12-16,08406125057,customer001068@example.com,Jl. Merdeka No. 24,Surabaya
+C001069,Karin Santoso,2009-04-26,08767586219,customer001069@example.com,Jl. Ahmad Yani No. 86,Bogor
+C001070,Karin Hidayat,2000-11-22,08839595752,customer001070@example.com,Jl. Merdeka No. 149,Makassar
+C001071,Oscar Ramadhan,1991-10-16,08436711992,customer001071@example.com,Jl. Ahmad Yani No. 7,Medan
+C001072,Vina Lestari,2008-01-19,08241841361,customer001072@example.com,Jl. Sudirman No. 74,Jakarta
+C001073,Hana Nugroho,1994-12-06,08272698210,customer001073@example.com,Jl. Ahmad Yani No. 15,Tangerang
+C001074,Dewi Setiawan,2012-12-08,08193159241,customer001074@example.com,Jl. Gatot Subroto No. 64,Medan
+C001075,Rina Ramadhan,2011-12-16,08728863941,customer001075@example.com,Jl. Merdeka No. 172,Semarang
+C001076,Gita Saputra,1999-04-14,08552695727,customer001076@example.com,Jl. Merdeka No. 26,Depok
+C001077,Sari Permata,2004-05-17,08704698826,customer001077@example.com,Jl. Gatot Subroto No. 104,Bandung
+C001078,Oscar Nugroho,2004-09-16,08845799579,customer001078@example.com,Jl. Diponegoro No. 137,Makassar
+C001079,Iwan Lestari,2007-01-21,08630662366,customer001079@example.com,Jl. Ahmad Yani No. 123,Bekasi
+C001080,Rina Hidayat,1991-01-22,08894262577,customer001080@example.com,Jl. Merdeka No. 110,Medan
+C001081,Rina Pratama,1998-01-22,08796464784,customer001081@example.com,Jl. Sudirman No. 161,Jakarta
+C001082,Iwan Ramadhan,1993-10-30,08396471392,customer001082@example.com,Jl. Diponegoro No. 25,Surabaya
+C001083,Vina Setiawan,2008-04-05,08453439052,customer001083@example.com,Jl. Gatot Subroto No. 57,Jakarta
+C001084,Gita Ramadhan,1991-01-22,08901176445,customer001084@example.com,Jl. Sudirman No. 187,Makassar
+C001085,Tono Setiawan,2003-04-27,08204489376,customer001085@example.com,Jl. Ahmad Yani No. 172,Semarang
+C001086,Andi Kurniawan,2009-02-03,08905129300,customer001086@example.com,Jl. Ahmad Yani No. 182,Bandung
+C001087,Vina Siregar,2015-02-17,08134850340,customer001087@example.com,Jl. Merdeka No. 120,Depok
+C001088,Eko Siregar,1997-01-19,08121052041,customer001088@example.com,Jl. Sudirman No. 80,Bandung
+C001089,Citra Nugroho,1989-05-20,08545942206,customer001089@example.com,Jl. Sudirman No. 41,Semarang
+C001090,Maya Nugroho,2008-12-24,08369612278,customer001090@example.com,Jl. Diponegoro No. 183,Bogor
+C001091,Nanda Pratama,1989-03-17,08420685734,customer001091@example.com,Jl. Ahmad Yani No. 70,Jakarta
+C001092,Maya Lestari,1990-12-25,08608429944,customer001092@example.com,Jl. Diponegoro No. 106,Surabaya
+C001093,Maya Saputra,2016-04-13,08604539526,customer001093@example.com,Jl. Sudirman No. 104,Semarang
+C001094,Gita Saputra,2012-10-12,08941438083,customer001094@example.com,Jl. Ahmad Yani No. 49,Makassar
+C001095,Joko Lestari,2008-07-15,08532548232,customer001095@example.com,Jl. Diponegoro No. 141,Surabaya
+C001096,Hana Hidayat,2012-01-16,08607808397,customer001096@example.com,Jl. Diponegoro No. 59,Bogor
+C001097,Fajar Pratama,1991-03-25,08710148520,customer001097@example.com,Jl. Diponegoro No. 158,Jakarta
+C001098,Nanda Siregar,1991-08-08,08256809318,customer001098@example.com,Jl. Sudirman No. 115,Bogor
+C001099,Fajar Ramadhan,1997-05-27,08700265946,customer001099@example.com,Jl. Ahmad Yani No. 64,Makassar
+C001100,Lina Pratama,1989-10-25,08875720320,customer001100@example.com,Jl. Sudirman No. 177,Jakarta
+C001101,Hana Santoso,2013-06-27,08386257731,customer001101@example.com,Jl. Sudirman No. 120,Bandung
+C001102,Andi Hidayat,1990-09-15,08260506025,customer001102@example.com,Jl. Merdeka No. 185,Bandung
+C001103,Joko Siregar,2004-01-23,08411593009,customer001103@example.com,Jl. Diponegoro No. 152,Surabaya
+C001104,Citra Ramadhan,2012-07-15,08347534979,customer001104@example.com,Jl. Ahmad Yani No. 71,Semarang
+C001105,Eko Wijaya,2009-04-15,08626633038,customer001105@example.com,Jl. Sudirman No. 140,Depok
+C001106,Nanda Siregar,1995-08-05,08877362301,customer001106@example.com,Jl. Gatot Subroto No. 26,Semarang
+C001107,Maya Wijaya,2002-01-16,08636789220,customer001107@example.com,Jl. Gatot Subroto No. 166,Tangerang
+C001108,Citra Hidayat,2004-03-05,08212960308,customer001108@example.com,Jl. Merdeka No. 22,Surabaya
+C001109,Joko Setiawan,2010-03-11,08383229921,customer001109@example.com,Jl. Ahmad Yani No. 168,Surabaya
+C001110,Fajar Pratama,2000-11-01,08720383628,customer001110@example.com,Jl. Sudirman No. 128,Surabaya
+C001111,Tono Wijaya,1996-12-20,08397286096,customer001111@example.com,Jl. Gatot Subroto No. 65,Semarang
+C001112,Andi Nugroho,2010-12-12,08627751856,customer001112@example.com,Jl. Sudirman No. 198,Bekasi
+C001113,Iwan Lestari,2013-06-08,08396251021,customer001113@example.com,Jl. Sudirman No. 95,Surabaya
+C001114,Sari Setiawan,2002-07-20,08682669739,customer001114@example.com,Jl. Diponegoro No. 105,Surabaya
+C001115,Fajar Setiawan,1989-12-07,08458304875,customer001115@example.com,Jl. Sudirman No. 136,Bogor
+C001116,Maya Santoso,2002-11-15,08221545723,customer001116@example.com,Jl. Ahmad Yani No. 40,Depok
+C001117,Tono Wijaya,2013-07-06,08434963765,customer001117@example.com,Jl. Diponegoro No. 12,Bandung
+C001118,Lina Siregar,2016-03-30,08496937691,customer001118@example.com,Jl. Sudirman No. 197,Bekasi
+C001119,Eko Saputra,2000-02-23,08903435469,customer001119@example.com,Jl. Diponegoro No. 124,Bandung
+C001120,Joko Ramadhan,1993-04-11,08575100955,customer001120@example.com,Jl. Gatot Subroto No. 143,Bandung
+C001121,Eko Lestari,2004-10-30,08132675108,customer001121@example.com,Jl. Ahmad Yani No. 142,Medan
+C001122,Joko Wijaya,2011-11-29,08869647550,customer001122@example.com,Jl. Diponegoro No. 126,Depok
+C001123,Oscar Siregar,2015-01-15,08110843765,customer001123@example.com,Jl. Sudirman No. 178,Bandung
+C001124,Lina Pratama,1990-08-01,08246860341,customer001124@example.com,Jl. Merdeka No. 176,Tangerang
+C001125,Dewi Nugroho,1997-02-13,08427414744,customer001125@example.com,Jl. Gatot Subroto No. 29,Bandung
+C001126,Karin Permata,2002-03-30,08556523768,customer001126@example.com,Jl. Ahmad Yani No. 197,Tangerang
+C001127,Eko Permata,1991-11-09,08753186948,customer001127@example.com,Jl. Diponegoro No. 68,Jakarta
+C001128,Fajar Kurniawan,2013-06-07,08481902785,customer001128@example.com,Jl. Gatot Subroto No. 102,Medan
+C001129,Putri Lestari,1992-03-27,08109116403,customer001129@example.com,Jl. Merdeka No. 50,Depok
+C001130,Andi Setiawan,2007-05-19,08692685289,customer001130@example.com,Jl. Ahmad Yani No. 91,Surabaya
+C001131,Andi Setiawan,2014-04-26,08923857242,customer001131@example.com,Jl. Sudirman No. 160,Depok
+C001132,Andi Permata,2007-12-05,08367406500,customer001132@example.com,Jl. Merdeka No. 44,Depok
+C001133,Citra Wijaya,2010-01-23,08129882865,customer001133@example.com,Jl. Diponegoro No. 8,Depok
+C001134,Nanda Kurniawan,1996-05-17,08358069510,customer001134@example.com,Jl. Sudirman No. 182,Semarang
+C001135,Citra Setiawan,2011-10-27,08224837248,customer001135@example.com,Jl. Gatot Subroto No. 174,Tangerang
+C001136,Gita Saputra,2000-08-16,08879648195,customer001136@example.com,Jl. Sudirman No. 13,Tangerang
+C001137,Fajar Nugroho,1990-11-05,08534344717,customer001137@example.com,Jl. Gatot Subroto No. 75,Semarang
+C001138,Dewi Nugroho,1999-03-15,08930150615,customer001138@example.com,Jl. Ahmad Yani No. 24,Tangerang
+C001139,Eko Santoso,1998-09-29,08698642241,customer001139@example.com,Jl. Ahmad Yani No. 117,Bogor
+C001140,Hana Kurniawan,2003-06-11,08565725268,customer001140@example.com,Jl. Gatot Subroto No. 21,Bekasi
+C001141,Putri Hidayat,1996-06-01,08282410008,customer001141@example.com,Jl. Diponegoro No. 197,Tangerang
+C001142,Gita Siregar,2001-10-27,08605843364,customer001142@example.com,Jl. Sudirman No. 131,Tangerang
+C001143,Nanda Siregar,2000-11-18,08968809409,customer001143@example.com,Jl. Merdeka No. 145,Bekasi
+C001144,Tono Siregar,1998-02-11,08228433034,customer001144@example.com,Jl. Sudirman No. 114,Surabaya
+C001145,Tono Hidayat,2008-03-24,08341662282,customer001145@example.com,Jl. Gatot Subroto No. 132,Tangerang
+C001146,Hana Saputra,1997-07-12,08891184086,customer001146@example.com,Jl. Diponegoro No. 38,Bandung
+C001147,Eko Kurniawan,2010-02-17,08457352244,customer001147@example.com,Jl. Sudirman No. 170,Semarang
+C001148,Oscar Siregar,1996-01-13,08316559744,customer001148@example.com,Jl. Sudirman No. 131,Bogor
+C001149,Dewi Nugroho,2012-11-04,08125509393,customer001149@example.com,Jl. Diponegoro No. 64,Surabaya
+C001150,Eko Ramadhan,1999-02-28,08322454963,customer001150@example.com,Jl. Ahmad Yani No. 73,Bekasi
+C001151,Fajar Wijaya,1990-04-12,08766400818,customer001151@example.com,Jl. Sudirman No. 106,Medan
+C001152,Lina Ramadhan,1993-04-09,08876872386,customer001152@example.com,Jl. Ahmad Yani No. 172,Surabaya
+C001153,Tono Wijaya,2011-03-29,08934237325,customer001153@example.com,Jl. Ahmad Yani No. 132,Jakarta
+C001154,Gita Wijaya,2013-01-16,08167303380,customer001154@example.com,Jl. Ahmad Yani No. 54,Makassar
+C001155,Gita Permata,1994-12-20,08199153040,customer001155@example.com,Jl. Sudirman No. 97,Medan
+C001156,Fajar Santoso,2005-08-26,08168895920,customer001156@example.com,Jl. Ahmad Yani No. 129,Makassar
+C001157,Karin Santoso,2004-11-21,08722761387,customer001157@example.com,Jl. Merdeka No. 156,Jakarta
+C001158,Eko Santoso,1992-10-29,08530349071,customer001158@example.com,Jl. Sudirman No. 175,Surabaya
+C001159,Budi Nugroho,2001-07-16,08683167037,customer001159@example.com,Jl. Ahmad Yani No. 196,Jakarta
+C001160,Sari Siregar,2008-02-29,08866336427,customer001160@example.com,Jl. Ahmad Yani No. 105,Semarang
+C001161,Budi Santoso,2015-08-24,08161944673,customer001161@example.com,Jl. Merdeka No. 80,Bogor
+C001162,Gita Lestari,2012-05-16,08574777623,customer001162@example.com,Jl. Gatot Subroto No. 77,Bandung
+C001163,Oscar Siregar,1991-11-05,08850980475,customer001163@example.com,Jl. Merdeka No. 49,Depok
+C001164,Gita Pratama,1995-09-02,08496263577,customer001164@example.com,Jl. Diponegoro No. 126,Jakarta
+C001165,Andi Wijaya,2001-02-14,08571081462,customer001165@example.com,Jl. Gatot Subroto No. 186,Makassar
+C001166,Budi Ramadhan,1993-04-16,08916477634,customer001166@example.com,Jl. Diponegoro No. 111,Bogor
+C001167,Fajar Siregar,2004-10-15,08144904198,customer001167@example.com,Jl. Gatot Subroto No. 10,Semarang
+C001168,Lina Permata,1989-05-27,08834744777,customer001168@example.com,Jl. Diponegoro No. 95,Bandung
+C001169,Joko Siregar,1992-04-10,08471058498,customer001169@example.com,Jl. Ahmad Yani No. 160,Makassar
+C001170,Andi Wijaya,1990-06-17,08432085392,customer001170@example.com,Jl. Ahmad Yani No. 131,Surabaya
+C001171,Iwan Hidayat,1997-04-03,08326539577,customer001171@example.com,Jl. Ahmad Yani No. 116,Bekasi
+C001172,Karin Kurniawan,2010-01-13,08887891123,customer001172@example.com,Jl. Sudirman No. 57,Bekasi
+C001173,Lina Saputra,1994-01-07,08555377952,customer001173@example.com,Jl. Ahmad Yani No. 124,Depok
+C001174,Gita Siregar,2016-03-11,08751011601,customer001174@example.com,Jl. Sudirman No. 175,Depok
+C001175,Eko Permata,1996-07-18,08190730239,customer001175@example.com,Jl. Gatot Subroto No. 125,Depok
+C001176,Karin Siregar,1990-05-24,08810033482,customer001176@example.com,Jl. Sudirman No. 187,Tangerang
+C001177,Oscar Nugroho,1998-05-08,08692961532,customer001177@example.com,Jl. Sudirman No. 87,Medan
+C001178,Gita Hidayat,2009-08-24,08997849302,customer001178@example.com,Jl. Gatot Subroto No. 104,Bogor
+C001179,Iwan Pratama,1992-02-01,08220579496,customer001179@example.com,Jl. Sudirman No. 16,Semarang
+C001180,Maya Pratama,1991-02-18,08586036334,customer001180@example.com,Jl. Sudirman No. 134,Jakarta
+C001181,Maya Siregar,2012-06-02,08560055665,customer001181@example.com,Jl. Ahmad Yani No. 45,Depok
+C001182,Vina Wijaya,2005-05-18,08148943776,customer001182@example.com,Jl. Merdeka No. 140,Depok
+C001183,Putri Wijaya,1998-07-25,08525809924,customer001183@example.com,Jl. Merdeka No. 13,Bogor
+C001184,Gita Pratama,2009-11-12,08369561240,customer001184@example.com,Jl. Diponegoro No. 114,Semarang
+C001185,Dewi Pratama,2012-04-13,08655618059,customer001185@example.com,Jl. Sudirman No. 43,Medan
+C001186,Andi Siregar,1999-01-01,08308872414,customer001186@example.com,Jl. Sudirman No. 69,Makassar
+C001187,Budi Hidayat,2004-07-12,08491546918,customer001187@example.com,Jl. Merdeka No. 3,Semarang
+C001188,Nanda Setiawan,1989-06-19,08658028387,customer001188@example.com,Jl. Sudirman No. 4,Tangerang
+C001189,Sari Wijaya,1997-07-19,08157640848,customer001189@example.com,Jl. Sudirman No. 116,Medan
+C001190,Vina Lestari,2005-06-17,08744161278,customer001190@example.com,Jl. Merdeka No. 123,Tangerang
+C001191,Dewi Nugroho,1994-07-25,08151572658,customer001191@example.com,Jl. Ahmad Yani No. 115,Medan
+C001192,Tono Hidayat,2016-04-21,08158262342,customer001192@example.com,Jl. Ahmad Yani No. 162,Surabaya
+C001193,Dewi Ramadhan,2015-10-03,08865255315,customer001193@example.com,Jl. Merdeka No. 34,Bogor
+C001194,Vina Setiawan,1996-03-21,08874690924,customer001194@example.com,Jl. Sudirman No. 137,Makassar
+C001195,Vina Ramadhan,2000-01-07,08549327394,customer001195@example.com,Jl. Gatot Subroto No. 183,Tangerang
+C001196,Joko Pratama,1994-05-09,08408042166,customer001196@example.com,Jl. Diponegoro No. 82,Makassar
+C001197,Maya Pratama,2002-12-18,08346204317,customer001197@example.com,Jl. Diponegoro No. 12,Semarang
+C001198,Joko Lestari,1992-07-23,08693103658,customer001198@example.com,Jl. Diponegoro No. 103,Bogor
+C001199,Tono Saputra,1999-11-14,08198754230,customer001199@example.com,Jl. Sudirman No. 153,Semarang
+C001200,Fajar Kurniawan,2004-05-14,08411270575,customer001200@example.com,Jl. Gatot Subroto No. 61,Bogor
+C001201,Andi Permata,2005-12-01,08238771793,customer001201@example.com,Jl. Gatot Subroto No. 22,Medan
+C001202,Oscar Permata,2005-06-30,08417540226,customer001202@example.com,Jl. Gatot Subroto No. 153,Jakarta
+C001203,Hana Siregar,1995-03-25,08709806837,customer001203@example.com,Jl. Sudirman No. 130,Jakarta
+C001204,Hana Kurniawan,2010-11-09,08177723706,customer001204@example.com,Jl. Sudirman No. 160,Bogor
+C001205,Joko Santoso,2008-02-08,08885158262,customer001205@example.com,Jl. Merdeka No. 49,Makassar
+C001206,Karin Santoso,2009-10-13,08890624938,customer001206@example.com,Jl. Sudirman No. 40,Semarang
+C001207,Tono Lestari,2001-12-22,08931860782,customer001207@example.com,Jl. Sudirman No. 120,Bekasi
+C001208,Hana Nugroho,2013-08-08,08485151397,customer001208@example.com,Jl. Ahmad Yani No. 111,Depok
+C001209,Maya Saputra,1999-11-03,08839451822,customer001209@example.com,Jl. Merdeka No. 41,Depok
+C001210,Fajar Nugroho,2011-03-24,08754540513,customer001210@example.com,Jl. Gatot Subroto No. 51,Depok
+C001211,Fajar Siregar,1994-09-27,08606275307,customer001211@example.com,Jl. Merdeka No. 91,Bandung
+C001212,Citra Siregar,1995-12-08,08261554657,customer001212@example.com,Jl. Merdeka No. 69,Jakarta
+C001213,Gita Permata,2003-08-03,08601838731,customer001213@example.com,Jl. Gatot Subroto No. 54,Tangerang
+C001214,Dewi Hidayat,2004-05-20,08911214587,customer001214@example.com,Jl. Ahmad Yani No. 98,Jakarta
+C001215,Putri Saputra,2009-08-06,08986146637,customer001215@example.com,Jl. Sudirman No. 132,Tangerang
+C001216,Citra Permata,1997-04-23,08503259989,customer001216@example.com,Jl. Diponegoro No. 64,Bandung
+C001217,Dewi Saputra,2013-01-21,08323111520,customer001217@example.com,Jl. Sudirman No. 183,Surabaya
+C001218,Joko Permata,1998-03-12,08772756962,customer001218@example.com,Jl. Merdeka No. 191,Tangerang
+C001219,Maya Kurniawan,2003-10-16,08235983771,customer001219@example.com,Jl. Diponegoro No. 199,Depok
+C001220,Rina Santoso,2014-09-06,08605746830,customer001220@example.com,Jl. Sudirman No. 113,Tangerang
+C001221,Hana Santoso,2003-12-08,08991182909,customer001221@example.com,Jl. Ahmad Yani No. 68,Depok
+C001222,Andi Pratama,2007-11-01,08395907037,customer001222@example.com,Jl. Sudirman No. 104,Jakarta
+C001223,Lina Ramadhan,2014-01-16,08496453944,customer001223@example.com,Jl. Ahmad Yani No. 53,Bekasi
+C001224,Putri Lestari,2015-11-06,08106376818,customer001224@example.com,Jl. Ahmad Yani No. 128,Surabaya
+C001225,Putri Pratama,2002-11-03,08635250363,customer001225@example.com,Jl. Merdeka No. 187,Bandung
+C001226,Rina Ramadhan,2000-07-31,08636615467,customer001226@example.com,Jl. Merdeka No. 131,Bekasi
+C001227,Budi Nugroho,1994-07-23,08384007026,customer001227@example.com,Jl. Diponegoro No. 131,Bandung
+C001228,Rina Nugroho,2003-11-18,08337630331,customer001228@example.com,Jl. Ahmad Yani No. 137,Makassar
+C001229,Rina Setiawan,2014-04-23,08142360367,customer001229@example.com,Jl. Ahmad Yani No. 168,Medan
+C001230,Joko Santoso,2002-07-03,08136388738,customer001230@example.com,Jl. Ahmad Yani No. 162,Tangerang
+C001231,Gita Pratama,1998-09-15,08893578282,customer001231@example.com,Jl. Diponegoro No. 41,Jakarta
+C001232,Joko Lestari,1992-02-07,08427925418,customer001232@example.com,Jl. Sudirman No. 122,Bandung
+C001233,Joko Pratama,1999-11-02,08191649052,customer001233@example.com,Jl. Diponegoro No. 16,Medan
+C001234,Gita Kurniawan,1995-08-25,08891071984,customer001234@example.com,Jl. Sudirman No. 193,Medan
+C001235,Andi Pratama,2015-11-28,08233760637,customer001235@example.com,Jl. Ahmad Yani No. 151,Tangerang
+C001236,Sari Wijaya,2003-08-12,08403003726,customer001236@example.com,Jl. Merdeka No. 13,Depok
+C001237,Iwan Pratama,1992-11-30,08118618719,customer001237@example.com,Jl. Sudirman No. 171,Bandung
+C001238,Citra Nugroho,1991-01-04,08711166788,customer001238@example.com,Jl. Diponegoro No. 157,Bogor
+C001239,Karin Pratama,2012-06-16,08729370842,customer001239@example.com,Jl. Diponegoro No. 98,Medan
+C001240,Budi Wijaya,2014-09-01,08336739332,customer001240@example.com,Jl. Ahmad Yani No. 191,Bogor
+C001241,Nanda Ramadhan,2010-01-21,08395290727,customer001241@example.com,Jl. Diponegoro No. 119,Bogor
+C001242,Dewi Saputra,1992-07-22,08944307894,customer001242@example.com,Jl. Gatot Subroto No. 75,Jakarta
+C001243,Gita Hidayat,1991-11-09,08839476660,customer001243@example.com,Jl. Gatot Subroto No. 107,Makassar
+C001244,Eko Santoso,1994-08-02,08133441242,customer001244@example.com,Jl. Gatot Subroto No. 94,Medan
+C001245,Karin Hidayat,2009-09-24,08675916259,customer001245@example.com,Jl. Ahmad Yani No. 65,Medan
+C001246,Gita Saputra,2010-02-13,08100893217,customer001246@example.com,Jl. Ahmad Yani No. 65,Semarang
+C001247,Tono Lestari,2012-02-08,08127047170,customer001247@example.com,Jl. Ahmad Yani No. 157,Makassar
+C001248,Iwan Pratama,1991-10-27,08131581689,customer001248@example.com,Jl. Diponegoro No. 86,Medan
+C001249,Rina Ramadhan,1993-05-12,08243079010,customer001249@example.com,Jl. Sudirman No. 146,Bandung
+C001250,Andi Setiawan,2013-10-24,08991779258,customer001250@example.com,Jl. Diponegoro No. 103,Surabaya
+C001251,Nanda Wijaya,2014-08-05,08670918125,customer001251@example.com,Jl. Merdeka No. 22,Bandung
+C001252,Putri Wijaya,2009-01-13,08804055530,customer001252@example.com,Jl. Merdeka No. 170,Bekasi
+C001253,Budi Wijaya,1992-01-26,08366026516,customer001253@example.com,Jl. Gatot Subroto No. 14,Depok
+C001254,Joko Lestari,1991-01-17,08943808731,customer001254@example.com,Jl. Merdeka No. 156,Semarang
+C001255,Iwan Wijaya,1990-09-08,08279023254,customer001255@example.com,Jl. Diponegoro No. 62,Semarang
+C001256,Dewi Ramadhan,2008-02-09,08912072883,customer001256@example.com,Jl. Ahmad Yani No. 48,Jakarta
+C001257,Vina Siregar,2012-04-29,08127714751,customer001257@example.com,Jl. Merdeka No. 74,Surabaya
+C001258,Citra Siregar,2006-06-17,08118398684,customer001258@example.com,Jl. Gatot Subroto No. 153,Bogor
+C001259,Nanda Permata,1996-05-05,08171007523,customer001259@example.com,Jl. Merdeka No. 112,Jakarta
+C001260,Citra Setiawan,2009-11-25,08331747524,customer001260@example.com,Jl. Gatot Subroto No. 190,Bandung
+C001261,Iwan Santoso,1990-10-14,08524181687,customer001261@example.com,Jl. Ahmad Yani No. 26,Bekasi
+C001262,Eko Hidayat,2011-11-03,08810602382,customer001262@example.com,Jl. Sudirman No. 44,Makassar
+C001263,Budi Saputra,2013-08-01,08413860586,customer001263@example.com,Jl. Merdeka No. 35,Jakarta
+C001264,Joko Setiawan,2008-10-31,08106044205,customer001264@example.com,Jl. Sudirman No. 111,Medan
+C001265,Budi Permata,2013-03-28,08447829316,customer001265@example.com,Jl. Sudirman No. 84,Tangerang
+C001266,Tono Siregar,2005-03-19,08359379370,customer001266@example.com,Jl. Sudirman No. 31,Semarang
+C001267,Tono Pratama,2001-12-27,08757791687,customer001267@example.com,Jl. Gatot Subroto No. 120,Semarang
+C001268,Rina Setiawan,1997-12-29,08776191397,customer001268@example.com,Jl. Sudirman No. 162,Depok
+C001269,Gita Nugroho,2014-05-27,08182761997,customer001269@example.com,Jl. Gatot Subroto No. 193,Makassar
+C001270,Karin Nugroho,2008-04-03,08813718708,customer001270@example.com,Jl. Merdeka No. 128,Bogor
+C001271,Fajar Setiawan,1994-05-19,08163442694,customer001271@example.com,Jl. Gatot Subroto No. 161,Surabaya
+C001272,Vina Hidayat,2015-05-14,08657743140,customer001272@example.com,Jl. Sudirman No. 178,Surabaya
+C001273,Rina Hidayat,1990-10-15,08450355147,customer001273@example.com,Jl. Diponegoro No. 98,Bandung
+C001274,Putri Lestari,2005-04-02,08534867503,customer001274@example.com,Jl. Diponegoro No. 154,Depok
+C001275,Joko Wijaya,1994-05-20,08379326331,customer001275@example.com,Jl. Merdeka No. 108,Makassar
+C001276,Nanda Saputra,2007-05-10,08814477280,customer001276@example.com,Jl. Gatot Subroto No. 110,Semarang
+C001277,Eko Pratama,2000-06-18,08834219285,customer001277@example.com,Jl. Sudirman No. 12,Depok
+C001278,Vina Wijaya,2001-02-18,08495290960,customer001278@example.com,Jl. Diponegoro No. 140,Semarang
+C001279,Putri Ramadhan,2007-07-21,08552956633,customer001279@example.com,Jl. Diponegoro No. 195,Bandung
+C001280,Andi Lestari,2009-11-13,08502412994,customer001280@example.com,Jl. Ahmad Yani No. 102,Makassar
+C001281,Lina Hidayat,1999-07-28,08814186558,customer001281@example.com,Jl. Merdeka No. 112,Medan
+C001282,Nanda Hidayat,2016-06-24,08597099474,customer001282@example.com,Jl. Merdeka No. 145,Medan
+C001283,Iwan Nugroho,2002-10-24,08468552102,customer001283@example.com,Jl. Merdeka No. 181,Medan
+C001284,Rina Lestari,1993-07-22,08437540972,customer001284@example.com,Jl. Sudirman No. 87,Bogor
+C001285,Hana Setiawan,1989-05-04,08597404407,customer001285@example.com,Jl. Merdeka No. 42,Surabaya
+C001286,Rina Setiawan,1994-09-16,08720095773,customer001286@example.com,Jl. Gatot Subroto No. 57,Surabaya
+C001287,Oscar Hidayat,2008-02-01,08489101879,customer001287@example.com,Jl. Diponegoro No. 196,Makassar
+C001288,Putri Saputra,2003-12-08,08825995228,customer001288@example.com,Jl. Ahmad Yani No. 9,Jakarta
+C001289,Fajar Nugroho,1998-06-01,08844043426,customer001289@example.com,Jl. Sudirman No. 77,Bandung
+C001290,Vina Permata,2002-05-06,08486170594,customer001290@example.com,Jl. Sudirman No. 48,Makassar
+C001291,Hana Nugroho,2012-02-11,08918145916,customer001291@example.com,Jl. Diponegoro No. 76,Makassar
+C001292,Fajar Lestari,2004-10-24,08255737324,customer001292@example.com,Jl. Sudirman No. 83,Depok
+C001293,Hana Permata,1990-10-03,08938899232,customer001293@example.com,Jl. Sudirman No. 46,Bandung
+C001294,Hana Saputra,1990-07-05,08364690070,customer001294@example.com,Jl. Diponegoro No. 188,Bekasi
+C001295,Vina Hidayat,2002-05-13,08607866584,customer001295@example.com,Jl. Diponegoro No. 119,Medan
+C001296,Budi Hidayat,2000-03-26,08497933701,customer001296@example.com,Jl. Gatot Subroto No. 123,Bandung
+C001297,Karin Wijaya,2012-06-14,08406055420,customer001297@example.com,Jl. Sudirman No. 80,Semarang
+C001298,Gita Wijaya,2005-02-15,08173070658,customer001298@example.com,Jl. Diponegoro No. 95,Surabaya
+C001299,Karin Kurniawan,2009-11-20,08854491231,customer001299@example.com,Jl. Merdeka No. 22,Medan
+C001300,Vina Hidayat,2005-03-09,08913460879,customer001300@example.com,Jl. Sudirman No. 182,Medan
+C001301,Sari Pratama,1998-08-14,08592547360,customer001301@example.com,Jl. Ahmad Yani No. 168,Medan
+C001302,Putri Permata,2007-03-01,08729982918,customer001302@example.com,Jl. Merdeka No. 83,Medan
+C001303,Putri Siregar,2006-03-07,08279166861,customer001303@example.com,Jl. Diponegoro No. 87,Bogor
+C001304,Karin Saputra,2008-11-19,08774756414,customer001304@example.com,Jl. Diponegoro No. 72,Bogor
+C001305,Karin Siregar,1994-05-07,08708754398,customer001305@example.com,Jl. Merdeka No. 171,Medan
+C001306,Vina Setiawan,2006-09-24,08375020226,customer001306@example.com,Jl. Gatot Subroto No. 17,Bogor
+C001307,Dewi Lestari,1996-12-24,08771520199,customer001307@example.com,Jl. Diponegoro No. 104,Bekasi
+C001308,Citra Kurniawan,2010-10-20,08811951617,customer001308@example.com,Jl. Ahmad Yani No. 197,Bekasi
+C001309,Vina Santoso,2011-01-11,08287780798,customer001309@example.com,Jl. Diponegoro No. 150,Surabaya
+C001310,Nanda Setiawan,2006-04-09,08655691211,customer001310@example.com,Jl. Gatot Subroto No. 166,Medan
+C001311,Rina Hidayat,2015-01-31,08548537091,customer001311@example.com,Jl. Sudirman No. 163,Semarang
+C001312,Citra Setiawan,2003-11-19,08364636172,customer001312@example.com,Jl. Diponegoro No. 4,Jakarta
+C001313,Tono Permata,1989-11-08,08629441698,customer001313@example.com,Jl. Ahmad Yani No. 167,Jakarta
+C001314,Vina Santoso,2005-10-05,08993397245,customer001314@example.com,Jl. Sudirman No. 90,Depok
+C001315,Maya Santoso,2010-06-16,08102230137,customer001315@example.com,Jl. Sudirman No. 24,Medan
+C001316,Tono Kurniawan,1991-12-08,08961188537,customer001316@example.com,Jl. Gatot Subroto No. 5,Bekasi
+C001317,Tono Permata,1992-01-12,08870366256,customer001317@example.com,Jl. Diponegoro No. 3,Depok
+C001318,Budi Santoso,1996-08-23,08576436272,customer001318@example.com,Jl. Ahmad Yani No. 180,Jakarta
+C001319,Gita Kurniawan,2012-04-12,08649022056,customer001319@example.com,Jl. Ahmad Yani No. 121,Bekasi
+C001320,Dewi Ramadhan,2003-08-09,08432272052,customer001320@example.com,Jl. Gatot Subroto No. 194,Medan
+C001321,Eko Nugroho,2015-11-25,08216222698,customer001321@example.com,Jl. Gatot Subroto No. 47,Makassar
+C001322,Eko Nugroho,2013-01-24,08614328548,customer001322@example.com,Jl. Diponegoro No. 163,Bogor
+C001323,Joko Santoso,2004-05-10,08834721364,customer001323@example.com,Jl. Sudirman No. 135,Depok
+C001324,Lina Siregar,2007-10-04,08773246810,customer001324@example.com,Jl. Merdeka No. 175,Jakarta
+C001325,Tono Saputra,1998-03-25,08782469588,customer001325@example.com,Jl. Ahmad Yani No. 148,Bandung
+C001326,Sari Ramadhan,1991-08-23,08406000036,customer001326@example.com,Jl. Gatot Subroto No. 44,Medan
+C001327,Vina Hidayat,2000-01-31,08452838215,customer001327@example.com,Jl. Diponegoro No. 171,Jakarta
+C001328,Sari Permata,2005-05-19,08910404992,customer001328@example.com,Jl. Merdeka No. 164,Bandung
+C001329,Budi Saputra,1994-02-25,08472624823,customer001329@example.com,Jl. Sudirman No. 115,Tangerang
+C001330,Nanda Wijaya,1995-03-28,08972979468,customer001330@example.com,Jl. Diponegoro No. 137,Bandung
+C001331,Iwan Siregar,1989-07-29,08613458236,customer001331@example.com,Jl. Gatot Subroto No. 70,Bandung
+C001332,Citra Nugroho,2009-04-06,08446552053,customer001332@example.com,Jl. Merdeka No. 85,Makassar
+C001333,Eko Permata,2013-10-16,08100578073,customer001333@example.com,Jl. Ahmad Yani No. 150,Jakarta
+C001334,Eko Setiawan,2011-10-27,08649968348,customer001334@example.com,Jl. Ahmad Yani No. 68,Surabaya
+C001335,Budi Setiawan,1999-07-27,08680385802,customer001335@example.com,Jl. Gatot Subroto No. 17,Bogor
+C001336,Putri Ramadhan,2005-05-31,08971544252,customer001336@example.com,Jl. Merdeka No. 5,Depok
+C001337,Sari Pratama,2015-06-22,08746358211,customer001337@example.com,Jl. Gatot Subroto No. 36,Bogor
+C001338,Tono Lestari,2005-05-10,08126706843,customer001338@example.com,Jl. Ahmad Yani No. 162,Semarang
+C001339,Vina Ramadhan,1997-04-07,08610398428,customer001339@example.com,Jl. Ahmad Yani No. 189,Depok
+C001340,Lina Hidayat,1998-06-08,08768500629,customer001340@example.com,Jl. Merdeka No. 82,Surabaya
+C001341,Citra Wijaya,2009-01-27,08546902934,customer001341@example.com,Jl. Diponegoro No. 139,Semarang
+C001342,Hana Siregar,2001-05-20,08486416094,customer001342@example.com,Jl. Ahmad Yani No. 112,Bandung
+C001343,Karin Nugroho,2012-02-03,08828942825,customer001343@example.com,Jl. Sudirman No. 22,Bekasi
+C001344,Eko Permata,2012-10-28,08650234586,customer001344@example.com,Jl. Diponegoro No. 52,Bandung
+C001345,Maya Setiawan,1990-02-23,08713235444,customer001345@example.com,Jl. Diponegoro No. 159,Surabaya
+C001346,Oscar Lestari,2008-12-20,08517693696,customer001346@example.com,Jl. Diponegoro No. 117,Medan
+C001347,Tono Nugroho,1999-04-18,08350266635,customer001347@example.com,Jl. Merdeka No. 129,Medan
+C001348,Tono Hidayat,2003-05-25,08567181959,customer001348@example.com,Jl. Diponegoro No. 25,Semarang
+C001349,Citra Nugroho,1996-05-31,08963166003,customer001349@example.com,Jl. Sudirman No. 156,Semarang
+C001350,Citra Wijaya,1999-04-01,08736540473,customer001350@example.com,Jl. Gatot Subroto No. 102,Surabaya
+C001351,Sari Siregar,1998-03-18,08211719671,customer001351@example.com,Jl. Gatot Subroto No. 36,Bogor
+C001352,Eko Ramadhan,1990-07-18,08320232354,customer001352@example.com,Jl. Sudirman No. 186,Makassar
+C001353,Budi Saputra,2010-08-06,08974135183,customer001353@example.com,Jl. Merdeka No. 132,Bogor
+C001354,Oscar Saputra,1993-01-30,08501185253,customer001354@example.com,Jl. Sudirman No. 66,Bogor
+C001355,Oscar Ramadhan,1999-06-15,08927018749,customer001355@example.com,Jl. Diponegoro No. 72,Depok
+C001356,Budi Santoso,1994-06-14,08902630924,customer001356@example.com,Jl. Gatot Subroto No. 194,Bekasi
+C001357,Tono Permata,1993-07-25,08924766903,customer001357@example.com,Jl. Diponegoro No. 105,Bandung
+C001358,Karin Nugroho,1999-05-22,08648486430,customer001358@example.com,Jl. Merdeka No. 47,Bogor
+C001359,Iwan Kurniawan,2014-04-27,08863897118,customer001359@example.com,Jl. Merdeka No. 171,Medan
+C001360,Lina Wijaya,2015-01-06,08254953596,customer001360@example.com,Jl. Sudirman No. 68,Tangerang
+C001361,Maya Kurniawan,1999-08-14,08163255805,customer001361@example.com,Jl. Gatot Subroto No. 142,Surabaya
+C001362,Citra Hidayat,2002-12-30,08788838869,customer001362@example.com,Jl. Ahmad Yani No. 8,Jakarta
+C001363,Putri Lestari,2016-02-25,08575105990,customer001363@example.com,Jl. Diponegoro No. 112,Bekasi
+C001364,Citra Santoso,1995-08-06,08568771442,customer001364@example.com,Jl. Sudirman No. 149,Medan
+C001365,Lina Nugroho,2015-01-12,08648860363,customer001365@example.com,Jl. Gatot Subroto No. 52,Bandung
+C001366,Vina Permata,1992-01-23,08881415214,customer001366@example.com,Jl. Sudirman No. 65,Depok
+C001367,Tono Pratama,1995-05-08,08857635255,customer001367@example.com,Jl. Gatot Subroto No. 16,Jakarta
+C001368,Iwan Wijaya,1998-06-06,08198690308,customer001368@example.com,Jl. Gatot Subroto No. 155,Medan
+C001369,Lina Pratama,1990-03-07,08442846312,customer001369@example.com,Jl. Diponegoro No. 117,Tangerang
+C001370,Joko Hidayat,2011-07-02,08819471045,customer001370@example.com,Jl. Gatot Subroto No. 154,Tangerang
+C001371,Dewi Wijaya,2012-08-02,08992208885,customer001371@example.com,Jl. Sudirman No. 11,Medan
+C001372,Karin Setiawan,1999-08-30,08489092765,customer001372@example.com,Jl. Ahmad Yani No. 30,Semarang
+C001373,Dewi Hidayat,2012-01-24,08711199814,customer001373@example.com,Jl. Merdeka No. 196,Bekasi
+C001374,Eko Siregar,2010-04-26,08197727892,customer001374@example.com,Jl. Diponegoro No. 130,Bandung
+C001375,Iwan Setiawan,2011-02-09,08939124124,customer001375@example.com,Jl. Sudirman No. 21,Jakarta
+C001376,Eko Santoso,2011-02-22,08238175464,customer001376@example.com,Jl. Merdeka No. 71,Bandung
+C001377,Lina Lestari,2004-11-12,08440534600,customer001377@example.com,Jl. Merdeka No. 84,Bekasi
+C001378,Vina Ramadhan,1992-03-14,08853855562,customer001378@example.com,Jl. Sudirman No. 105,Medan
+C001379,Sari Lestari,2014-06-13,08970677245,customer001379@example.com,Jl. Diponegoro No. 62,Jakarta
+C001380,Hana Nugroho,2005-10-30,08535945832,customer001380@example.com,Jl. Diponegoro No. 16,Bandung
+C001381,Citra Nugroho,2013-11-03,08536248925,customer001381@example.com,Jl. Sudirman No. 195,Jakarta
+C001382,Hana Santoso,2015-06-04,08143850183,customer001382@example.com,Jl. Gatot Subroto No. 97,Bekasi
+C001383,Eko Permata,1994-04-16,08980985873,customer001383@example.com,Jl. Gatot Subroto No. 100,Medan
+C001384,Hana Setiawan,2000-03-05,08114842132,customer001384@example.com,Jl. Merdeka No. 173,Jakarta
+C001385,Joko Setiawan,1994-06-08,08123477468,customer001385@example.com,Jl. Diponegoro No. 122,Surabaya
+C001386,Nanda Santoso,1990-07-24,08526127861,customer001386@example.com,Jl. Ahmad Yani No. 62,Depok
+C001387,Eko Kurniawan,2015-08-17,08103269764,customer001387@example.com,Jl. Ahmad Yani No. 100,Makassar
+C001388,Karin Saputra,2014-06-12,08247940853,customer001388@example.com,Jl. Sudirman No. 60,Bekasi
+C001389,Karin Ramadhan,2014-09-04,08664947942,customer001389@example.com,Jl. Ahmad Yani No. 50,Jakarta
+C001390,Hana Santoso,2013-05-11,08734613350,customer001390@example.com,Jl. Merdeka No. 176,Jakarta
+C001391,Gita Setiawan,2006-12-05,08368356123,customer001391@example.com,Jl. Sudirman No. 128,Jakarta
+C001392,Putri Ramadhan,2003-06-18,08815791115,customer001392@example.com,Jl. Ahmad Yani No. 167,Semarang
+C001393,Tono Wijaya,2016-04-23,08646943864,customer001393@example.com,Jl. Ahmad Yani No. 141,Tangerang
+C001394,Fajar Santoso,2004-04-14,08305467037,customer001394@example.com,Jl. Gatot Subroto No. 188,Depok
+C001395,Andi Ramadhan,2006-10-03,08741198762,customer001395@example.com,Jl. Merdeka No. 148,Surabaya
+C001396,Tono Wijaya,1994-12-18,08632959249,customer001396@example.com,Jl. Merdeka No. 178,Depok
+C001397,Oscar Permata,2009-08-11,08830901322,customer001397@example.com,Jl. Merdeka No. 50,Depok
+C001398,Budi Ramadhan,2011-08-08,08239000178,customer001398@example.com,Jl. Merdeka No. 121,Bandung
+C001399,Sari Permata,2007-09-29,08307769264,customer001399@example.com,Jl. Merdeka No. 4,Tangerang
+C001400,Oscar Hidayat,2002-10-26,08407273422,customer001400@example.com,Jl. Diponegoro No. 194,Medan
+C001401,Putri Nugroho,1994-08-01,08899915943,customer001401@example.com,Jl. Diponegoro No. 89,Jakarta
+C001402,Vina Santoso,1990-02-03,08759287340,customer001402@example.com,Jl. Ahmad Yani No. 110,Semarang
+C001403,Dewi Setiawan,2006-05-05,08589688281,customer001403@example.com,Jl. Sudirman No. 118,Tangerang
+C001404,Fajar Saputra,2007-11-13,08586408427,customer001404@example.com,Jl. Merdeka No. 49,Depok
+C001405,Putri Pratama,2010-04-27,08897299824,customer001405@example.com,Jl. Ahmad Yani No. 68,Surabaya
+C001406,Karin Saputra,2015-03-10,08502115360,customer001406@example.com,Jl. Merdeka No. 25,Tangerang
+C001407,Dewi Setiawan,2002-10-13,08302723023,customer001407@example.com,Jl. Gatot Subroto No. 66,Semarang
+C001408,Dewi Wijaya,2011-11-13,08223209189,customer001408@example.com,Jl. Merdeka No. 146,Medan
+C001409,Nanda Ramadhan,2008-10-10,08397021908,customer001409@example.com,Jl. Diponegoro No. 90,Jakarta
+C001410,Citra Kurniawan,1996-10-02,08687964014,customer001410@example.com,Jl. Gatot Subroto No. 63,Bogor
+C001411,Karin Siregar,2012-04-21,08479604353,customer001411@example.com,Jl. Diponegoro No. 149,Bekasi
+C001412,Citra Setiawan,1990-08-17,08977387302,customer001412@example.com,Jl. Ahmad Yani No. 42,Bandung
+C001413,Maya Ramadhan,2005-07-24,08997883169,customer001413@example.com,Jl. Ahmad Yani No. 148,Makassar
+C001414,Hana Setiawan,2014-11-29,08245163215,customer001414@example.com,Jl. Merdeka No. 33,Tangerang
+C001415,Maya Wijaya,2007-03-17,08203000786,customer001415@example.com,Jl. Ahmad Yani No. 24,Makassar
+C001416,Tono Siregar,2014-10-27,08319877509,customer001416@example.com,Jl. Gatot Subroto No. 22,Surabaya
+C001417,Gita Permata,1990-09-14,08513563719,customer001417@example.com,Jl. Gatot Subroto No. 134,Bogor
+C001418,Hana Permata,2003-09-29,08877313834,customer001418@example.com,Jl. Diponegoro No. 54,Surabaya
+C001419,Vina Ramadhan,2010-07-16,08682075984,customer001419@example.com,Jl. Sudirman No. 149,Semarang
+C001420,Eko Setiawan,2006-10-02,08597878767,customer001420@example.com,Jl. Ahmad Yani No. 42,Semarang
+C001421,Iwan Kurniawan,2013-04-10,08353363381,customer001421@example.com,Jl. Diponegoro No. 198,Bekasi
+C001422,Putri Nugroho,2001-10-31,08567303493,customer001422@example.com,Jl. Sudirman No. 138,Makassar
+C001423,Joko Nugroho,2007-11-09,08352336268,customer001423@example.com,Jl. Merdeka No. 166,Tangerang
+C001424,Sari Hidayat,2000-08-28,08363220933,customer001424@example.com,Jl. Merdeka No. 60,Bogor
+C001425,Fajar Hidayat,2013-01-16,08135592185,customer001425@example.com,Jl. Diponegoro No. 74,Bogor
+C001426,Dewi Hidayat,1992-06-08,08819196702,customer001426@example.com,Jl. Merdeka No. 128,Bekasi
+C001427,Citra Wijaya,1996-02-15,08945335365,customer001427@example.com,Jl. Merdeka No. 196,Bogor
+C001428,Oscar Santoso,1991-10-25,08933257959,customer001428@example.com,Jl. Merdeka No. 67,Bogor
+C001429,Lina Siregar,2008-05-22,08560334433,customer001429@example.com,Jl. Gatot Subroto No. 31,Bogor
+C001430,Oscar Nugroho,1995-07-16,08660422209,customer001430@example.com,Jl. Merdeka No. 149,Depok
+C001431,Dewi Setiawan,1997-11-06,08485285790,customer001431@example.com,Jl. Merdeka No. 180,Bandung
+C001432,Rina Lestari,2012-01-27,08562887399,customer001432@example.com,Jl. Diponegoro No. 173,Bandung
+C001433,Budi Santoso,1999-01-10,08739962417,customer001433@example.com,Jl. Sudirman No. 29,Tangerang
+C001434,Gita Wijaya,1993-02-27,08643768741,customer001434@example.com,Jl. Gatot Subroto No. 152,Semarang
+C001435,Sari Pratama,1989-09-27,08553539667,customer001435@example.com,Jl. Gatot Subroto No. 64,Bekasi
+C001436,Fajar Setiawan,1995-05-16,08914055714,customer001436@example.com,Jl. Diponegoro No. 115,Bogor
+C001437,Rina Pratama,2014-03-17,08899450778,customer001437@example.com,Jl. Diponegoro No. 49,Depok
+C001438,Hana Permata,2004-03-09,08266001364,customer001438@example.com,Jl. Sudirman No. 122,Tangerang
+C001439,Nanda Setiawan,2016-05-27,08363980560,customer001439@example.com,Jl. Merdeka No. 67,Surabaya
+C001440,Sari Setiawan,1995-01-21,08976013814,customer001440@example.com,Jl. Sudirman No. 14,Medan
+C001441,Andi Pratama,1998-10-15,08388956035,customer001441@example.com,Jl. Merdeka No. 99,Bogor
+C001442,Lina Santoso,1993-08-20,08830971495,customer001442@example.com,Jl. Merdeka No. 69,Bekasi
+C001443,Hana Wijaya,2000-01-27,08807173643,customer001443@example.com,Jl. Diponegoro No. 174,Surabaya
+C001444,Tono Santoso,2004-08-03,08874660024,customer001444@example.com,Jl. Merdeka No. 87,Bogor
+C001445,Citra Pratama,2011-04-17,08114400690,customer001445@example.com,Jl. Merdeka No. 86,Medan
+C001446,Citra Permata,1999-03-30,08534617048,customer001446@example.com,Jl. Diponegoro No. 160,Bekasi
+C001447,Hana Ramadhan,2010-04-16,08608960115,customer001447@example.com,Jl. Diponegoro No. 187,Makassar
+C001448,Fajar Permata,2006-04-23,08853481393,customer001448@example.com,Jl. Merdeka No. 11,Depok
+C001449,Nanda Lestari,1997-02-26,08302020444,customer001449@example.com,Jl. Merdeka No. 71,Bandung
+C001450,Putri Pratama,2014-02-21,08376096674,customer001450@example.com,Jl. Merdeka No. 19,Semarang
+C001451,Karin Siregar,2001-01-20,08261910590,customer001451@example.com,Jl. Sudirman No. 195,Tangerang
+C001452,Sari Lestari,1993-04-19,08785753359,customer001452@example.com,Jl. Gatot Subroto No. 4,Bekasi
+C001453,Nanda Ramadhan,2015-07-10,08998985249,customer001453@example.com,Jl. Gatot Subroto No. 41,Jakarta
+C001454,Maya Setiawan,2014-03-05,08226405142,customer001454@example.com,Jl. Diponegoro No. 66,Jakarta
+C001455,Citra Hidayat,1990-07-10,08309803887,customer001455@example.com,Jl. Diponegoro No. 152,Depok
+C001456,Citra Wijaya,2013-11-15,08900127173,customer001456@example.com,Jl. Ahmad Yani No. 119,Medan
+C001457,Joko Pratama,2015-02-07,08501159396,customer001457@example.com,Jl. Ahmad Yani No. 145,Bekasi
+C001458,Iwan Nugroho,2011-11-12,08353741641,customer001458@example.com,Jl. Merdeka No. 79,Jakarta
+C001459,Maya Setiawan,1996-02-23,08390087745,customer001459@example.com,Jl. Merdeka No. 141,Semarang
+C001460,Rina Hidayat,2006-06-13,08638307380,customer001460@example.com,Jl. Diponegoro No. 127,Jakarta
+C001461,Gita Siregar,2003-11-26,08448315403,customer001461@example.com,Jl. Diponegoro No. 55,Tangerang
+C001462,Citra Permata,2006-02-22,08226368893,customer001462@example.com,Jl. Merdeka No. 194,Bekasi
+C001463,Iwan Pratama,2006-01-16,08838094269,customer001463@example.com,Jl. Sudirman No. 22,Bandung
+C001464,Maya Saputra,2006-09-01,08480009960,customer001464@example.com,Jl. Sudirman No. 180,Semarang
+C001465,Dewi Lestari,2003-03-29,08331008302,customer001465@example.com,Jl. Sudirman No. 197,Bekasi
+C001466,Dewi Kurniawan,2008-01-26,08755590473,customer001466@example.com,Jl. Diponegoro No. 172,Jakarta
+C001467,Dewi Nugroho,2003-08-02,08239532839,customer001467@example.com,Jl. Ahmad Yani No. 9,Bogor
+C001468,Rina Pratama,1989-08-13,08789165195,customer001468@example.com,Jl. Diponegoro No. 83,Bekasi
+C001469,Putri Kurniawan,1990-02-17,08663167366,customer001469@example.com,Jl. Sudirman No. 110,Bandung
+C001470,Tono Pratama,2015-05-25,08812820917,customer001470@example.com,Jl. Merdeka No. 139,Bandung
+C001471,Oscar Setiawan,2014-01-22,08461528897,customer001471@example.com,Jl. Gatot Subroto No. 19,Depok
+C001472,Putri Pratama,2005-03-14,08630601377,customer001472@example.com,Jl. Diponegoro No. 131,Jakarta
+C001473,Rina Wijaya,1993-12-11,08923624562,customer001473@example.com,Jl. Merdeka No. 78,Makassar
+C001474,Lina Nugroho,2010-07-24,08909645602,customer001474@example.com,Jl. Sudirman No. 8,Jakarta
+C001475,Karin Permata,1993-02-01,08820641675,customer001475@example.com,Jl. Gatot Subroto No. 89,Makassar
+C001476,Andi Permata,1999-06-30,08993040008,customer001476@example.com,Jl. Ahmad Yani No. 117,Semarang
+C001477,Tono Nugroho,1998-03-13,08451401858,customer001477@example.com,Jl. Gatot Subroto No. 199,Tangerang
+C001478,Fajar Setiawan,1989-07-03,08202695382,customer001478@example.com,Jl. Ahmad Yani No. 71,Bekasi
+C001479,Budi Nugroho,2011-04-06,08535792162,customer001479@example.com,Jl. Diponegoro No. 165,Medan
+C001480,Karin Nugroho,2003-02-14,08771300755,customer001480@example.com,Jl. Diponegoro No. 104,Depok
+C001481,Tono Nugroho,1997-10-28,08801421789,customer001481@example.com,Jl. Merdeka No. 198,Depok
+C001482,Vina Santoso,2003-01-19,08449667699,customer001482@example.com,Jl. Ahmad Yani No. 66,Bogor
+C001483,Oscar Lestari,1989-03-02,08363335130,customer001483@example.com,Jl. Diponegoro No. 80,Surabaya
+C001484,Eko Pratama,2001-02-16,08500925463,customer001484@example.com,Jl. Merdeka No. 175,Surabaya
+C001485,Oscar Lestari,2003-05-23,08823494465,customer001485@example.com,Jl. Gatot Subroto No. 167,Semarang
+C001486,Maya Santoso,1998-06-20,08154536796,customer001486@example.com,Jl. Sudirman No. 52,Tangerang
+C001487,Lina Setiawan,2011-11-25,08395264027,customer001487@example.com,Jl. Merdeka No. 146,Bekasi
+C001488,Andi Nugroho,1996-01-03,08306892099,customer001488@example.com,Jl. Sudirman No. 178,Surabaya
+C001489,Joko Ramadhan,1992-12-09,08825391523,customer001489@example.com,Jl. Gatot Subroto No. 26,Bandung
+C001490,Fajar Nugroho,2003-08-11,08522692093,customer001490@example.com,Jl. Gatot Subroto No. 28,Depok
+C001491,Oscar Santoso,2013-06-16,08178120398,customer001491@example.com,Jl. Diponegoro No. 95,Makassar
+C001492,Rina Siregar,1999-06-10,08335608223,customer001492@example.com,Jl. Gatot Subroto No. 131,Semarang
+C001493,Oscar Lestari,1990-06-11,08528000427,customer001493@example.com,Jl. Gatot Subroto No. 119,Bandung
+C001494,Oscar Siregar,2015-09-21,08997907901,customer001494@example.com,Jl. Gatot Subroto No. 170,Bekasi
+C001495,Tono Nugroho,2001-04-30,08610508221,customer001495@example.com,Jl. Gatot Subroto No. 82,Bekasi
+C001496,Joko Lestari,1993-11-25,08882511409,customer001496@example.com,Jl. Sudirman No. 196,Tangerang
+C001497,Dewi Ramadhan,2006-01-08,08768333194,customer001497@example.com,Jl. Ahmad Yani No. 183,Makassar
+C001498,Putri Lestari,1997-12-01,08956151951,customer001498@example.com,Jl. Diponegoro No. 185,Surabaya
+C001499,Gita Hidayat,2014-11-03,08494484677,customer001499@example.com,Jl. Ahmad Yani No. 148,Medan
+C001500,Iwan Lestari,1997-03-19,08713146461,customer001500@example.com,Jl. Merdeka No. 113,Jakarta
+C001501,Putri Kurniawan,2004-03-24,08358151998,customer001501@example.com,Jl. Ahmad Yani No. 152,Surabaya
+C001502,Tono Setiawan,2004-01-16,08217022495,customer001502@example.com,Jl. Gatot Subroto No. 66,Medan
+C001503,Oscar Hidayat,1995-10-21,08103781934,customer001503@example.com,Jl. Sudirman No. 193,Medan
+C001504,Lina Nugroho,2002-11-01,08551088219,customer001504@example.com,Jl. Gatot Subroto No. 36,Jakarta
+C001505,Maya Siregar,1992-02-25,08988082308,customer001505@example.com,Jl. Sudirman No. 189,Bogor
+C001506,Hana Permata,2006-10-16,08496143682,customer001506@example.com,Jl. Merdeka No. 156,Surabaya
+C001507,Andi Kurniawan,2009-12-05,08795080536,customer001507@example.com,Jl. Merdeka No. 36,Makassar
+C001508,Joko Nugroho,2015-03-06,08550536537,customer001508@example.com,Jl. Ahmad Yani No. 121,Medan
+C001509,Karin Pratama,1998-01-31,08228877063,customer001509@example.com,Jl. Diponegoro No. 171,Medan
+C001510,Lina Kurniawan,1996-12-22,08322317230,customer001510@example.com,Jl. Sudirman No. 101,Bekasi
+C001511,Gita Wijaya,2004-03-11,08321828267,customer001511@example.com,Jl. Ahmad Yani No. 148,Tangerang
+C001512,Hana Pratama,2008-02-18,08651229545,customer001512@example.com,Jl. Sudirman No. 127,Bekasi
+C001513,Hana Lestari,2016-05-03,08326679637,customer001513@example.com,Jl. Diponegoro No. 108,Semarang
+C001514,Citra Kurniawan,1989-11-07,08303200592,customer001514@example.com,Jl. Gatot Subroto No. 79,Surabaya
+C001515,Eko Ramadhan,1995-09-10,08421197131,customer001515@example.com,Jl. Ahmad Yani No. 188,Medan
+C001516,Oscar Saputra,1996-05-07,08690442843,customer001516@example.com,Jl. Ahmad Yani No. 197,Makassar
+C001517,Lina Wijaya,1996-02-27,08459970140,customer001517@example.com,Jl. Diponegoro No. 57,Semarang
+C001518,Budi Setiawan,2001-11-11,08565842283,customer001518@example.com,Jl. Gatot Subroto No. 129,Medan
+C001519,Rina Wijaya,2013-01-24,08653521942,customer001519@example.com,Jl. Sudirman No. 64,Bandung
+C001520,Fajar Pratama,1990-01-05,08113823094,customer001520@example.com,Jl. Sudirman No. 166,Makassar
+C001521,Hana Saputra,2011-07-03,08901232139,customer001521@example.com,Jl. Merdeka No. 148,Tangerang
+C001522,Gita Permata,2006-01-28,08924787676,customer001522@example.com,Jl. Diponegoro No. 15,Makassar
+C001523,Dewi Ramadhan,2006-01-03,08642301088,customer001523@example.com,Jl. Ahmad Yani No. 150,Bekasi
+C001524,Oscar Siregar,2007-09-27,08617142289,customer001524@example.com,Jl. Ahmad Yani No. 106,Bogor
+C001525,Dewi Kurniawan,1992-04-29,08725079511,customer001525@example.com,Jl. Sudirman No. 33,Bogor
+C001526,Rina Pratama,2009-08-11,08496778451,customer001526@example.com,Jl. Merdeka No. 72,Jakarta
+C001527,Putri Hidayat,1995-12-17,08428952967,customer001527@example.com,Jl. Ahmad Yani No. 8,Bekasi
+C001528,Putri Nugroho,2003-04-23,08243764620,customer001528@example.com,Jl. Gatot Subroto No. 117,Semarang
+C001529,Rina Wijaya,2007-09-12,08857051783,customer001529@example.com,Jl. Sudirman No. 192,Medan
+C001530,Hana Saputra,2005-09-13,08388525655,customer001530@example.com,Jl. Merdeka No. 191,Medan
+C001531,Eko Saputra,1998-01-05,08355960935,customer001531@example.com,Jl. Sudirman No. 76,Surabaya
+C001532,Hana Wijaya,2000-01-04,08967854382,customer001532@example.com,Jl. Diponegoro No. 198,Bekasi
+C001533,Oscar Permata,2002-03-19,08556036052,customer001533@example.com,Jl. Sudirman No. 194,Depok
+C001534,Rina Kurniawan,1990-04-18,08659630245,customer001534@example.com,Jl. Sudirman No. 57,Bogor
+C001535,Citra Santoso,2009-01-16,08755505083,customer001535@example.com,Jl. Ahmad Yani No. 139,Bogor
+C001536,Iwan Nugroho,1991-11-26,08505823739,customer001536@example.com,Jl. Sudirman No. 27,Medan
+C001537,Eko Siregar,2001-09-20,08232970259,customer001537@example.com,Jl. Sudirman No. 108,Tangerang
+C001538,Lina Kurniawan,2007-02-05,08851961732,customer001538@example.com,Jl. Merdeka No. 16,Makassar
+C001539,Citra Siregar,1991-05-14,08462485207,customer001539@example.com,Jl. Gatot Subroto No. 8,Medan
+C001540,Eko Nugroho,2016-06-03,08701599212,customer001540@example.com,Jl. Diponegoro No. 153,Tangerang
+C001541,Iwan Siregar,1999-06-30,08407147161,customer001541@example.com,Jl. Sudirman No. 99,Depok
+C001542,Fajar Pratama,1989-08-07,08896646587,customer001542@example.com,Jl. Merdeka No. 159,Bogor
+C001543,Gita Hidayat,2007-03-14,08286610091,customer001543@example.com,Jl. Ahmad Yani No. 170,Tangerang
+C001544,Dewi Pratama,2004-06-06,08705195614,customer001544@example.com,Jl. Gatot Subroto No. 70,Depok
+C001545,Eko Nugroho,2006-09-12,08923175400,customer001545@example.com,Jl. Merdeka No. 69,Bogor
+C001546,Gita Hidayat,2009-09-23,08678456756,customer001546@example.com,Jl. Merdeka No. 107,Bandung
+C001547,Oscar Pratama,2002-03-10,08228780865,customer001547@example.com,Jl. Merdeka No. 184,Tangerang
+C001548,Tono Siregar,2011-10-20,08270791323,customer001548@example.com,Jl. Ahmad Yani No. 51,Semarang
+C001549,Dewi Saputra,1999-04-20,08195749814,customer001549@example.com,Jl. Gatot Subroto No. 154,Medan
+C001550,Dewi Saputra,2004-02-04,08778359436,customer001550@example.com,Jl. Diponegoro No. 30,Tangerang
+C001551,Hana Wijaya,1993-07-04,08968627904,customer001551@example.com,Jl. Sudirman No. 117,Surabaya
+C001552,Andi Nugroho,2006-02-20,08565191558,customer001552@example.com,Jl. Ahmad Yani No. 53,Bekasi
+C001553,Oscar Saputra,1996-04-29,08638972532,customer001553@example.com,Jl. Ahmad Yani No. 57,Medan
+C001554,Sari Hidayat,2008-03-29,08796330245,customer001554@example.com,Jl. Sudirman No. 89,Semarang
+C001555,Tono Pratama,2011-02-05,08474115067,customer001555@example.com,Jl. Merdeka No. 81,Semarang
+C001556,Karin Siregar,2012-09-06,08525211947,customer001556@example.com,Jl. Sudirman No. 56,Medan
+C001557,Budi Setiawan,2014-08-08,08155630764,customer001557@example.com,Jl. Ahmad Yani No. 67,Bogor
+C001558,Hana Nugroho,1992-07-06,08839914545,customer001558@example.com,Jl. Ahmad Yani No. 144,Bandung
+C001559,Maya Lestari,1992-12-10,08165905300,customer001559@example.com,Jl. Ahmad Yani No. 54,Makassar
+C001560,Andi Ramadhan,2014-07-10,08294980981,customer001560@example.com,Jl. Gatot Subroto No. 48,Bekasi
+C001561,Maya Setiawan,1999-08-05,08336692971,customer001561@example.com,Jl. Sudirman No. 175,Medan
+C001562,Joko Lestari,1989-11-17,08824091404,customer001562@example.com,Jl. Sudirman No. 139,Makassar
+C001563,Iwan Ramadhan,1997-01-08,08554139354,customer001563@example.com,Jl. Merdeka No. 123,Semarang
+C001564,Rina Ramadhan,2012-01-22,08580940598,customer001564@example.com,Jl. Gatot Subroto No. 142,Bandung
+C001565,Karin Siregar,1998-11-19,08680736831,customer001565@example.com,Jl. Diponegoro No. 169,Depok
+C001566,Hana Nugroho,1991-04-08,08348914811,customer001566@example.com,Jl. Sudirman No. 75,Bogor
+C001567,Putri Santoso,2008-12-08,08742191035,customer001567@example.com,Jl. Merdeka No. 139,Makassar
+C001568,Oscar Santoso,1994-06-30,08127188953,customer001568@example.com,Jl. Ahmad Yani No. 150,Medan
+C001569,Lina Nugroho,1998-10-29,08202347315,customer001569@example.com,Jl. Ahmad Yani No. 26,Bandung
+C001570,Joko Nugroho,1989-04-09,08834250018,customer001570@example.com,Jl. Ahmad Yani No. 152,Bogor
+C001571,Joko Hidayat,2005-08-24,08692385265,customer001571@example.com,Jl. Sudirman No. 95,Bekasi
+C001572,Joko Permata,2001-05-10,08494879456,customer001572@example.com,Jl. Gatot Subroto No. 83,Bogor
+C001573,Putri Permata,2012-11-26,08146624603,customer001573@example.com,Jl. Ahmad Yani No. 106,Semarang
+C001574,Maya Ramadhan,1998-04-27,08704664372,customer001574@example.com,Jl. Ahmad Yani No. 125,Depok
+C001575,Vina Wijaya,1994-10-08,08780289956,customer001575@example.com,Jl. Ahmad Yani No. 156,Medan
+C001576,Oscar Pratama,1993-09-16,08350559709,customer001576@example.com,Jl. Gatot Subroto No. 59,Surabaya
+C001577,Dewi Siregar,1994-08-24,08415038899,customer001577@example.com,Jl. Gatot Subroto No. 125,Surabaya
+C001578,Budi Ramadhan,2001-07-07,08313136131,customer001578@example.com,Jl. Diponegoro No. 66,Semarang
+C001579,Putri Setiawan,1991-07-21,08450400604,customer001579@example.com,Jl. Diponegoro No. 130,Makassar
+C001580,Nanda Ramadhan,2000-03-07,08345082579,customer001580@example.com,Jl. Sudirman No. 58,Bandung
+C001581,Citra Ramadhan,2012-07-25,08322360828,customer001581@example.com,Jl. Gatot Subroto No. 83,Tangerang
+C001582,Dewi Saputra,2010-03-08,08487185491,customer001582@example.com,Jl. Ahmad Yani No. 7,Medan
+C001583,Citra Hidayat,2006-08-12,08873260629,customer001583@example.com,Jl. Merdeka No. 169,Bekasi
+C001584,Oscar Saputra,2013-08-14,08786460364,customer001584@example.com,Jl. Merdeka No. 159,Surabaya
+C001585,Rina Lestari,2010-07-12,08948561754,customer001585@example.com,Jl. Gatot Subroto No. 96,Jakarta
+C001586,Maya Setiawan,2007-01-12,08289173312,customer001586@example.com,Jl. Gatot Subroto No. 86,Semarang
+C001587,Iwan Hidayat,2012-10-17,08919666563,customer001587@example.com,Jl. Gatot Subroto No. 48,Bogor
+C001588,Vina Permata,1992-07-28,08378324753,customer001588@example.com,Jl. Diponegoro No. 78,Semarang
+C001589,Maya Saputra,2011-07-27,08586237522,customer001589@example.com,Jl. Ahmad Yani No. 9,Tangerang
+C001590,Eko Pratama,1997-04-02,08282834617,customer001590@example.com,Jl. Gatot Subroto No. 5,Bekasi
+C001591,Eko Pratama,2009-03-27,08785822411,customer001591@example.com,Jl. Sudirman No. 119,Surabaya
+C001592,Oscar Santoso,2014-03-04,08385889698,customer001592@example.com,Jl. Merdeka No. 98,Depok
+C001593,Maya Setiawan,2002-09-30,08174642600,customer001593@example.com,Jl. Gatot Subroto No. 164,Surabaya
+C001594,Putri Hidayat,1991-08-06,08551801499,customer001594@example.com,Jl. Merdeka No. 118,Semarang
+C001595,Budi Ramadhan,1999-04-21,08242677025,customer001595@example.com,Jl. Diponegoro No. 14,Surabaya
+C001596,Andi Kurniawan,2000-04-21,08900061159,customer001596@example.com,Jl. Ahmad Yani No. 104,Depok
+C001597,Nanda Pratama,2014-10-24,08475347594,customer001597@example.com,Jl. Ahmad Yani No. 60,Bekasi
+C001598,Oscar Pratama,2014-12-21,08151561671,customer001598@example.com,Jl. Sudirman No. 147,Surabaya
+C001599,Eko Siregar,2004-09-23,08298649653,customer001599@example.com,Jl. Ahmad Yani No. 33,Surabaya
+C001600,Vina Saputra,2015-03-12,08291407235,customer001600@example.com,Jl. Sudirman No. 117,Bekasi
+C001601,Tono Ramadhan,2001-02-09,08922764843,customer001601@example.com,Jl. Gatot Subroto No. 41,Medan
+C001602,Putri Wijaya,2000-06-04,08917511106,customer001602@example.com,Jl. Sudirman No. 161,Makassar
+C001603,Fajar Kurniawan,2012-01-26,08901013205,customer001603@example.com,Jl. Ahmad Yani No. 180,Tangerang
+C001604,Vina Siregar,2007-06-09,08321414119,customer001604@example.com,Jl. Ahmad Yani No. 190,Bandung
+C001605,Iwan Pratama,2003-06-20,08711505749,customer001605@example.com,Jl. Merdeka No. 55,Bekasi
+C001606,Vina Saputra,2001-09-02,08452740710,customer001606@example.com,Jl. Sudirman No. 12,Semarang
+C001607,Gita Setiawan,2008-06-26,08316426198,customer001607@example.com,Jl. Ahmad Yani No. 132,Depok
+C001608,Lina Saputra,2009-10-17,08477829504,customer001608@example.com,Jl. Merdeka No. 40,Medan
+C001609,Andi Nugroho,2002-08-06,08405692378,customer001609@example.com,Jl. Merdeka No. 81,Tangerang
+C001610,Vina Nugroho,1990-01-11,08290098894,customer001610@example.com,Jl. Diponegoro No. 58,Depok
+C001611,Nanda Saputra,1991-12-15,08972703238,customer001611@example.com,Jl. Gatot Subroto No. 43,Bandung
+C001612,Putri Siregar,1993-02-10,08441998554,customer001612@example.com,Jl. Diponegoro No. 88,Bandung
+C001613,Maya Siregar,2001-10-25,08196643962,customer001613@example.com,Jl. Sudirman No. 165,Bekasi
+C001614,Lina Hidayat,2005-12-24,08618239443,customer001614@example.com,Jl. Gatot Subroto No. 2,Makassar
+C001615,Oscar Ramadhan,2011-03-04,08894808313,customer001615@example.com,Jl. Diponegoro No. 24,Surabaya
+C001616,Rina Pratama,1995-07-14,08423939407,customer001616@example.com,Jl. Diponegoro No. 123,Bandung
+C001617,Nanda Santoso,2010-09-13,08860717781,customer001617@example.com,Jl. Diponegoro No. 62,Bandung
+C001618,Lina Permata,2007-05-27,08649742094,customer001618@example.com,Jl. Sudirman No. 60,Bogor
+C001619,Hana Setiawan,1990-07-31,08765326024,customer001619@example.com,Jl. Sudirman No. 75,Bogor
+C001620,Sari Santoso,1998-10-13,08366629261,customer001620@example.com,Jl. Ahmad Yani No. 20,Semarang
+C001621,Eko Pratama,1997-06-14,08133241218,customer001621@example.com,Jl. Merdeka No. 103,Surabaya
+C001622,Sari Permata,2013-06-10,08411265474,customer001622@example.com,Jl. Ahmad Yani No. 52,Medan
+C001623,Oscar Siregar,2014-05-21,08932011771,customer001623@example.com,Jl. Sudirman No. 125,Bandung
+C001624,Putri Wijaya,2011-08-06,08811606231,customer001624@example.com,Jl. Sudirman No. 147,Makassar
+C001625,Citra Hidayat,2003-08-16,08805745392,customer001625@example.com,Jl. Merdeka No. 25,Depok
+C001626,Gita Kurniawan,2002-08-29,08890483256,customer001626@example.com,Jl. Diponegoro No. 79,Bogor
+C001627,Dewi Hidayat,1997-09-10,08435939643,customer001627@example.com,Jl. Ahmad Yani No. 101,Semarang
+C001628,Eko Pratama,2010-04-29,08389830672,customer001628@example.com,Jl. Sudirman No. 32,Bandung
+C001629,Dewi Pratama,1991-07-12,08932674888,customer001629@example.com,Jl. Merdeka No. 151,Bandung
+C001630,Lina Hidayat,1996-08-03,08614364220,customer001630@example.com,Jl. Sudirman No. 100,Semarang
+C001631,Iwan Nugroho,1992-11-13,08368163219,customer001631@example.com,Jl. Gatot Subroto No. 179,Depok
+C001632,Oscar Ramadhan,2002-09-12,08350346055,customer001632@example.com,Jl. Sudirman No. 22,Jakarta
+C001633,Karin Lestari,1997-05-16,08889551199,customer001633@example.com,Jl. Ahmad Yani No. 137,Tangerang
+C001634,Oscar Kurniawan,1994-07-28,08148001177,customer001634@example.com,Jl. Sudirman No. 119,Medan
+C001635,Citra Setiawan,1999-06-22,08155524030,customer001635@example.com,Jl. Merdeka No. 140,Tangerang
+C001636,Dewi Hidayat,2012-09-25,08764071462,customer001636@example.com,Jl. Ahmad Yani No. 60,Medan
+C001637,Nanda Hidayat,2004-06-11,08101215109,customer001637@example.com,Jl. Diponegoro No. 67,Bandung
+C001638,Eko Setiawan,2011-09-13,08253903134,customer001638@example.com,Jl. Merdeka No. 26,Jakarta
+C001639,Budi Pratama,2014-03-10,08991569570,customer001639@example.com,Jl. Gatot Subroto No. 91,Makassar
+C001640,Vina Kurniawan,2013-11-12,08483141270,customer001640@example.com,Jl. Merdeka No. 9,Makassar
+C001641,Budi Siregar,1998-10-11,08754896935,customer001641@example.com,Jl. Sudirman No. 196,Bekasi
+C001642,Vina Wijaya,2013-03-10,08538340943,customer001642@example.com,Jl. Sudirman No. 199,Bekasi
+C001643,Iwan Nugroho,2014-01-23,08181514207,customer001643@example.com,Jl. Diponegoro No. 153,Bandung
+C001644,Citra Pratama,2015-06-09,08266024425,customer001644@example.com,Jl. Ahmad Yani No. 6,Semarang
+C001645,Dewi Pratama,1998-10-11,08784989208,customer001645@example.com,Jl. Merdeka No. 184,Surabaya
+C001646,Iwan Nugroho,1995-06-02,08185099815,customer001646@example.com,Jl. Gatot Subroto No. 27,Bandung
+C001647,Eko Saputra,2005-02-28,08635154930,customer001647@example.com,Jl. Ahmad Yani No. 184,Jakarta
+C001648,Dewi Siregar,2014-09-05,08413211712,customer001648@example.com,Jl. Gatot Subroto No. 59,Jakarta
+C001649,Eko Ramadhan,2013-10-28,08433267464,customer001649@example.com,Jl. Gatot Subroto No. 129,Makassar
+C001650,Karin Siregar,2004-10-21,08957057315,customer001650@example.com,Jl. Gatot Subroto No. 30,Bandung
+C001651,Maya Saputra,1993-04-02,08645341936,customer001651@example.com,Jl. Ahmad Yani No. 5,Bandung
+C001652,Maya Saputra,2000-09-24,08653622030,customer001652@example.com,Jl. Sudirman No. 3,Bandung
+C001653,Citra Saputra,2008-09-19,08415320942,customer001653@example.com,Jl. Diponegoro No. 162,Tangerang
+C001654,Fajar Wijaya,2004-07-04,08717193723,customer001654@example.com,Jl. Ahmad Yani No. 64,Depok
+C001655,Andi Setiawan,1998-08-16,08135019738,customer001655@example.com,Jl. Diponegoro No. 74,Bogor
+C001656,Karin Hidayat,1998-07-19,08640245952,customer001656@example.com,Jl. Ahmad Yani No. 53,Bandung
+C001657,Tono Pratama,1990-10-20,08661182644,customer001657@example.com,Jl. Merdeka No. 101,Surabaya
+C001658,Iwan Ramadhan,1997-01-24,08183031876,customer001658@example.com,Jl. Gatot Subroto No. 95,Medan
+C001659,Maya Hidayat,2007-06-29,08809043821,customer001659@example.com,Jl. Sudirman No. 10,Depok
+C001660,Fajar Santoso,1995-10-10,08588289663,customer001660@example.com,Jl. Gatot Subroto No. 152,Bandung
+C001661,Budi Wijaya,2016-05-12,08313942319,customer001661@example.com,Jl. Merdeka No. 15,Surabaya
+C001662,Putri Lestari,1991-06-04,08776755456,customer001662@example.com,Jl. Merdeka No. 75,Medan
+C001663,Iwan Siregar,2005-04-14,08991789358,customer001663@example.com,Jl. Gatot Subroto No. 32,Jakarta
+C001664,Dewi Pratama,2002-10-05,08481226812,customer001664@example.com,Jl. Gatot Subroto No. 1,Semarang
+C001665,Hana Setiawan,2011-12-25,08355101450,customer001665@example.com,Jl. Ahmad Yani No. 57,Tangerang
+C001666,Maya Ramadhan,2013-06-21,08369470344,customer001666@example.com,Jl. Gatot Subroto No. 95,Makassar
+C001667,Eko Ramadhan,2004-01-17,08633343180,customer001667@example.com,Jl. Sudirman No. 49,Medan
+C001668,Budi Pratama,2006-06-02,08142645810,customer001668@example.com,Jl. Gatot Subroto No. 81,Medan
+C001669,Karin Santoso,2008-04-20,08122300087,customer001669@example.com,Jl. Sudirman No. 147,Bogor
+C001670,Sari Ramadhan,2003-06-06,08134722268,customer001670@example.com,Jl. Diponegoro No. 133,Makassar
+C001671,Karin Saputra,1994-03-24,08487023912,customer001671@example.com,Jl. Diponegoro No. 13,Makassar
+C001672,Budi Lestari,2000-11-24,08770962670,customer001672@example.com,Jl. Merdeka No. 8,Bogor
+C001673,Karin Siregar,1995-10-12,08895010742,customer001673@example.com,Jl. Diponegoro No. 103,Bandung
+C001674,Maya Wijaya,2001-11-18,08178871735,customer001674@example.com,Jl. Ahmad Yani No. 179,Jakarta
+C001675,Citra Siregar,2006-01-03,08319656500,customer001675@example.com,Jl. Merdeka No. 191,Medan
+C001676,Dewi Setiawan,1994-11-23,08479495477,customer001676@example.com,Jl. Gatot Subroto No. 123,Semarang
+C001677,Citra Kurniawan,1995-12-30,08616649954,customer001677@example.com,Jl. Diponegoro No. 36,Surabaya
+C001678,Vina Nugroho,2011-09-12,08988345205,customer001678@example.com,Jl. Merdeka No. 4,Bandung
+C001679,Budi Ramadhan,1999-07-05,08715875236,customer001679@example.com,Jl. Ahmad Yani No. 87,Bekasi
+C001680,Dewi Permata,1994-08-06,08584524720,customer001680@example.com,Jl. Merdeka No. 27,Depok
+C001681,Vina Kurniawan,2008-09-09,08154746880,customer001681@example.com,Jl. Merdeka No. 128,Depok
+C001682,Andi Siregar,2008-10-14,08694710058,customer001682@example.com,Jl. Ahmad Yani No. 126,Bandung
+C001683,Dewi Kurniawan,2011-10-14,08398149113,customer001683@example.com,Jl. Merdeka No. 9,Semarang
+C001684,Maya Saputra,2009-12-21,08495131600,customer001684@example.com,Jl. Merdeka No. 150,Depok
+C001685,Iwan Wijaya,2016-04-28,08893667427,customer001685@example.com,Jl. Ahmad Yani No. 59,Makassar
+C001686,Vina Pratama,2004-11-26,08760775560,customer001686@example.com,Jl. Merdeka No. 64,Depok
+C001687,Gita Permata,1997-01-07,08744639874,customer001687@example.com,Jl. Gatot Subroto No. 29,Depok
+C001688,Nanda Permata,2012-10-16,08880838077,customer001688@example.com,Jl. Ahmad Yani No. 93,Medan
+C001689,Karin Permata,1996-06-01,08265427342,customer001689@example.com,Jl. Merdeka No. 186,Tangerang
+C001690,Sari Hidayat,1997-02-18,08993022485,customer001690@example.com,Jl. Diponegoro No. 134,Surabaya
+C001691,Rina Siregar,2011-11-06,08778924960,customer001691@example.com,Jl. Merdeka No. 74,Jakarta
+C001692,Vina Ramadhan,2013-04-21,08899746175,customer001692@example.com,Jl. Ahmad Yani No. 129,Bogor
+C001693,Putri Pratama,1998-06-16,08866961274,customer001693@example.com,Jl. Merdeka No. 121,Jakarta
+C001694,Putri Kurniawan,2009-02-19,08908012818,customer001694@example.com,Jl. Gatot Subroto No. 157,Surabaya
+C001695,Fajar Kurniawan,2014-06-02,08849129721,customer001695@example.com,Jl. Sudirman No. 182,Bandung
+C001696,Fajar Permata,2011-01-13,08443179421,customer001696@example.com,Jl. Ahmad Yani No. 12,Surabaya
+C001697,Putri Pratama,1989-04-20,08757239185,customer001697@example.com,Jl. Merdeka No. 184,Semarang
+C001698,Gita Siregar,2007-05-12,08469394287,customer001698@example.com,Jl. Sudirman No. 20,Bandung
+C001699,Joko Setiawan,1993-10-25,08829218756,customer001699@example.com,Jl. Diponegoro No. 105,Medan
+C001700,Andi Kurniawan,2012-05-03,08941214903,customer001700@example.com,Jl. Diponegoro No. 132,Bogor
+C001701,Rina Setiawan,1991-01-01,08629487430,customer001701@example.com,Jl. Gatot Subroto No. 152,Bandung
+C001702,Dewi Setiawan,2016-05-09,08674458320,customer001702@example.com,Jl. Merdeka No. 18,Bogor
+C001703,Hana Hidayat,1994-01-08,08563445748,customer001703@example.com,Jl. Merdeka No. 79,Medan
+C001704,Hana Lestari,2000-09-01,08865933287,customer001704@example.com,Jl. Sudirman No. 186,Makassar
+C001705,Nanda Nugroho,1995-07-29,08233804842,customer001705@example.com,Jl. Sudirman No. 7,Medan
+C001706,Budi Setiawan,2011-06-14,08750074170,customer001706@example.com,Jl. Gatot Subroto No. 52,Semarang
+C001707,Eko Wijaya,1999-12-09,08800549866,customer001707@example.com,Jl. Gatot Subroto No. 155,Bandung
+C001708,Lina Hidayat,2009-07-20,08819419116,customer001708@example.com,Jl. Gatot Subroto No. 164,Makassar
+C001709,Maya Ramadhan,1991-01-03,08869533689,customer001709@example.com,Jl. Merdeka No. 125,Bogor
+C001710,Budi Saputra,2001-07-25,08647258910,customer001710@example.com,Jl. Diponegoro No. 126,Makassar
+C001711,Karin Siregar,2014-02-09,08324028628,customer001711@example.com,Jl. Ahmad Yani No. 100,Makassar
+C001712,Maya Hidayat,2014-07-18,08190632140,customer001712@example.com,Jl. Sudirman No. 183,Depok
+C001713,Maya Setiawan,1994-11-17,08589789678,customer001713@example.com,Jl. Ahmad Yani No. 177,Semarang
+C001714,Joko Ramadhan,1999-12-19,08942650642,customer001714@example.com,Jl. Sudirman No. 167,Bandung
+C001715,Putri Saputra,2000-05-14,08916212175,customer001715@example.com,Jl. Sudirman No. 92,Makassar
+C001716,Eko Siregar,2004-08-24,08503204137,customer001716@example.com,Jl. Gatot Subroto No. 71,Bekasi
+C001717,Eko Hidayat,2003-11-17,08616173274,customer001717@example.com,Jl. Sudirman No. 183,Semarang
+C001718,Eko Lestari,1992-01-25,08694002588,customer001718@example.com,Jl. Gatot Subroto No. 62,Bekasi
+C001719,Fajar Lestari,2010-01-17,08621237866,customer001719@example.com,Jl. Sudirman No. 46,Bekasi
+C001720,Tono Siregar,1995-05-07,08913448401,customer001720@example.com,Jl. Merdeka No. 111,Surabaya
+C001721,Tono Santoso,1997-10-15,08250562105,customer001721@example.com,Jl. Sudirman No. 169,Makassar
+C001722,Joko Pratama,2012-03-07,08756889648,customer001722@example.com,Jl. Merdeka No. 127,Tangerang
+C001723,Tono Kurniawan,2008-01-18,08298106474,customer001723@example.com,Jl. Diponegoro No. 122,Medan
+C001724,Gita Permata,2000-01-09,08527510247,customer001724@example.com,Jl. Merdeka No. 93,Depok
+C001725,Maya Nugroho,2014-02-23,08752262595,customer001725@example.com,Jl. Ahmad Yani No. 68,Bogor
+C001726,Joko Santoso,1999-12-15,08963082078,customer001726@example.com,Jl. Gatot Subroto No. 106,Depok
+C001727,Joko Hidayat,2004-08-24,08816215503,customer001727@example.com,Jl. Sudirman No. 7,Bekasi
+C001728,Rina Ramadhan,1995-11-25,08814616899,customer001728@example.com,Jl. Merdeka No. 95,Bekasi
+C001729,Putri Santoso,1994-03-07,08497093953,customer001729@example.com,Jl. Diponegoro No. 174,Bekasi
+C001730,Rina Hidayat,2002-08-17,08680846213,customer001730@example.com,Jl. Ahmad Yani No. 32,Bekasi
+C001731,Iwan Setiawan,2004-07-31,08290074347,customer001731@example.com,Jl. Diponegoro No. 91,Surabaya
+C001732,Sari Santoso,2011-03-25,08270064345,customer001732@example.com,Jl. Merdeka No. 133,Jakarta
+C001733,Hana Kurniawan,1999-11-14,08124410999,customer001733@example.com,Jl. Diponegoro No. 18,Bandung
+C001734,Karin Saputra,2013-09-03,08870846399,customer001734@example.com,Jl. Diponegoro No. 146,Surabaya
+C001735,Karin Ramadhan,2005-10-17,08824255974,customer001735@example.com,Jl. Sudirman No. 72,Depok
+C001736,Eko Kurniawan,1991-02-01,08559680837,customer001736@example.com,Jl. Merdeka No. 41,Makassar
+C001737,Oscar Ramadhan,2009-05-27,08113045670,customer001737@example.com,Jl. Gatot Subroto No. 124,Medan
+C001738,Fajar Pratama,2004-11-26,08181123283,customer001738@example.com,Jl. Merdeka No. 97,Jakarta
+C001739,Karin Permata,1999-10-29,08200592779,customer001739@example.com,Jl. Merdeka No. 89,Depok
+C001740,Iwan Siregar,2001-12-16,08745317524,customer001740@example.com,Jl. Merdeka No. 124,Semarang
+C001741,Putri Pratama,1997-06-05,08325153947,customer001741@example.com,Jl. Diponegoro No. 127,Tangerang
+C001742,Putri Pratama,2005-12-25,08874988372,customer001742@example.com,Jl. Diponegoro No. 57,Bandung
+C001743,Iwan Santoso,2004-09-08,08888755274,customer001743@example.com,Jl. Sudirman No. 43,Surabaya
+C001744,Gita Setiawan,2001-05-30,08786748081,customer001744@example.com,Jl. Diponegoro No. 90,Jakarta
+C001745,Iwan Kurniawan,1996-12-21,08378614606,customer001745@example.com,Jl. Ahmad Yani No. 11,Surabaya
+C001746,Citra Lestari,2000-01-30,08621943984,customer001746@example.com,Jl. Sudirman No. 170,Bogor
+C001747,Hana Kurniawan,2002-10-18,08280243746,customer001747@example.com,Jl. Gatot Subroto No. 186,Medan
+C001748,Tono Permata,2002-01-31,08872114742,customer001748@example.com,Jl. Sudirman No. 28,Medan
+C001749,Citra Nugroho,1997-08-19,08176372598,customer001749@example.com,Jl. Merdeka No. 27,Surabaya
+C001750,Citra Nugroho,2005-02-05,08769963221,customer001750@example.com,Jl. Gatot Subroto No. 176,Surabaya
+C001751,Budi Lestari,1995-05-15,08560378022,customer001751@example.com,Jl. Gatot Subroto No. 146,Depok
+C001752,Gita Pratama,2002-11-18,08505663828,customer001752@example.com,Jl. Sudirman No. 95,Bogor
+C001753,Andi Ramadhan,1992-06-29,08242309650,customer001753@example.com,Jl. Gatot Subroto No. 163,Tangerang
+C001754,Rina Siregar,2002-02-03,08776180929,customer001754@example.com,Jl. Diponegoro No. 167,Tangerang
+C001755,Budi Hidayat,2010-08-18,08667971893,customer001755@example.com,Jl. Sudirman No. 83,Medan
+C001756,Vina Permata,2011-07-23,08518142327,customer001756@example.com,Jl. Gatot Subroto No. 75,Jakarta
+C001757,Citra Wijaya,2008-03-08,08435453680,customer001757@example.com,Jl. Ahmad Yani No. 91,Tangerang
+C001758,Fajar Setiawan,2009-07-31,08409434371,customer001758@example.com,Jl. Sudirman No. 44,Bekasi
+C001759,Dewi Ramadhan,1990-12-21,08533020890,customer001759@example.com,Jl. Ahmad Yani No. 96,Makassar
+C001760,Nanda Setiawan,1998-07-06,08335489423,customer001760@example.com,Jl. Sudirman No. 148,Jakarta
+C001761,Rina Saputra,2007-01-29,08354125828,customer001761@example.com,Jl. Merdeka No. 19,Tangerang
+C001762,Rina Pratama,2011-01-31,08350332070,customer001762@example.com,Jl. Gatot Subroto No. 133,Bogor
+C001763,Fajar Pratama,2005-02-14,08111411636,customer001763@example.com,Jl. Diponegoro No. 3,Surabaya
+C001764,Citra Wijaya,2012-07-15,08935063110,customer001764@example.com,Jl. Diponegoro No. 87,Bandung
+C001765,Dewi Wijaya,1996-08-22,08312896404,customer001765@example.com,Jl. Diponegoro No. 9,Tangerang
+C001766,Hana Santoso,1993-05-14,08248570741,customer001766@example.com,Jl. Diponegoro No. 115,Semarang
+C001767,Budi Setiawan,1991-07-13,08236054504,customer001767@example.com,Jl. Sudirman No. 11,Tangerang
+C001768,Budi Santoso,2005-02-12,08529068674,customer001768@example.com,Jl. Gatot Subroto No. 142,Tangerang
+C001769,Andi Wijaya,2007-05-18,08394227509,customer001769@example.com,Jl. Ahmad Yani No. 153,Surabaya
+C001770,Karin Siregar,1996-12-23,08463503423,customer001770@example.com,Jl. Ahmad Yani No. 27,Jakarta
+C001771,Oscar Permata,2010-08-15,08179551211,customer001771@example.com,Jl. Diponegoro No. 177,Makassar
+C001772,Budi Siregar,2009-05-27,08382300204,customer001772@example.com,Jl. Sudirman No. 194,Medan
+C001773,Andi Lestari,1999-01-10,08323821342,customer001773@example.com,Jl. Merdeka No. 66,Bekasi
+C001774,Iwan Ramadhan,1995-09-14,08152572941,customer001774@example.com,Jl. Sudirman No. 123,Semarang
+C001775,Gita Lestari,2009-06-28,08482903242,customer001775@example.com,Jl. Merdeka No. 46,Surabaya
+C001776,Iwan Permata,2007-07-20,08811026791,customer001776@example.com,Jl. Ahmad Yani No. 57,Bekasi
+C001777,Tono Kurniawan,1993-11-03,08850236933,customer001777@example.com,Jl. Gatot Subroto No. 174,Tangerang
+C001778,Iwan Nugroho,1996-02-25,08561297620,customer001778@example.com,Jl. Sudirman No. 112,Depok
+C001779,Oscar Hidayat,2002-06-21,08403287956,customer001779@example.com,Jl. Sudirman No. 69,Bogor
+C001780,Dewi Nugroho,2003-02-28,08300062037,customer001780@example.com,Jl. Ahmad Yani No. 59,Tangerang
+C001781,Budi Pratama,1993-09-16,08695844643,customer001781@example.com,Jl. Merdeka No. 52,Bekasi
+C001782,Iwan Siregar,2015-02-20,08363376776,customer001782@example.com,Jl. Gatot Subroto No. 52,Tangerang
+C001783,Putri Saputra,1999-10-22,08667581872,customer001783@example.com,Jl. Sudirman No. 126,Medan
+C001784,Iwan Wijaya,1999-08-10,08690124667,customer001784@example.com,Jl. Merdeka No. 54,Jakarta
+C001785,Putri Pratama,1990-10-28,08945884879,customer001785@example.com,Jl. Merdeka No. 184,Depok
+C001786,Putri Ramadhan,2013-02-21,08433315833,customer001786@example.com,Jl. Gatot Subroto No. 151,Tangerang
+C001787,Nanda Saputra,1995-08-09,08460644891,customer001787@example.com,Jl. Sudirman No. 123,Bogor
+C001788,Vina Kurniawan,2016-03-09,08712615397,customer001788@example.com,Jl. Ahmad Yani No. 174,Depok
+C001789,Maya Ramadhan,2002-09-30,08836034333,customer001789@example.com,Jl. Merdeka No. 147,Makassar
+C001790,Sari Santoso,2013-02-12,08522199779,customer001790@example.com,Jl. Merdeka No. 114,Makassar
+C001791,Sari Siregar,1994-01-26,08813182589,customer001791@example.com,Jl. Gatot Subroto No. 13,Bandung
+C001792,Eko Saputra,1993-09-15,08419802942,customer001792@example.com,Jl. Merdeka No. 162,Jakarta
+C001793,Putri Pratama,2011-02-06,08542173178,customer001793@example.com,Jl. Merdeka No. 137,Jakarta
+C001794,Joko Kurniawan,2011-08-10,08549706822,customer001794@example.com,Jl. Diponegoro No. 69,Bogor
+C001795,Nanda Ramadhan,2004-01-13,08734012458,customer001795@example.com,Jl. Gatot Subroto No. 169,Tangerang
+C001796,Citra Saputra,1990-01-17,08656512250,customer001796@example.com,Jl. Sudirman No. 1,Surabaya
+C001797,Vina Permata,2015-01-02,08170433106,customer001797@example.com,Jl. Merdeka No. 22,Medan
+C001798,Eko Saputra,1999-12-08,08828158666,customer001798@example.com,Jl. Gatot Subroto No. 119,Medan
+C001799,Gita Permata,2014-10-16,08782218973,customer001799@example.com,Jl. Ahmad Yani No. 46,Surabaya
+C001800,Fajar Lestari,2013-01-02,08194096931,customer001800@example.com,Jl. Gatot Subroto No. 144,Medan

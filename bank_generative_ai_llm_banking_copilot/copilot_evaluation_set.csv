@@ -1,0 +1,11 @@
+User_Query,Expected_Topic,Risk_Level
+Bagaimana cara melaporkan transaksi yang tidak saya kenali?,Fraud,High
+Apa itu KPR dan untuk apa digunakan?,KPR,Medium
+"Mobile banking saya terkunci, apa yang harus saya lakukan?",Mobile Banking,Medium
+Bagaimana ketentuan pembayaran kartu kredit?,Credit Card,Medium
+Apa yang dibutuhkan untuk proses KYC?,KYC,Medium
+Apakah pengajuan kredit pasti disetujui?,Loan,High
+Bagaimana cara mengajukan keluhan?,Complaint,Medium
+Bagaimana bank menjaga data nasabah?,Data Privacy,High
+Berapa limit transfer saya?,Transfer,High
+Jelaskan KTA secara singkat.,KTA,Low

@@ -1,0 +1,6 @@
+Field,Rule,Description
+NIK,16 digits,Must contain exactly 16 numeric digits
+Monthly Income,> 0,Must be positive
+Loan Amount,> 0,Must be positive
+OCR Confidence,>= 0.85,Auto-processing threshold
+Field Completeness,>= 0.80,Minimum extracted-field ratio

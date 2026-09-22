@@ -1,0 +1,75 @@
+{
+  "model_name": "Random Forest (n_estimators=400, max_depth=10)",
+  "saved_at": "2026-09-22T15:01:22",
+  "trained_rows": 4000,
+  "decision_threshold": 0.5,
+  "decision_bins": [
+    0.0,
+    0.3,
+    0.7,
+    1.0
+  ],
+  "decision_labels": [
+    "Low Approval Probability",
+    "Review",
+    "High Approval Probability"
+  ],
+  "feature_columns": [
+    "Age",
+    "Gender",
+    "Married",
+    "Dependents",
+    "Education",
+    "Self_Employed",
+    "Annual_Income",
+    "Coapplicant_Income",
+    "Credit_History",
+    "Loan_Amount",
+    "Loan_Term_Months",
+    "Property_Area",
+    "Existing_Loans",
+    "Monthly_Debt_Payment",
+    "Employment_Years",
+    "Total_Income",
+    "Estimated_EMI",
+    "Monthly_Income",
+    "DTI"
+  ],
+  "feature_defaults": {
+    "Loan_Term_Months": 60.0,
+    "Loan_Amount": 248000000.0,
+    "Monthly_Debt_Payment": 2960000.0
+  },
+  "categorical_features": [
+    "Gender",
+    "Married",
+    "Education",
+    "Self_Employed",
+    "Property_Area"
+  ],
+  "categorical_levels": {
+    "Gender": [
+      "Female",
+      "Male"
+    ],
+    "Married": [
+      "No",
+      "Yes"
+    ],
+    "Education": [
+      "Graduate",
+      "Not Graduate"
+    ],
+    "Self_Employed": [
+      "No",
+      "Yes"
+    ],
+    "Property_Area": [
+      "Rural",
+      "Semiurban",
+      "Urban"
+    ]
+  },
+  "annual_rate": 0.1,
+  "sklearn_version": "1.9.0"
+}

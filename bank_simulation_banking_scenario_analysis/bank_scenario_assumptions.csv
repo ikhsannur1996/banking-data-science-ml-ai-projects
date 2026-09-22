@@ -1,0 +1,5 @@
+Scenario,PD_Multiplier,LGD_Multiplier,Rate_Shock,Operating_Cost_Multiplier
+Base,1.0,1.0,0.0,1.0
+Optimistic,0.85,0.95,-0.005,0.95
+Mild Stress,1.25,1.1,0.005,1.08
+Severe Stress,1.7,1.25,0.01,1.2

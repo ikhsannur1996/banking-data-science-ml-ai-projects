@@ -1,0 +1,13 @@
+Loan_ID,Approval_Probability,Decision,Decision_Segment
+NEW00007,0.680267571529284,Approved,Review
+NEW00006,0.6364798870441486,Approved,Review
+NEW00011,0.626445225922587,Approved,Review
+NEW00004,0.62508387630624,Approved,Review
+NEW00003,0.5822985134876937,Approved,Review
+NEW00001,0.5691126726624886,Approved,Review
+NEW00012,0.5657823083118985,Approved,Review
+NEW00005,0.4869068301445598,Not Approved,Review
+NEW00010,0.2433593973054395,Not Approved,Low Approval Probability
+NEW00008,0.10683002745872072,Not Approved,Low Approval Probability
+NEW00002,0.06426366994676162,Not Approved,Low Approval Probability
+NEW00009,0.05162478311666026,Not Approved,Low Approval Probability

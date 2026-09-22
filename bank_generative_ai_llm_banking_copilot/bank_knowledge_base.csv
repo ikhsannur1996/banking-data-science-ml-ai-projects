@@ -1,0 +1,11 @@
+Doc_ID,Category,Topic,Content,Source,Effective_Date
+KB001,KPR,KPR,KPR adalah fasilitas kredit untuk pembelian rumah. Tenor dan suku bunga mengikuti ketentuan produk yang berlaku.,KPR Product Guide,2026-01-15
+KB002,KTA,KTA,KTA adalah kredit tanpa agunan dengan persyaratan dan limit sesuai profil serta kebijakan bank.,KTA Product Guide,2026-02-10
+KB003,Credit Card,Credit Card,Nasabah dapat melakukan pembayaran tagihan kartu kredit melalui kanal pembayaran yang tersedia.,Card Guide,2026-02-01
+KB004,Mobile Banking,Digital,"Jika mobile banking terkunci, nasabah dapat mengikuti prosedur reset melalui kanal resmi bank.",Digital Banking Guide,2026-01-20
+KB005,Fraud,Security,Nasabah yang menemukan transaksi tidak dikenal harus segera menggunakan kanal resmi bank untuk pelaporan dan pemblokiran.,Fraud Prevention Guide,2026-03-01
+KB006,Transfer,Transaction,"Transfer antarbank dapat memiliki limit, biaya, dan waktu pemrosesan sesuai kanal dan jenis transaksi.",Transaction Guide,2026-02-20
+KB007,KYC,Compliance,Proses KYC membutuhkan informasi identitas dan dokumen sesuai ketentuan yang berlaku.,KYC Policy,2026-01-05
+KB008,Loan,Lending,"Persetujuan kredit mempertimbangkan data aplikasi, dokumen, kebijakan kredit, dan hasil penilaian risiko.",Credit Policy,2026-02-15
+KB009,Complaint,Service,Keluhan nasabah perlu dicatat melalui sistem pengaduan dan ditangani sesuai SLA yang berlaku.,Complaint Handling SOP,2026-03-05
+KB010,Data Privacy,Privacy,"Data nasabah harus diproses sesuai kebijakan keamanan, privasi, dan akses yang berlaku.",Data Governance Policy,2026-01-10
