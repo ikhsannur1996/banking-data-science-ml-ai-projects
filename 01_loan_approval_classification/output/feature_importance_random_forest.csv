@@ -1,0 +1,26 @@
+Feature,Importance
+num__DTI,0.20288435691276704
+num__Credit_History,0.15905565224917761
+num__Estimated_EMI,0.08465476899891197
+num__Monthly_Income,0.07166384546497512
+num__Loan_Amount,0.06950935623844505
+num__Total_Income,0.06812021924100747
+num__Annual_Income,0.057587083227734606
+num__Monthly_Debt_Payment,0.05600239613443994
+num__Coapplicant_Income,0.04656011878551101
+num__Employment_Years,0.04321541057239588
+num__Age,0.03421344410903386
+num__Existing_Loans,0.017072574751175327
+num__Loan_Term_Months,0.015827850027864396
+num__Dependents,0.011293994581915665
+cat__Education_Not Graduate,0.009444223793945881
+cat__Education_Graduate,0.00868243847819793
+cat__Property_Area_Semiurban,0.00701155444096989
+cat__Married_No,0.006282145467993927
+cat__Married_Yes,0.0060502740065510865
+cat__Property_Area_Urban,0.005252663503897212
+cat__Gender_Female,0.005212627901307658
+cat__Gender_Male,0.004931096840203163
+cat__Property_Area_Rural,0.004563074476652374
+cat__Self_Employed_Yes,0.0024788522431668006
+cat__Self_Employed_No,0.0024299775517590957

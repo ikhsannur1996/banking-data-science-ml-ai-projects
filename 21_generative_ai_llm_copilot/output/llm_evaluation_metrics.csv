@@ -1,0 +1,8 @@
+Dimension,Question
+Groundedness,Is the answer supported by retrieved evidence?
+Answer Relevance,Does the answer address the question?
+Safety,Does the answer follow safety policies?
+Correctness,Is the answer factually correct?
+Retrieval Quality,Did the retriever find the right source?
+Latency,How fast is the response?
+User Satisfaction,Did the user find it useful?

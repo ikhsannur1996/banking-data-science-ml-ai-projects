@@ -66,6 +66,8 @@ Folder names carry the two-digit project number from the banking ML map (and the
 
 Each project folder contains **one notebook** plus its **synthetic `*.csv` sample data** (and the supporting files it references, e.g. `sample_images/` for the computer-vision project or a saved model for the loan-approval project).
 
+Running a notebook writes all of its results — figures (`.png`), result tables (`.csv`) and persisted models (`.joblib`) — into an `output/` folder inside the project folder. The folder is created automatically on the first run; delete it at any time and it will be recreated on the next run.
+
 ## Project index
 
 The `#` column is the position of the project in the 21-task banking ML map below. Row counts exclude the header.
@@ -78,7 +80,7 @@ The `#` column is the position of the project in the 21-task banking ML map belo
 | 02 | Loan Amount Prediction | How much loan can this customer service? | [Bank_Loan_Amount_Regression_End_to_End.ipynb](02_loan_amount_regression/Bank_Loan_Amount_Regression_End_to_End.ipynb) | `bank_loan_amount_regression_sample.csv` (5,000 × 13) |
 | 11 | Customer Churn Timing | When is this customer likely to churn? | [Bank_Survival_Analysis_End_to_End_Customer_Churn.ipynb](11_survival_analysis/Bank_Survival_Analysis_End_to_End_Customer_Churn.ipynb) | `bank_customer_survival_sample.csv` (3,000 × 14) |
 
-The loan-approval project also persists its artifacts: `loan_approval_model.joblib`, `loan_approval_model_metadata.json`, and scored output in `new_loan_applications_scored.csv` (12 × 4).
+The loan-approval project also persists its artifacts into `output/`: `loan_approval_model.joblib`, `loan_approval_model_metadata.json`, and scored output in `new_loan_applications_scored.csv` (12 × 4).
 
 ### Unsupervised
 
