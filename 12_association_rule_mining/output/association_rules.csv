@@ -1,0 +1,229 @@
+Antecedent,Consequent,Support,Confidence,Lift
+Time Deposit,Investment,0.0784,0.42060085836909866,2.246799457099886
+Savings Account + Time Deposit,Investment,0.0784,0.42060085836909866,2.246799457099886
+Time Deposit,Investment + Savings Account,0.0784,0.42060085836909866,2.246799457099886
+Investment,Time Deposit,0.0784,0.41880341880341876,2.2467994570998857
+Investment + Savings Account,Time Deposit,0.0784,0.41880341880341876,2.2467994570998857
+Investment,Savings Account + Time Deposit,0.0784,0.41880341880341876,2.2467994570998857
+Mobile Banking + Savings Account + Time Deposit,Investment,0.0532,0.41304347826086957,2.2064288368636196
+Mobile Banking + Time Deposit,Investment + Savings Account,0.0532,0.41304347826086957,2.2064288368636196
+Mobile Banking + Time Deposit,Investment,0.0532,0.41304347826086957,2.2064288368636196
+Investment + Savings Account,Mobile Banking + Time Deposit,0.0532,0.2841880341880342,2.2064288368636196
+Investment,Mobile Banking + Savings Account + Time Deposit,0.0532,0.2841880341880342,2.2064288368636196
+Investment,Mobile Banking + Time Deposit,0.0532,0.2841880341880342,2.2064288368636196
+Investment + Mobile Banking + Savings Account,Time Deposit,0.0532,0.40548780487804875,2.175363760075369
+Investment + Mobile Banking,Savings Account + Time Deposit,0.0532,0.40548780487804875,2.175363760075369
+Investment + Mobile Banking,Time Deposit,0.0532,0.40548780487804875,2.175363760075369
+Savings Account + Time Deposit,Investment + Mobile Banking,0.0532,0.2854077253218884,2.175363760075369
+Time Deposit,Investment + Mobile Banking + Savings Account,0.0532,0.2854077253218884,2.175363760075369
+Time Deposit,Investment + Mobile Banking,0.0532,0.2854077253218884,2.175363760075369
+Debit Card + Investment,Time Deposit,0.054,0.39705882352941174,2.1301439030547837
+Debit Card + Investment + Savings Account,Time Deposit,0.054,0.39705882352941174,2.1301439030547837
+Debit Card + Investment,Savings Account + Time Deposit,0.054,0.39705882352941174,2.1301439030547837
+Time Deposit,Debit Card + Investment,0.054,0.2896995708154506,2.1301439030547837
+Savings Account + Time Deposit,Debit Card + Investment,0.054,0.2896995708154506,2.1301439030547837
+Time Deposit,Debit Card + Investment + Savings Account,0.054,0.2896995708154506,2.1301439030547837
+Debit Card + Time Deposit,Investment,0.054,0.39705882352941174,2.1210407239819005
+Debit Card + Savings Account + Time Deposit,Investment,0.054,0.39705882352941174,2.1210407239819005
+Debit Card + Time Deposit,Investment + Savings Account,0.054,0.39705882352941174,2.1210407239819005
+Investment,Debit Card + Time Deposit,0.054,0.28846153846153844,2.1210407239819
+Investment + Savings Account,Debit Card + Time Deposit,0.054,0.28846153846153844,2.1210407239819
+Investment,Debit Card + Savings Account + Time Deposit,0.054,0.28846153846153844,2.1210407239819
+Investment,Insurance,0.0656,0.35042735042735046,1.6655292320691562
+Investment + Savings Account,Insurance,0.0656,0.35042735042735046,1.6655292320691562
+Investment,Insurance + Savings Account,0.0656,0.35042735042735046,1.6655292320691562
+Insurance,Investment,0.0656,0.311787072243346,1.665529232069156
+Insurance + Savings Account,Investment,0.0656,0.311787072243346,1.665529232069156
+Insurance,Investment + Savings Account,0.0656,0.311787072243346,1.665529232069156
+Savings Account + Time Deposit,Insurance,0.0616,0.33047210300429186,1.5706849002105125
+Time Deposit,Insurance + Savings Account,0.0616,0.33047210300429186,1.5706849002105125
+Time Deposit,Insurance,0.0616,0.33047210300429186,1.5706849002105125
+Insurance + Savings Account,Time Deposit,0.0616,0.29277566539923955,1.5706849002105125
+Insurance,Savings Account + Time Deposit,0.0616,0.29277566539923955,1.5706849002105125
+Insurance,Time Deposit,0.0616,0.29277566539923955,1.5706849002105125
+Credit Card + Debit Card + Mobile Banking,Personal Loan,0.092,0.3745928338762215,1.522735097057811
+Credit Card + Debit Card + Mobile Banking + Savings Account,Personal Loan,0.092,0.3745928338762215,1.522735097057811
+Credit Card + Debit Card + Mobile Banking,Personal Loan + Savings Account,0.092,0.3745928338762215,1.522735097057811
+Personal Loan,Credit Card + Debit Card + Mobile Banking,0.092,0.37398373983739835,1.5227350970578108
+Personal Loan + Savings Account,Credit Card + Debit Card + Mobile Banking,0.092,0.37398373983739835,1.5227350970578108
+Personal Loan,Credit Card + Debit Card + Mobile Banking + Savings Account,0.092,0.37398373983739835,1.5227350970578108
+Personal Loan,Credit Card + Debit Card,0.1352,0.5495934959349593,1.5098722415795587
+Personal Loan + Savings Account,Credit Card + Debit Card,0.1352,0.5495934959349593,1.5098722415795587
+Personal Loan,Credit Card + Debit Card + Savings Account,0.1352,0.5495934959349593,1.5098722415795587
+Credit Card + Debit Card,Personal Loan,0.1352,0.3714285714285714,1.5098722415795585
+Credit Card + Debit Card + Savings Account,Personal Loan,0.1352,0.3714285714285714,1.5098722415795585
+Credit Card + Debit Card,Personal Loan + Savings Account,0.1352,0.3714285714285714,1.5098722415795585
+Mobile Banking + Personal Loan,Credit Card + Debit Card,0.092,0.5463182897862233,1.5008744224896247
+Mobile Banking + Personal Loan + Savings Account,Credit Card + Debit Card,0.092,0.5463182897862233,1.5008744224896247
+Mobile Banking + Personal Loan,Credit Card + Debit Card + Savings Account,0.092,0.5463182897862233,1.5008744224896247
+Credit Card + Debit Card,Mobile Banking + Personal Loan,0.092,0.25274725274725274,1.5008744224896244
+Credit Card + Debit Card + Savings Account,Mobile Banking + Personal Loan,0.092,0.25274725274725274,1.5008744224896244
+Credit Card + Debit Card,Mobile Banking + Personal Loan + Savings Account,0.092,0.25274725274725274,1.5008744224896244
+Debit Card + Personal Loan,Credit Card,0.1352,0.6614481409001957,1.4097360206739038
+Debit Card + Personal Loan + Savings Account,Credit Card,0.1352,0.6614481409001957,1.4097360206739038
+Debit Card + Personal Loan,Credit Card + Savings Account,0.1352,0.6614481409001957,1.4097360206739038
+Credit Card,Debit Card + Personal Loan,0.1352,0.2881500426257459,1.4097360206739036
+Credit Card + Savings Account,Debit Card + Personal Loan,0.1352,0.2881500426257459,1.4097360206739036
+Credit Card,Debit Card + Personal Loan + Savings Account,0.1352,0.2881500426257459,1.4097360206739036
+Debit Card + Mobile Banking + Personal Loan,Credit Card,0.092,0.6552706552706553,1.3965700240210044
+Debit Card + Mobile Banking + Personal Loan + Savings Account,Credit Card,0.092,0.6552706552706553,1.3965700240210044
+Debit Card + Mobile Banking + Personal Loan,Credit Card + Savings Account,0.092,0.6552706552706553,1.3965700240210044
+Credit Card,Debit Card + Mobile Banking + Personal Loan,0.092,0.19607843137254902,1.3965700240210044
+Credit Card + Savings Account,Debit Card + Mobile Banking + Personal Loan,0.092,0.19607843137254902,1.3965700240210044
+Credit Card,Debit Card + Mobile Banking + Personal Loan + Savings Account,0.092,0.19607843137254902,1.3965700240210044
+Debit Card + Personal Loan,Credit Card + Mobile Banking,0.092,0.4500978473581213,1.3891908869077818
+Debit Card + Personal Loan + Savings Account,Credit Card + Mobile Banking,0.092,0.4500978473581213,1.3891908869077818
+Debit Card + Personal Loan,Credit Card + Mobile Banking + Savings Account,0.092,0.4500978473581213,1.3891908869077818
+Credit Card + Mobile Banking,Debit Card + Personal Loan,0.092,0.2839506172839506,1.3891908869077818
+Credit Card + Mobile Banking + Savings Account,Debit Card + Personal Loan,0.092,0.2839506172839506,1.3891908869077818
+Credit Card + Mobile Banking,Debit Card + Personal Loan + Savings Account,0.092,0.2839506172839506,1.3891908869077818
+Mobile Banking + Personal Loan + Savings Account,Credit Card,0.1096,0.65083135391924,1.3871085974408355
+Mobile Banking + Personal Loan,Credit Card + Savings Account,0.1096,0.65083135391924,1.3871085974408355
+Mobile Banking + Personal Loan,Credit Card,0.1096,0.65083135391924,1.3871085974408355
+Credit Card + Savings Account,Mobile Banking + Personal Loan,0.1096,0.23358908780903667,1.3871085974408355
+Credit Card,Mobile Banking + Personal Loan + Savings Account,0.1096,0.23358908780903667,1.3871085974408355
+Credit Card,Mobile Banking + Personal Loan,0.1096,0.23358908780903667,1.3871085974408355
+Personal Loan,Credit Card,0.16,0.6504065040650406,1.386203120343224
+Personal Loan + Savings Account,Credit Card,0.16,0.6504065040650406,1.386203120343224
+Personal Loan,Credit Card + Savings Account,0.16,0.6504065040650406,1.386203120343224
+Credit Card,Personal Loan,0.16,0.3410059676044331,1.386203120343224
+Credit Card + Savings Account,Personal Loan,0.16,0.3410059676044331,1.386203120343224
+Credit Card,Personal Loan + Savings Account,0.16,0.3410059676044331,1.386203120343224
+Personal Loan + Savings Account,Credit Card + Mobile Banking,0.1096,0.44552845528455287,1.3750878249523237
+Personal Loan,Credit Card + Mobile Banking + Savings Account,0.1096,0.44552845528455287,1.3750878249523237
+Personal Loan,Credit Card + Mobile Banking,0.1096,0.44552845528455287,1.3750878249523237
+Credit Card + Mobile Banking + Savings Account,Personal Loan,0.1096,0.33827160493827163,1.3750878249523237
+Credit Card + Mobile Banking,Personal Loan + Savings Account,0.1096,0.33827160493827163,1.3750878249523237
+Credit Card + Mobile Banking,Personal Loan,0.1096,0.33827160493827163,1.3750878249523237
+Personal Loan,Mortgage,0.0508,0.20650406504065041,1.3271469475620208
+Personal Loan + Savings Account,Mortgage,0.0508,0.20650406504065041,1.3271469475620208
+Personal Loan,Mortgage + Savings Account,0.0508,0.20650406504065041,1.3271469475620208
+Mortgage,Personal Loan,0.0508,0.3264781491002571,1.3271469475620206
+Mortgage + Savings Account,Personal Loan,0.0508,0.3264781491002571,1.3271469475620206
+Mortgage,Personal Loan + Savings Account,0.0508,0.3264781491002571,1.3271469475620206
+Debit Card + Mortgage + Savings Account,Credit Card,0.0712,0.6013513513513513,1.281652496486256
+Debit Card + Mortgage,Credit Card + Savings Account,0.0712,0.6013513513513513,1.281652496486256
+Debit Card + Mortgage,Credit Card,0.0712,0.6013513513513513,1.281652496486256
+Credit Card + Savings Account,Debit Card + Mortgage,0.0712,0.1517476555839727,1.281652496486256
+Credit Card,Debit Card + Mortgage + Savings Account,0.0712,0.1517476555839727,1.281652496486256
+Credit Card,Debit Card + Mortgage,0.0712,0.1517476555839727,1.281652496486256
+Mortgage + Savings Account,Credit Card + Debit Card,0.0712,0.45758354755784064,1.2570976581259359
+Mortgage,Credit Card + Debit Card + Savings Account,0.0712,0.45758354755784064,1.2570976581259359
+Mortgage,Credit Card + Debit Card,0.0712,0.45758354755784064,1.2570976581259359
+Credit Card + Debit Card + Savings Account,Mortgage,0.0712,0.1956043956043956,1.2570976581259359
+Credit Card + Debit Card,Mortgage + Savings Account,0.0712,0.1956043956043956,1.2570976581259359
+Credit Card + Debit Card,Mortgage,0.0712,0.1956043956043956,1.2570976581259359
+Mortgage + Savings Account,Credit Card,0.0876,0.5629820051413882,1.1998763962945187
+Mortgage,Credit Card + Savings Account,0.0876,0.5629820051413882,1.1998763962945187
+Mortgage,Credit Card,0.0876,0.5629820051413882,1.1998763962945187
+Credit Card + Savings Account,Mortgage,0.0876,0.1867007672634271,1.1998763962945187
+Credit Card,Mortgage + Savings Account,0.0876,0.1867007672634271,1.1998763962945187
+Credit Card,Mortgage,0.0876,0.1867007672634271,1.1998763962945187
+Debit Card + Investment + Savings Account,Credit Card,0.074,0.5441176470588235,1.1596710295371344
+Debit Card + Investment,Credit Card + Savings Account,0.074,0.5441176470588235,1.1596710295371344
+Debit Card + Investment,Credit Card,0.074,0.5441176470588235,1.1596710295371344
+Credit Card + Savings Account,Debit Card + Investment,0.074,0.1577152600170503,1.1596710295371344
+Credit Card,Debit Card + Investment + Savings Account,0.074,0.1577152600170503,1.1596710295371344
+Credit Card,Debit Card + Investment,0.074,0.1577152600170503,1.1596710295371344
+Mobile Banking + Mortgage + Savings Account,Credit Card,0.0576,0.5433962264150943,1.1581334748829801
+Mobile Banking + Mortgage,Credit Card + Savings Account,0.0576,0.5433962264150943,1.1581334748829801
+Mobile Banking + Mortgage,Credit Card,0.0576,0.5433962264150943,1.1581334748829801
+Credit Card + Savings Account,Mobile Banking + Mortgage,0.0576,0.1227621483375959,1.1581334748829801
+Credit Card,Mobile Banking + Mortgage + Savings Account,0.0576,0.1227621483375959,1.1581334748829801
+Credit Card,Mobile Banking + Mortgage,0.0576,0.1227621483375959,1.1581334748829801
+Mortgage + Savings Account,Credit Card + Mobile Banking,0.0576,0.37017994858611825,1.1425307055127105
+Mortgage,Credit Card + Mobile Banking + Savings Account,0.0576,0.37017994858611825,1.1425307055127105
+Mortgage,Credit Card + Mobile Banking,0.0576,0.37017994858611825,1.1425307055127105
+Credit Card + Mobile Banking + Savings Account,Mortgage,0.0576,0.17777777777777776,1.1425307055127105
+Credit Card + Mobile Banking,Mortgage + Savings Account,0.0576,0.17777777777777776,1.1425307055127105
+Credit Card + Mobile Banking,Mortgage,0.0576,0.17777777777777776,1.1425307055127105
+Debit Card + Insurance,Credit Card + Mobile Banking,0.058,0.3670886075949367,1.1329895296140022
+Debit Card + Insurance + Savings Account,Credit Card + Mobile Banking,0.058,0.3670886075949367,1.1329895296140022
+Debit Card + Insurance,Credit Card + Mobile Banking + Savings Account,0.058,0.3670886075949367,1.1329895296140022
+Credit Card + Mobile Banking,Debit Card + Insurance,0.058,0.17901234567901234,1.132989529614002
+Credit Card + Mobile Banking + Savings Account,Debit Card + Insurance,0.058,0.17901234567901234,1.132989529614002
+Credit Card + Mobile Banking,Debit Card + Insurance + Savings Account,0.058,0.17901234567901234,1.132989529614002
+Debit Card + Insurance + Mobile Banking,Credit Card,0.058,0.5311355311355311,1.1320024107747892
+Debit Card + Insurance + Mobile Banking + Savings Account,Credit Card,0.058,0.5311355311355311,1.1320024107747892
+Debit Card + Insurance + Mobile Banking,Credit Card + Savings Account,0.058,0.5311355311355311,1.1320024107747892
+Credit Card,Debit Card + Insurance + Mobile Banking,0.058,0.123614663256607,1.1320024107747892
+Credit Card + Savings Account,Debit Card + Insurance + Mobile Banking,0.058,0.123614663256607,1.1320024107747892
+Credit Card,Debit Card + Insurance + Mobile Banking + Savings Account,0.058,0.123614663256607,1.1320024107747892
+Savings Account + Time Deposit,Credit Card,0.0988,0.5300429184549356,1.1296737392475182
+Time Deposit,Credit Card + Savings Account,0.0988,0.5300429184549356,1.1296737392475182
+Time Deposit,Credit Card,0.0988,0.5300429184549356,1.1296737392475182
+Credit Card + Savings Account,Time Deposit,0.0988,0.21057118499573743,1.1296737392475182
+Credit Card,Savings Account + Time Deposit,0.0988,0.21057118499573743,1.1296737392475182
+Credit Card,Time Deposit,0.0988,0.21057118499573743,1.1296737392475182
+Debit Card + Time Deposit,Credit Card,0.072,0.5294117647058822,1.1283285692793739
+Debit Card + Savings Account + Time Deposit,Credit Card,0.072,0.5294117647058822,1.1283285692793739
+Debit Card + Time Deposit,Credit Card + Savings Account,0.072,0.5294117647058822,1.1283285692793739
+Credit Card,Debit Card + Time Deposit,0.072,0.15345268542199486,1.1283285692793739
+Credit Card + Savings Account,Debit Card + Time Deposit,0.072,0.15345268542199486,1.1283285692793739
+Credit Card,Debit Card + Savings Account + Time Deposit,0.072,0.15345268542199486,1.1283285692793739
+Debit Card + E-Wallet,Mobile Banking,0.2176,0.7661971830985915,1.1227977477998117
+Debit Card + E-Wallet + Savings Account,Mobile Banking,0.2176,0.7661971830985915,1.1227977477998117
+Debit Card + E-Wallet,Mobile Banking + Savings Account,0.2176,0.7661971830985915,1.1227977477998117
+Mobile Banking,Debit Card + E-Wallet,0.2176,0.3188745603751465,1.1227977477998117
+Mobile Banking + Savings Account,Debit Card + E-Wallet,0.2176,0.3188745603751465,1.1227977477998117
+Mobile Banking,Debit Card + E-Wallet + Savings Account,0.2176,0.3188745603751465,1.1227977477998117
+Insurance,Credit Card + Debit Card + Mobile Banking,0.058,0.27566539923954375,1.1224161206821814
+Insurance + Savings Account,Credit Card + Debit Card + Mobile Banking,0.058,0.27566539923954375,1.1224161206821814
+Insurance,Credit Card + Debit Card + Mobile Banking + Savings Account,0.058,0.27566539923954375,1.1224161206821814
+Credit Card + Debit Card + Mobile Banking,Insurance,0.058,0.23615635179153094,1.1224161206821812
+Credit Card + Debit Card + Mobile Banking + Savings Account,Insurance,0.058,0.23615635179153094,1.1224161206821812
+Credit Card + Debit Card + Mobile Banking,Insurance + Savings Account,0.058,0.23615635179153094,1.1224161206821812
+E-Wallet + Savings Account,Mobile Banking,0.2876,0.7648936170212767,1.120887480980769
+E-Wallet,Mobile Banking + Savings Account,0.2876,0.7648936170212767,1.120887480980769
+E-Wallet,Mobile Banking,0.2876,0.7648936170212767,1.120887480980769
+Mobile Banking + Savings Account,E-Wallet,0.2876,0.4214536928487691,1.120887480980769
+Mobile Banking,E-Wallet + Savings Account,0.2876,0.4214536928487691,1.120887480980769
+Mobile Banking,E-Wallet,0.2876,0.4214536928487691,1.120887480980769
+E-Wallet,Debit Card + Mobile Banking,0.2176,0.5787234042553191,1.1172266491415426
+E-Wallet + Savings Account,Debit Card + Mobile Banking,0.2176,0.5787234042553191,1.1172266491415426
+E-Wallet,Debit Card + Mobile Banking + Savings Account,0.2176,0.5787234042553191,1.1172266491415426
+Debit Card + Mobile Banking,E-Wallet,0.2176,0.42007722007722004,1.1172266491415426
+Debit Card + Mobile Banking + Savings Account,E-Wallet,0.2176,0.42007722007722004,1.1172266491415426
+Debit Card + Mobile Banking,E-Wallet + Savings Account,0.2176,0.42007722007722004,1.1172266491415426
+Investment + Savings Account,Credit Card,0.098,0.5235042735042735,1.1157380083211286
+Investment,Credit Card + Savings Account,0.098,0.5235042735042735,1.1157380083211286
+Investment,Credit Card,0.098,0.5235042735042735,1.1157380083211286
+Credit Card + Savings Account,Investment,0.098,0.20886615515771526,1.1157380083211286
+Credit Card,Investment + Savings Account,0.098,0.20886615515771526,1.1157380083211286
+Credit Card,Investment,0.098,0.20886615515771526,1.1157380083211286
+Credit Card,Insurance + Mobile Banking,0.076,0.16197783461210571,1.1155498251522433
+Credit Card + Savings Account,Insurance + Mobile Banking,0.076,0.16197783461210571,1.1155498251522433
+Credit Card,Insurance + Mobile Banking + Savings Account,0.076,0.16197783461210571,1.1155498251522433
+Insurance + Mobile Banking,Credit Card,0.076,0.5234159779614325,1.115549825152243
+Insurance + Mobile Banking + Savings Account,Credit Card,0.076,0.5234159779614325,1.115549825152243
+Insurance + Mobile Banking,Credit Card + Savings Account,0.076,0.5234159779614325,1.115549825152243
+Insurance,Credit Card + Mobile Banking,0.076,0.3612167300380228,1.1148664507346382
+Insurance + Savings Account,Credit Card + Mobile Banking,0.076,0.3612167300380228,1.1148664507346382
+Insurance,Credit Card + Mobile Banking + Savings Account,0.076,0.3612167300380228,1.1148664507346382
+Credit Card + Mobile Banking,Insurance,0.076,0.2345679012345679,1.1148664507346382
+Credit Card + Mobile Banking + Savings Account,Insurance,0.076,0.2345679012345679,1.1148664507346382
+Credit Card + Mobile Banking,Insurance + Savings Account,0.076,0.2345679012345679,1.1148664507346382
+Credit Card + Personal Loan,Debit Card + Mobile Banking,0.092,0.575,1.11003861003861
+Credit Card + Personal Loan + Savings Account,Debit Card + Mobile Banking,0.092,0.575,1.11003861003861
+Credit Card + Personal Loan,Debit Card + Mobile Banking + Savings Account,0.092,0.575,1.11003861003861
+Debit Card + Mobile Banking,Credit Card + Personal Loan,0.092,0.17760617760617758,1.11003861003861
+Debit Card + Mobile Banking + Savings Account,Credit Card + Personal Loan,0.092,0.17760617760617758,1.11003861003861
+Debit Card + Mobile Banking,Credit Card + Personal Loan + Savings Account,0.092,0.17760617760617758,1.11003861003861
+Debit Card + Insurance + Savings Account,Credit Card,0.082,0.5189873417721519,1.1061111290966579
+Debit Card + Insurance,Credit Card + Savings Account,0.082,0.5189873417721519,1.1061111290966579
+Debit Card + Insurance,Credit Card,0.082,0.5189873417721519,1.1061111290966579
+Credit Card + Savings Account,Debit Card + Insurance,0.082,0.17476555839727195,1.1061111290966579
+Credit Card,Debit Card + Insurance + Savings Account,0.082,0.17476555839727195,1.1061111290966579
+Credit Card,Debit Card + Insurance,0.082,0.17476555839727195,1.1061111290966579
+Personal Loan,Debit Card + Mobile Banking,0.1404,0.5707317073170731,1.1017986627742724
+Personal Loan + Savings Account,Debit Card + Mobile Banking,0.1404,0.5707317073170731,1.1017986627742724
+Personal Loan,Debit Card + Mobile Banking + Savings Account,0.1404,0.5707317073170731,1.1017986627742724
+Debit Card + Mobile Banking,Personal Loan,0.1404,0.27104247104247103,1.1017986627742724
+Debit Card + Mobile Banking + Savings Account,Personal Loan,0.1404,0.27104247104247103,1.1017986627742724
+Debit Card + Mobile Banking,Personal Loan + Savings Account,0.1404,0.27104247104247103,1.1017986627742724
+Credit Card + E-Wallet + Savings Account,Mobile Banking,0.1296,0.7517401392111369,1.1016121617982664
+Credit Card + E-Wallet,Mobile Banking + Savings Account,0.1296,0.7517401392111369,1.1016121617982664
+Credit Card + E-Wallet,Mobile Banking,0.1296,0.7517401392111369,1.1016121617982664
+Mobile Banking + Savings Account,Credit Card + E-Wallet,0.1296,0.1899179366940211,1.1016121617982662
+Mobile Banking,Credit Card + E-Wallet + Savings Account,0.1296,0.1899179366940211,1.1016121617982662
+Mobile Banking,Credit Card + E-Wallet,0.1296,0.1899179366940211,1.1016121617982662

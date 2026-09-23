@@ -1,0 +1,4 @@
+Strategy,Expected_Recovery,Cost,Net_Value
+Largest Overdue,762419532.0,27579000,734840532.0
+Greedy Recovery/Cost,503704477.0,4289000,499415477.0
+Optimization,2476658111.560027,77750000,2398908111.560027

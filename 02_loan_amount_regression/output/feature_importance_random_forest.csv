@@ -1,0 +1,19 @@
+Feature,Importance
+num__Total_Income,0.5260781657430617
+num__Credit_Score,0.10238767987005616
+num__Employment_Years,0.0750529537177267
+num__Loan_Term_Months,0.07455708944008081
+num__Annual_Income,0.04693535711925358
+num__Income_per_Employment_Year,0.04334230749663577
+num__Coapplicant_Income,0.0427916836827603
+num__Age,0.040979924384134676
+num__Existing_Loans,0.012078349051799133
+cat__Property_Area_Urban,0.006449123144557869
+cat__Property_Area_Semiurban,0.005224147015101307
+cat__Property_Area_Rural,0.004799675250122764
+cat__Gender_Male,0.0037528370467360644
+cat__Gender_Female,0.0035466397579290497
+cat__Education_Not Graduate,0.0031958256315708037
+cat__Education_Graduate,0.003046802644552018
+cat__Married_Yes,0.0029305324578358886
+cat__Married_No,0.0028509065460855677
