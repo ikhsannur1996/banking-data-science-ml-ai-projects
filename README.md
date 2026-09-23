@@ -270,6 +270,7 @@ The model then asks: *does this transaction network show a fraud pattern?* This 
 
 - Python 3.10 or newer (the notebooks in this repository were executed on Python 3.14)
 - Jupyter Lab or Jupyter Notebook
+- **Computer-vision project (09) only:** Python 3.11/3.12 with TensorFlow — TensorFlow does not yet publish wheels for Python 3.14. A dedicated conda env works well: `conda create -y -n tf312 python=3.12 && conda run -n tf312 pip install tensorflow pandas numpy matplotlib seaborn scikit-learn pillow jupyterlab` (then run that notebook with `conda run -n tf312 jupyter lab`, or execute it headless via the included `run_all_notebooks.sh`, which switches to the `tf312` env automatically).
 
 ### 1. Create an environment
 
